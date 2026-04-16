@@ -3,11 +3,14 @@ export default {
     const url = new URL(request.url);
     const q = url.searchParams.get("q");
 
-    if (!q) return new Response("[]");
+    if (!q) return Response.json([]);
+
+    const auth = btoa(`${env.ES_USER}:${env.ES_PASS}`);
 
     const es = await fetch(`${env.ES_URL}/games/_search`, {
       method: "POST",
       headers: {
+        Authorization: `Basic ${auth}`,
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
@@ -24,7 +27,6 @@ export default {
     });
 
     const json = await es.json();
-
     const results = json.hits.hits.map((h) => h._source.name);
 
     return Response.json(results);
