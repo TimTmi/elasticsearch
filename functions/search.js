@@ -8,7 +8,6 @@ export default {
     const es = await fetch(`${env.ES_URL}/products/_search`, {
       method: "POST",
       headers: {
-        Authorization: `Basic ${env.ES_AUTH}`,
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
