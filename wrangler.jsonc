@@ -1,14 +1,9 @@
 {
-  "$schema": "node_modules/wrangler/config-schema.json",
   "name": "elasticsearch",
   "compatibility_date": "2026-04-16",
-  "observability": {
-    "enabled": true
-  },
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "functions/search.js",
   "assets": {
-    "directory": "public"
+    "directory": "./public",
   },
-  "compatibility_flags": [
-    "nodejs_compat"
-  ]
 }
