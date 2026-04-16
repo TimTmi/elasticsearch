@@ -1,13 +1,22 @@
 import fs from "fs";
 
 const ES_URL = process.env.ES_URL;
+const ES_USER = process.env.ES_USER;
+const ES_PASS = process.env.ES_PASS;
+
+const auth = Buffer.from(`${ES_USER}:${ES_PASS}`).toString("base64");
+
+const headers = {
+  "Content-Type": "application/json",
+  Authorization: `Basic ${auth}`,
+};
 
 const games = JSON.parse(fs.readFileSync("./games.json"));
 
 async function createIndex() {
   await fetch(`${ES_URL}/games`, {
     method: "PUT",
-    headers: { "Content-Type": "application/json" },
+    headers,
     body: JSON.stringify({
       mappings: {
         properties: {
@@ -32,7 +41,10 @@ async function bulkInsert() {
 
   await fetch(`${ES_URL}/_bulk`, {
     method: "POST",
-    headers: { "Content-Type": "application/x-ndjson" },
+    headers: {
+      Authorization: `Basic ${auth}`,
+      "Content-Type": "application/x-ndjson",
+    },
     body,
   });
 }
