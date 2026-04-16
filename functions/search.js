@@ -5,7 +5,7 @@ export default {
 
     if (!q) return new Response("[]");
 
-    const es = await fetch(`${env.ES_URL}/products/_search`, {
+    const es = await fetch(`${env.ES_URL}/games/_search`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
