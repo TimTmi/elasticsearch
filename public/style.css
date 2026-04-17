@@ -9,11 +9,16 @@ body {
     align-items: center;
 }
 
-#search {
+.search-box {
+    position: relative;
     margin-top: 80px;
-
     width: 600px;
     max-width: 90vw;
+}
+
+#search,
+#ghost {
+    width: 100%;
 
     font-size: 20px;
     padding: 16px 22px;
@@ -22,9 +27,28 @@ body {
     border: 1px solid #2a2f3a;
 
     background: #1a1d24;
-    color: #fff;
 
     outline: none;
+    box-sizing: border-box;
+}
+
+#search {
+    position: relative;
+    z-index: 2;
+    color: #fff;
+    background: transparent;
+    caret-color: #fff;
+}
+
+#ghost {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    z-index: 1;
+
+    color: #6b7280;
+    pointer-events: none;
 }
 
 #search:focus {

@@ -5,7 +5,11 @@
         <link rel="stylesheet" href="style.css" />
     </head>
     <body>
-        <input id="search" placeholder="Search..." autocomplete="off" />
+        <div class="search-box">
+            <input id="search" autocomplete="off" />
+            <input id="ghost" disabled />
+        </div>
+
         <ul id="results"></ul>
 
         <script src="app.js"></script>
