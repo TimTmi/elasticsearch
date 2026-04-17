@@ -1,6 +1,16 @@
-export async function onRequest(context) {
-  const { request, env } = context;
+export default {
+  async fetch(request, env) {
+    const url = new URL(request.url);
 
+    if (url.pathname === "/api/search") {
+      return search(request, env);
+    }
+
+    return env.ASSETS.fetch(request);
+  },
+};
+
+async function search(request, env) {
   const url = new URL(request.url);
   const q = url.searchParams.get("q");
 
