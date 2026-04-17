@@ -2,7 +2,6 @@
   "name": "elasticsearch",
   "compatibility_date": "2026-04-16",
   "compatibility_flags": ["nodejs_compat"],
-  "main": "functions/search.js",
   "assets": {
     "directory": "./public",
   },
