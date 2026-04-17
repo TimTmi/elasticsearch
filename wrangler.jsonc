@@ -1,8 +1,0 @@
-{
-  "name": "elasticsearch",
-  "compatibility_date": "2026-04-16",
-  "compatibility_flags": ["nodejs_compat"],
-  "assets": {
-    "directory": "./public"
-  },
-}
