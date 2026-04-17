@@ -1,34 +1,34 @@
-export default {
-  async fetch(request, env) {
-    const url = new URL(request.url);
-    const q = url.searchParams.get("q");
+export async function onRequest(context) {
+  const { request, env } = context;
 
-    if (!q) return Response.json([]);
+  const url = new URL(request.url);
+  const q = url.searchParams.get("q");
 
-    const auth = btoa(`${env.ES_USER}:${env.ES_PASS}`);
+  if (!q) return Response.json([]);
 
-    const es = await fetch(`${env.ES_URL}/games/_search`, {
-      method: "POST",
-      headers: {
-        Authorization: `Basic ${auth}`,
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        size: 5,
-        query: {
-          match: {
-            name: {
-              query: q,
-              fuzziness: "AUTO",
-            },
+  const auth = btoa(`${env.ES_USER}:${env.ES_PASS}`);
+
+  const es = await fetch(`${env.ES_URL}/games/_search`, {
+    method: "POST",
+    headers: {
+      Authorization: `Basic ${auth}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      size: 5,
+      query: {
+        match: {
+          name: {
+            query: q,
+            fuzziness: "AUTO",
           },
         },
-      }),
-    });
+      },
+    }),
+  });
 
-    const json = await es.json();
-    const results = json.hits.hits.map((h) => h._source.name);
+  const json = await es.json();
+  const results = json.hits.hits.map((h) => h._source.name);
 
-    return Response.json(results);
-  },
-};
+  return Response.json(results);
+}
