@@ -3,11 +3,15 @@ const ghost = document.getElementById("ghost");
 const results = document.getElementById("results");
 
 let timer;
+let controller;
 
 input.addEventListener("input", () => {
   clearTimeout(timer);
 
-  const q = input.value;
+  if (controller) controller.abort();
+  controller = new AbortController();
+
+  const q = input.value.trim();
 
   if (!q) {
     results.innerHTML = "";
@@ -16,17 +20,29 @@ input.addEventListener("input", () => {
   }
 
   timer = setTimeout(async () => {
-    const res = await fetch(`/api/search?q=${encodeURIComponent(q)}`);
-    const data = await res.json();
+    try {
+      const res = await fetch(`/api/search?q=${encodeURIComponent(q)}`, {
+        signal: controller.signal,
+      });
 
-    results.innerHTML = data.map((r) => `<li>${r}</li>`).join("");
+      const data = await res.json();
 
-    const first = data[0];
+      results.innerHTML = "";
+      data.forEach((r) => {
+        const li = document.createElement("li");
+        li.textContent = r;
+        results.appendChild(li);
+      });
 
-    if (first && first.toLowerCase().startsWith(q.toLowerCase())) {
-      ghost.value = q + first.slice(q.length);
-    } else {
-      ghost.value = "";
+      const first = data[0];
+
+      if (first && first.toLowerCase().startsWith(q.toLowerCase())) {
+        ghost.value = q + first.slice(q.length);
+      } else {
+        ghost.value = "";
+      }
+    } catch (err) {
+      if (err.name !== "AbortError") console.error(err);
     }
   }, 150);
 });
@@ -36,6 +52,7 @@ input.addEventListener("keydown", (e) => {
     e.preventDefault();
     input.value = ghost.value;
     ghost.value = "";
+    results.innerHTML = "";
   }
 });
 
