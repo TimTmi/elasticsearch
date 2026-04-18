@@ -1,102 +1,5002 @@
 [
-  { "name": "Elden Ring", "genre": "RPG", "year": 2022 },
-  { "name": "Minecraft", "genre": "Sandbox", "year": 2011 },
-  { "name": "Hades", "genre": "Roguelike", "year": 2020 },
-  { "name": "Portal 2", "genre": "Puzzle", "year": 2011 },
-  { "name": "The Legend of Zelda: Breath of the Wild", "genre": "Action-Adventure", "year": 2017 },
-  { "name": "The Witcher 3: Wild Hunt", "genre": "RPG", "year": 2015 },
-  { "name": "Red Dead Redemption 2", "genre": "Action-Adventure", "year": 2018 },
-  { "name": "Baldur's Gate 3", "genre": "RPG", "year": 2023 },
-  { "name": "God of War (2018)", "genre": "Action-Adventure", "year": 2018 },
-  { "name": "God of War Ragnarök", "genre": "Action-Adventure", "year": 2022 },
-  { "name": "Cyberpunk 2077", "genre": "RPG", "year": 2020 },
-  { "name": "Grand Theft Auto V", "genre": "Action-Adventure", "year": 2013 },
-  { "name": "Stardew Valley", "genre": "Simulation", "year": 2016 },
-  { "name": "Hollow Knight", "genre": "Metroidvania", "year": 2017 },
-  { "name": "Celeste", "genre": "Platformer", "year": 2018 },
-  { "name": "Sekiro: Shadows Die Twice", "genre": "Action", "year": 2019 },
-  { "name": "Bloodborne", "genre": "Action-RPG", "year": 2015 },
-  { "name": "Dark Souls III", "genre": "RPG", "year": 2016 },
-  { "name": "Dark Souls", "genre": "RPG", "year": 2011 },
-  { "name": "Persona 5 Royal", "genre": "RPG", "year": 2019 },
-  { "name": "Final Fantasy VII Remake", "genre": "RPG", "year": 2020 },
-  { "name": "Super Mario Odyssey", "genre": "Platformer", "year": 2017 },
-  { "name": "Mario Kart 8 Deluxe", "genre": "Racing", "year": 2017 },
-  { "name": "Animal Crossing: New Horizons", "genre": "Simulation", "year": 2020 },
-  { "name": "Disco Elysium", "genre": "RPG", "year": 2019 },
-  { "name": "Outer Wilds", "genre": "Exploration", "year": 2019 },
-  { "name": "Returnal", "genre": "Roguelike", "year": 2021 },
-  { "name": "Deathloop", "genre": "Shooter", "year": 2021 },
-  { "name": "Ratchet & Clank: Rift Apart", "genre": "Platformer", "year": 2021 },
-  { "name": "Horizon Forbidden West", "genre": "Action-Adventure", "year": 2022 },
-  { "name": "Ghost of Tsushima", "genre": "Action-Adventure", "year": 2020 },
-  { "name": "Marvel's Spider-Man", "genre": "Action-Adventure", "year": 2018 },
-  { "name": "Marvel's Spider-Man 2", "genre": "Action-Adventure", "year": 2023 },
-  { "name": "Resident Evil Village", "genre": "Horror", "year": 2021 },
-  { "name": "Resident Evil 4 Remake", "genre": "Horror", "year": 2023 },
-  { "name": "Dead Space (2023)", "genre": "Horror", "year": 2023 },
-  { "name": "Alan Wake 2", "genre": "Horror", "year": 2023 },
-  { "name": "Control", "genre": "Action", "year": 2019 },
-  { "name": "Doom Eternal", "genre": "Shooter", "year": 2020 },
-  { "name": "Overwatch 2", "genre": "Shooter", "year": 2022 },
-  { "name": "Valorant", "genre": "Shooter", "year": 2020 },
-  { "name": "Apex Legends", "genre": "Battle Royale", "year": 2019 },
-  { "name": "Fortnite", "genre": "Battle Royale", "year": 2017 },
-  { "name": "Call of Duty: Warzone", "genre": "Battle Royale", "year": 2020 },
-  { "name": "Destiny 2", "genre": "Shooter", "year": 2017 },
-  { "name": "Warframe", "genre": "Action-RPG", "year": 2013 },
-  { "name": "Path of Exile", "genre": "Action-RPG", "year": 2013 },
-  { "name": "Diablo IV", "genre": "Action-RPG", "year": 2023 },
-  { "name": "Monster Hunter: World", "genre": "Action-RPG", "year": 2018 },
-  { "name": "Monster Hunter Rise", "genre": "Action-RPG", "year": 2021 },
-  { "name": "It Takes Two", "genre": "Platformer", "year": 2021 },
-  { "name": "Cuphead", "genre": "Action", "year": 2017 },
-  { "name": "Ori and the Will of the Wisps", "genre": "Metroidvania", "year": 2020 },
-  { "name": "Undertale", "genre": "RPG", "year": 2015 },
-  { "name": "Deltarune", "genre": "RPG", "year": 2018 },
-  { "name": "Among Us", "genre": "Party", "year": 2018 },
-  { "name": "Fall Guys", "genre": "Party", "year": 2020 },
-  { "name": "Rocket League", "genre": "Sports", "year": 2015 },
-  { "name": "FIFA 23", "genre": "Sports", "year": 2022 },
-  { "name": "NBA 2K23", "genre": "Sports", "year": 2022 },
-  { "name": "Forza Horizon 5", "genre": "Racing", "year": 2021 },
-  { "name": "Gran Turismo 7", "genre": "Racing", "year": 2022 },
-  { "name": "Microsoft Flight Simulator", "genre": "Simulation", "year": 2020 },
-  { "name": "The Sims 4", "genre": "Simulation", "year": 2014 },
-  { "name": "Cities: Skylines", "genre": "Simulation", "year": 2015 },
-  { "name": "Civilization VI", "genre": "Strategy", "year": 2016 },
-  { "name": "Age of Empires IV", "genre": "Strategy", "year": 2021 },
-  { "name": "XCOM 2", "genre": "Strategy", "year": 2016 },
-  { "name": "StarCraft II", "genre": "Strategy", "year": 2010 },
-  { "name": "Dota 2", "genre": "MOBA", "year": 2013 },
-  { "name": "League of Legends", "genre": "MOBA", "year": 2009 },
-  { "name": "Terraria", "genre": "Sandbox", "year": 2011 },
-  { "name": "Sea of Thieves", "genre": "Action-Adventure", "year": 2018 },
-  { "name": "No Man's Sky", "genre": "Exploration", "year": 2016 },
-  { "name": "Subnautica", "genre": "Survival", "year": 2018 },
-  { "name": "Rust", "genre": "Survival", "year": 2013 },
-  { "name": "Ark: Survival Evolved", "genre": "Survival", "year": 2017 },
-  { "name": "Valheim", "genre": "Survival", "year": 2021 },
-  { "name": "Kenshi", "genre": "RPG", "year": 2018 },
-  { "name": "Factorio", "genre": "Simulation", "year": 2020 },
-  { "name": "RimWorld", "genre": "Simulation", "year": 2018 },
-  { "name": "Slay the Spire", "genre": "Roguelike", "year": 2019 },
-  { "name": "Inscryption", "genre": "Roguelike", "year": 2021 },
-  { "name": "Vampire Survivors", "genre": "Roguelike", "year": 2022 },
-  { "name": "Cult of the Lamb", "genre": "Roguelike", "year": 2022 },
-  { "name": "Dave the Diver", "genre": "Simulation", "year": 2023 },
-  { "name": "Hi-Fi RUSH", "genre": "Action", "year": 2023 },
-  { "name": "Street Fighter 6", "genre": "Fighting", "year": 2023 },
-  { "name": "Tekken 8", "genre": "Fighting", "year": 2024 },
-  { "name": "Mortal Kombat 1", "genre": "Fighting", "year": 2023 },
-  { "name": "Guilty Gear Strive", "genre": "Fighting", "year": 2021 },
-  { "name": "Dragon Ball FighterZ", "genre": "Fighting", "year": 2018 },
-  { "name": "Super Smash Bros. Ultimate", "genre": "Fighting", "year": 2018 },
-  { "name": "Metroid Dread", "genre": "Metroidvania", "year": 2021 },
-  { "name": "Pikmin 4", "genre": "Strategy", "year": 2023 },
-  { "name": "Fire Emblem Engage", "genre": "Strategy", "year": 2023 },
-  { "name": "Octopath Traveler II", "genre": "RPG", "year": 2023 },
-  { "name": "Xenoblade Chronicles 3", "genre": "RPG", "year": 2022 },
-  { "name": "Splatoon 3", "genre": "Shooter", "year": 2022 },
-  { "name": "Kirby and the Forgotten Land", "genre": "Platformer", "year": 2022 }
+  {
+    "name": "Burning Kingdom Origins",
+    "genre": "Strategy",
+    "year": 2000
+  },
+  {
+    "name": "Crimson Horizons III",
+    "genre": "Puzzle",
+    "year": 2009
+  },
+  {
+    "name": "Dark Saga Origins",
+    "genre": "RPG",
+    "year": 1993
+  },
+  {
+    "name": "Rising Dynasty II",
+    "genre": "Platformer",
+    "year": 2006
+  },
+  {
+    "name": "Forgotten Citadel Origins",
+    "genre": "Horror",
+    "year": 2020
+  },
+  {
+    "name": "Eternal Citadel Reborn",
+    "genre": "Action",
+    "year": 2015
+  },
+  {
+    "name": "Iron Horizons II",
+    "genre": "Sandbox",
+    "year": 2021
+  },
+  {
+    "name": "Forgotten Guardians Online",
+    "genre": "Puzzle",
+    "year": 2008
+  },
+  {
+    "name": "Dark Horizons Deluxe",
+    "genre": "MMO",
+    "year": 1989
+  },
+  {
+    "name": "Silent Legends",
+    "genre": "FPS",
+    "year": 1988
+  },
+  {
+    "name": "Fallen Kingdom III",
+    "genre": "FPS",
+    "year": 2014
+  },
+  {
+    "name": "Rising Chronicles Remastered",
+    "genre": "MMO",
+    "year": 2002
+  },
+  {
+    "name": "Rising Citadel II",
+    "genre": "Horror",
+    "year": 1999
+  },
+  {
+    "name": "Crimson Echoes Ultimate Edition",
+    "genre": "Roguelike",
+    "year": 2008
+  },
+  {
+    "name": "Ancient Expedition Online",
+    "genre": "Adventure",
+    "year": 2015
+  },
+  {
+    "name": "Hidden Empire III",
+    "genre": "Action",
+    "year": 2009
+  },
+  {
+    "name": "Forgotten Sanctuary Reborn",
+    "genre": "Sandbox",
+    "year": 2008
+  },
+  {
+    "name": "Dark Horizons Origins",
+    "genre": "MMO",
+    "year": 1987
+  },
+  {
+    "name": "Rising Voyage Remastered",
+    "genre": "RPG",
+    "year": 2000
+  },
+  {
+    "name": "Radiant Legends Remastered",
+    "genre": "MMO",
+    "year": 1991
+  },
+  {
+    "name": "Crimson Protocol Origins",
+    "genre": "Simulation",
+    "year": 2009
+  },
+  {
+    "name": "Iron Expedition Remastered",
+    "genre": "Strategy",
+    "year": 2023
+  },
+  {
+    "name": "Wild Rebellion Reborn",
+    "genre": "MMO",
+    "year": 1991
+  },
+  {
+    "name": "Broken Protocol Reborn",
+    "genre": "Roguelike",
+    "year": 2022
+  },
+  {
+    "name": "Neon Expedition Origins",
+    "genre": "Strategy",
+    "year": 1992
+  },
+  {
+    "name": "Final Empire IV",
+    "genre": "Simulation",
+    "year": 1990
+  },
+  {
+    "name": "Lost Citadel Reborn",
+    "genre": "Simulation",
+    "year": 2020
+  },
+  {
+    "name": "Crimson Empire Origins",
+    "genre": "Action",
+    "year": 1999
+  },
+  {
+    "name": "Golden Sanctuary Ultimate Edition",
+    "genre": "FPS",
+    "year": 1994
+  },
+  {
+    "name": "Silent Expedition Online",
+    "genre": "Strategy",
+    "year": 1996
+  },
+  {
+    "name": "Shadow Horizons Ultimate Edition",
+    "genre": "Roguelike",
+    "year": 1998
+  },
+  {
+    "name": "Burning Rebellion II",
+    "genre": "Strategy",
+    "year": 1991
+  },
+  {
+    "name": "Lost Rebellion IV",
+    "genre": "Strategy",
+    "year": 1996
+  },
+  {
+    "name": "Hidden Frontier Deluxe",
+    "genre": "Platformer",
+    "year": 1986
+  },
+  {
+    "name": "Hidden Arena",
+    "genre": "Roguelike",
+    "year": 2001
+  },
+  {
+    "name": "Broken Echoes II",
+    "genre": "Puzzle",
+    "year": 2011
+  },
+  {
+    "name": "Hidden Expedition IV",
+    "genre": "Sandbox",
+    "year": 2002
+  },
+  {
+    "name": "Fallen Legends IV",
+    "genre": "Action",
+    "year": 2013
+  },
+  {
+    "name": "Crimson Arena Reborn",
+    "genre": "Sandbox",
+    "year": 1998
+  },
+  {
+    "name": "Golden Saga Remastered",
+    "genre": "Simulation",
+    "year": 1992
+  },
+  {
+    "name": "Frozen Arena Deluxe",
+    "genre": "Horror",
+    "year": 2002
+  },
+  {
+    "name": "Burning Arena II",
+    "genre": "Survival",
+    "year": 1988
+  },
+  {
+    "name": "Final Citadel Deluxe",
+    "genre": "FPS",
+    "year": 2017
+  },
+  {
+    "name": "Fallen Horizons II",
+    "genre": "Platformer",
+    "year": 1985
+  },
+  {
+    "name": "Broken Legends Ultimate Edition",
+    "genre": "FPS",
+    "year": 2023
+  },
+  {
+    "name": "Wild Guardians Deluxe",
+    "genre": "MMO",
+    "year": 2000
+  },
+  {
+    "name": "Neon Sanctuary Remastered",
+    "genre": "Horror",
+    "year": 2012
+  },
+  {
+    "name": "Broken Outlaws II",
+    "genre": "FPS",
+    "year": 1996
+  },
+  {
+    "name": "Fallen Dynasty III",
+    "genre": "Action",
+    "year": 2020
+  },
+  {
+    "name": "Eternal Empire Deluxe",
+    "genre": "Puzzle",
+    "year": 2014
+  },
+  {
+    "name": "Crimson Frontier Reborn",
+    "genre": "Sandbox",
+    "year": 2024
+  },
+  {
+    "name": "Final Protocol Online",
+    "genre": "Adventure",
+    "year": 1991
+  },
+  {
+    "name": "Crimson Sanctuary",
+    "genre": "Action",
+    "year": 1990
+  },
+  {
+    "name": "Hidden Expedition Ultimate Edition",
+    "genre": "Adventure",
+    "year": 2021
+  },
+  {
+    "name": "Final Odyssey IV",
+    "genre": "FPS",
+    "year": 1992
+  },
+  {
+    "name": "Final Legends III",
+    "genre": "Action",
+    "year": 1993
+  },
+  {
+    "name": "Ancient Horizons IV",
+    "genre": "RPG",
+    "year": 2015
+  },
+  {
+    "name": "Frozen Echoes II",
+    "genre": "Survival",
+    "year": 1991
+  },
+  {
+    "name": "Ancient Citadel Remastered",
+    "genre": "Adventure",
+    "year": 1986
+  },
+  {
+    "name": "Eternal Protocol Origins",
+    "genre": "RPG",
+    "year": 1997
+  },
+  {
+    "name": "Fallen Echoes IV",
+    "genre": "Platformer",
+    "year": 1987
+  },
+  {
+    "name": "Lost Citadel II",
+    "genre": "Action",
+    "year": 2023
+  },
+  {
+    "name": "Radiant Saga Remastered",
+    "genre": "MMO",
+    "year": 2005
+  },
+  {
+    "name": "Broken Guardians Origins",
+    "genre": "RPG",
+    "year": 2021
+  },
+  {
+    "name": "Shadow Voyage Origins",
+    "genre": "Adventure",
+    "year": 2022
+  },
+  {
+    "name": "Ancient Legends II",
+    "genre": "Horror",
+    "year": 1998
+  },
+  {
+    "name": "Silent Saga Online",
+    "genre": "Survival",
+    "year": 2001
+  },
+  {
+    "name": "Neon Quest II",
+    "genre": "FPS",
+    "year": 1995
+  },
+  {
+    "name": "Dark Frontier Reborn",
+    "genre": "Racing",
+    "year": 2014
+  },
+  {
+    "name": "Wild Odyssey",
+    "genre": "Adventure",
+    "year": 1988
+  },
+  {
+    "name": "Dark Guardians IV",
+    "genre": "Racing",
+    "year": 2001
+  },
+  {
+    "name": "Eternal Expedition IV",
+    "genre": "MMO",
+    "year": 2021
+  },
+  {
+    "name": "Lost Echoes Origins",
+    "genre": "Horror",
+    "year": 1997
+  },
+  {
+    "name": "Wild Voyage Reborn",
+    "genre": "Strategy",
+    "year": 1986
+  },
+  {
+    "name": "Dark Frontier IV",
+    "genre": "Survival",
+    "year": 2020
+  },
+  {
+    "name": "Hidden Empire II",
+    "genre": "Horror",
+    "year": 2009
+  },
+  {
+    "name": "Golden Echoes Deluxe",
+    "genre": "Strategy",
+    "year": 1992
+  },
+  {
+    "name": "Eternal Odyssey IV",
+    "genre": "Strategy",
+    "year": 2018
+  },
+  {
+    "name": "Hidden Outlaws IV",
+    "genre": "Survival",
+    "year": 2021
+  },
+  {
+    "name": "Eternal Sanctuary III",
+    "genre": "Action",
+    "year": 2012
+  },
+  {
+    "name": "Hidden Arena Origins",
+    "genre": "Roguelike",
+    "year": 2000
+  },
+  {
+    "name": "Forgotten Protocol IV",
+    "genre": "Roguelike",
+    "year": 2022
+  },
+  {
+    "name": "Rising Saga Ultimate Edition",
+    "genre": "RPG",
+    "year": 2007
+  },
+  {
+    "name": "Burning Sanctuary IV",
+    "genre": "Action",
+    "year": 2011
+  },
+  {
+    "name": "Lost Rebellion Origins",
+    "genre": "Roguelike",
+    "year": 1998
+  },
+  {
+    "name": "Golden Dynasty II",
+    "genre": "Survival",
+    "year": 2005
+  },
+  {
+    "name": "Forgotten Rebellion Online",
+    "genre": "RPG",
+    "year": 2015
+  },
+  {
+    "name": "Hidden Sanctuary Reborn",
+    "genre": "Racing",
+    "year": 1999
+  },
+  {
+    "name": "Burning Echoes",
+    "genre": "RPG",
+    "year": 1999
+  },
+  {
+    "name": "Crimson Outlaws Reborn",
+    "genre": "MMO",
+    "year": 1999
+  },
+  {
+    "name": "Final Legends",
+    "genre": "Roguelike",
+    "year": 2014
+  },
+  {
+    "name": "Fallen Dynasty Deluxe",
+    "genre": "Sandbox",
+    "year": 2015
+  },
+  {
+    "name": "Dark Chronicles IV",
+    "genre": "MMO",
+    "year": 2025
+  },
+  {
+    "name": "Wild Quest Deluxe",
+    "genre": "Racing",
+    "year": 1987
+  },
+  {
+    "name": "Lost Sanctuary Online",
+    "genre": "Platformer",
+    "year": 1985
+  },
+  {
+    "name": "Crimson Citadel Remastered",
+    "genre": "FPS",
+    "year": 1998
+  },
+  {
+    "name": "Burning Kingdom Deluxe",
+    "genre": "Simulation",
+    "year": 2007
+  },
+  {
+    "name": "Dark Outlaws III",
+    "genre": "Action",
+    "year": 1993
+  },
+  {
+    "name": "Crimson Legends Ultimate Edition",
+    "genre": "RPG",
+    "year": 2025
+  },
+  {
+    "name": "Hidden Empire III",
+    "genre": "Strategy",
+    "year": 1997
+  },
+  {
+    "name": "Crimson Saga Online",
+    "genre": "FPS",
+    "year": 2009
+  },
+  {
+    "name": "Neon Quest Origins",
+    "genre": "MMO",
+    "year": 1992
+  },
+  {
+    "name": "Ancient Odyssey Origins",
+    "genre": "Platformer",
+    "year": 2010
+  },
+  {
+    "name": "Shadow Protocol IV",
+    "genre": "Adventure",
+    "year": 2004
+  },
+  {
+    "name": "Ancient Odyssey Ultimate Edition",
+    "genre": "Horror",
+    "year": 2023
+  },
+  {
+    "name": "Dark Horizons",
+    "genre": "Strategy",
+    "year": 2004
+  },
+  {
+    "name": "Dark Arena Online",
+    "genre": "Action",
+    "year": 2007
+  },
+  {
+    "name": "Fallen Protocol Reborn",
+    "genre": "Action",
+    "year": 2009
+  },
+  {
+    "name": "Forgotten Rebellion II",
+    "genre": "Simulation",
+    "year": 1987
+  },
+  {
+    "name": "Eternal Saga III",
+    "genre": "Racing",
+    "year": 2020
+  },
+  {
+    "name": "Wild Saga Reborn",
+    "genre": "RPG",
+    "year": 1993
+  },
+  {
+    "name": "Golden Empire Online",
+    "genre": "Survival",
+    "year": 1999
+  },
+  {
+    "name": "Neon Sanctuary Deluxe",
+    "genre": "Sandbox",
+    "year": 1989
+  },
+  {
+    "name": "Fallen Frontier",
+    "genre": "FPS",
+    "year": 1989
+  },
+  {
+    "name": "Silent Saga Remastered",
+    "genre": "Platformer",
+    "year": 2001
+  },
+  {
+    "name": "Neon Frontier II",
+    "genre": "Roguelike",
+    "year": 2017
+  },
+  {
+    "name": "Golden Echoes Remastered",
+    "genre": "Survival",
+    "year": 2003
+  },
+  {
+    "name": "Crimson Frontier Remastered",
+    "genre": "Sandbox",
+    "year": 1995
+  },
+  {
+    "name": "Wild Guardians Reborn",
+    "genre": "Survival",
+    "year": 2008
+  },
+  {
+    "name": "Iron Frontier Deluxe",
+    "genre": "FPS",
+    "year": 1990
+  },
+  {
+    "name": "Fallen Legends",
+    "genre": "Roguelike",
+    "year": 2022
+  },
+  {
+    "name": "Iron Saga Origins",
+    "genre": "Platformer",
+    "year": 2019
+  },
+  {
+    "name": "Crimson Dynasty Origins",
+    "genre": "Simulation",
+    "year": 1988
+  },
+  {
+    "name": "Crimson Expedition Online",
+    "genre": "Adventure",
+    "year": 2007
+  },
+  {
+    "name": "Radiant Saga Online",
+    "genre": "Roguelike",
+    "year": 2023
+  },
+  {
+    "name": "Shadow Saga Deluxe",
+    "genre": "Platformer",
+    "year": 2000
+  },
+  {
+    "name": "Eternal Arena Ultimate Edition",
+    "genre": "MMO",
+    "year": 1994
+  },
+  {
+    "name": "Golden Citadel Remastered",
+    "genre": "Simulation",
+    "year": 2023
+  },
+  {
+    "name": "Neon Protocol III",
+    "genre": "Sandbox",
+    "year": 1992
+  },
+  {
+    "name": "Ancient Dynasty Reborn",
+    "genre": "Adventure",
+    "year": 2025
+  },
+  {
+    "name": "Rising Rebellion III",
+    "genre": "Racing",
+    "year": 1995
+  },
+  {
+    "name": "Forgotten Expedition",
+    "genre": "Survival",
+    "year": 1994
+  },
+  {
+    "name": "Silent Legends Ultimate Edition",
+    "genre": "Racing",
+    "year": 2025
+  },
+  {
+    "name": "Golden Protocol IV",
+    "genre": "Horror",
+    "year": 2010
+  },
+  {
+    "name": "Lost Echoes Ultimate Edition",
+    "genre": "RPG",
+    "year": 2021
+  },
+  {
+    "name": "Neon Quest Origins",
+    "genre": "Roguelike",
+    "year": 2012
+  },
+  {
+    "name": "Broken Citadel IV",
+    "genre": "FPS",
+    "year": 1997
+  },
+  {
+    "name": "Hidden Frontier Ultimate Edition",
+    "genre": "RPG",
+    "year": 1987
+  },
+  {
+    "name": "Dark Echoes",
+    "genre": "Survival",
+    "year": 1993
+  },
+  {
+    "name": "Shadow Kingdom",
+    "genre": "Roguelike",
+    "year": 2017
+  },
+  {
+    "name": "Burning Frontier III",
+    "genre": "Platformer",
+    "year": 1986
+  },
+  {
+    "name": "Rising Outlaws Origins",
+    "genre": "Strategy",
+    "year": 2015
+  },
+  {
+    "name": "Final Quest Reborn",
+    "genre": "MMO",
+    "year": 1993
+  },
+  {
+    "name": "Dark Outlaws",
+    "genre": "Adventure",
+    "year": 2010
+  },
+  {
+    "name": "Dark Horizons IV",
+    "genre": "Strategy",
+    "year": 2002
+  },
+  {
+    "name": "Lost Guardians Remastered",
+    "genre": "Survival",
+    "year": 1985
+  },
+  {
+    "name": "Eternal Quest Reborn",
+    "genre": "Action",
+    "year": 2011
+  },
+  {
+    "name": "Frozen Odyssey Ultimate Edition",
+    "genre": "Racing",
+    "year": 2017
+  },
+  {
+    "name": "Ancient Chronicles Remastered",
+    "genre": "Survival",
+    "year": 2006
+  },
+  {
+    "name": "Ancient Chronicles Online",
+    "genre": "Adventure",
+    "year": 2013
+  },
+  {
+    "name": "Fallen Quest II",
+    "genre": "Survival",
+    "year": 2001
+  },
+  {
+    "name": "Final Echoes IV",
+    "genre": "Sandbox",
+    "year": 1990
+  },
+  {
+    "name": "Dark Rebellion Deluxe",
+    "genre": "Strategy",
+    "year": 2001
+  },
+  {
+    "name": "Broken Empire IV",
+    "genre": "MMO",
+    "year": 2009
+  },
+  {
+    "name": "Lost Citadel Origins",
+    "genre": "Racing",
+    "year": 2012
+  },
+  {
+    "name": "Final Kingdom Remastered",
+    "genre": "Racing",
+    "year": 2012
+  },
+  {
+    "name": "Forgotten Protocol IV",
+    "genre": "RPG",
+    "year": 2007
+  },
+  {
+    "name": "Lost Legends Ultimate Edition",
+    "genre": "Roguelike",
+    "year": 1999
+  },
+  {
+    "name": "Fallen Citadel Ultimate Edition",
+    "genre": "Survival",
+    "year": 2020
+  },
+  {
+    "name": "Silent Outlaws Origins",
+    "genre": "Roguelike",
+    "year": 1989
+  },
+  {
+    "name": "Crimson Echoes Online",
+    "genre": "Sandbox",
+    "year": 1986
+  },
+  {
+    "name": "Wild Odyssey Remastered",
+    "genre": "Platformer",
+    "year": 2005
+  },
+  {
+    "name": "Ancient Empire Online",
+    "genre": "Action",
+    "year": 2006
+  },
+  {
+    "name": "Rising Protocol Deluxe",
+    "genre": "Action",
+    "year": 1998
+  },
+  {
+    "name": "Crimson Chronicles II",
+    "genre": "Horror",
+    "year": 2005
+  },
+  {
+    "name": "Golden Protocol III",
+    "genre": "RPG",
+    "year": 2021
+  },
+  {
+    "name": "Frozen Chronicles Deluxe",
+    "genre": "FPS",
+    "year": 2022
+  },
+  {
+    "name": "Crimson Odyssey II",
+    "genre": "Action",
+    "year": 2007
+  },
+  {
+    "name": "Radiant Kingdom IV",
+    "genre": "MMO",
+    "year": 2021
+  },
+  {
+    "name": "Golden Empire",
+    "genre": "RPG",
+    "year": 2005
+  },
+  {
+    "name": "Wild Guardians Remastered",
+    "genre": "FPS",
+    "year": 2011
+  },
+  {
+    "name": "Dark Expedition Deluxe",
+    "genre": "FPS",
+    "year": 1998
+  },
+  {
+    "name": "Lost Frontier III",
+    "genre": "Roguelike",
+    "year": 2024
+  },
+  {
+    "name": "Hidden Protocol III",
+    "genre": "Action",
+    "year": 2024
+  },
+  {
+    "name": "Lost Citadel Origins",
+    "genre": "Strategy",
+    "year": 2013
+  },
+  {
+    "name": "Eternal Expedition Ultimate Edition",
+    "genre": "Survival",
+    "year": 2002
+  },
+  {
+    "name": "Hidden Empire",
+    "genre": "Simulation",
+    "year": 1990
+  },
+  {
+    "name": "Dark Saga Online",
+    "genre": "MMO",
+    "year": 2011
+  },
+  {
+    "name": "Shadow Arena Reborn",
+    "genre": "FPS",
+    "year": 2010
+  },
+  {
+    "name": "Eternal Protocol Origins",
+    "genre": "Racing",
+    "year": 1988
+  },
+  {
+    "name": "Iron Empire Deluxe",
+    "genre": "RPG",
+    "year": 2018
+  },
+  {
+    "name": "Crimson Voyage",
+    "genre": "Horror",
+    "year": 1995
+  },
+  {
+    "name": "Final Horizons Origins",
+    "genre": "Puzzle",
+    "year": 2005
+  },
+  {
+    "name": "Hidden Expedition",
+    "genre": "Puzzle",
+    "year": 2011
+  },
+  {
+    "name": "Forgotten Expedition IV",
+    "genre": "Horror",
+    "year": 1997
+  },
+  {
+    "name": "Lost Guardians",
+    "genre": "Sandbox",
+    "year": 2025
+  },
+  {
+    "name": "Eternal Sanctuary Ultimate Edition",
+    "genre": "Adventure",
+    "year": 1989
+  },
+  {
+    "name": "Final Kingdom Online",
+    "genre": "Adventure",
+    "year": 2021
+  },
+  {
+    "name": "Hidden Dynasty",
+    "genre": "Platformer",
+    "year": 2001
+  },
+  {
+    "name": "Shadow Sanctuary Origins",
+    "genre": "MMO",
+    "year": 2014
+  },
+  {
+    "name": "Crimson Legends",
+    "genre": "Platformer",
+    "year": 2019
+  },
+  {
+    "name": "Iron Chronicles IV",
+    "genre": "FPS",
+    "year": 2002
+  },
+  {
+    "name": "Lost Empire III",
+    "genre": "RPG",
+    "year": 1999
+  },
+  {
+    "name": "Forgotten Rebellion Remastered",
+    "genre": "Sandbox",
+    "year": 1995
+  },
+  {
+    "name": "Wild Chronicles Origins",
+    "genre": "Sandbox",
+    "year": 1994
+  },
+  {
+    "name": "Dark Horizons IV",
+    "genre": "Sandbox",
+    "year": 2002
+  },
+  {
+    "name": "Eternal Echoes Deluxe",
+    "genre": "Platformer",
+    "year": 1998
+  },
+  {
+    "name": "Neon Expedition Ultimate Edition",
+    "genre": "Roguelike",
+    "year": 2011
+  },
+  {
+    "name": "Golden Echoes II",
+    "genre": "MMO",
+    "year": 1998
+  },
+  {
+    "name": "Forgotten Dynasty III",
+    "genre": "Simulation",
+    "year": 2002
+  },
+  {
+    "name": "Frozen Rebellion Remastered",
+    "genre": "Adventure",
+    "year": 2000
+  },
+  {
+    "name": "Dark Guardians IV",
+    "genre": "Roguelike",
+    "year": 2005
+  },
+  {
+    "name": "Neon Protocol Remastered",
+    "genre": "Platformer",
+    "year": 2023
+  },
+  {
+    "name": "Eternal Expedition Origins",
+    "genre": "Simulation",
+    "year": 2018
+  },
+  {
+    "name": "Radiant Sanctuary Reborn",
+    "genre": "Racing",
+    "year": 1990
+  },
+  {
+    "name": "Rising Echoes Origins",
+    "genre": "MMO",
+    "year": 2023
+  },
+  {
+    "name": "Frozen Outlaws",
+    "genre": "FPS",
+    "year": 2007
+  },
+  {
+    "name": "Burning Legends Remastered",
+    "genre": "Strategy",
+    "year": 2007
+  },
+  {
+    "name": "Radiant Expedition Ultimate Edition",
+    "genre": "Puzzle",
+    "year": 2022
+  },
+  {
+    "name": "Dark Quest Reborn",
+    "genre": "Simulation",
+    "year": 2022
+  },
+  {
+    "name": "Golden Voyage Deluxe",
+    "genre": "Action",
+    "year": 1990
+  },
+  {
+    "name": "Lost Protocol Deluxe",
+    "genre": "Roguelike",
+    "year": 2011
+  },
+  {
+    "name": "Crimson Rebellion Remastered",
+    "genre": "Adventure",
+    "year": 2024
+  },
+  {
+    "name": "Rising Legends II",
+    "genre": "Adventure",
+    "year": 2009
+  },
+  {
+    "name": "Hidden Echoes",
+    "genre": "Roguelike",
+    "year": 2009
+  },
+  {
+    "name": "Crimson Citadel Reborn",
+    "genre": "Sandbox",
+    "year": 2010
+  },
+  {
+    "name": "Eternal Guardians Ultimate Edition",
+    "genre": "RPG",
+    "year": 2008
+  },
+  {
+    "name": "Iron Arena II",
+    "genre": "Racing",
+    "year": 1998
+  },
+  {
+    "name": "Fallen Odyssey",
+    "genre": "Platformer",
+    "year": 2006
+  },
+  {
+    "name": "Forgotten Chronicles Ultimate Edition",
+    "genre": "RPG",
+    "year": 2008
+  },
+  {
+    "name": "Iron Guardians II",
+    "genre": "Action",
+    "year": 1997
+  },
+  {
+    "name": "Shadow Guardians II",
+    "genre": "RPG",
+    "year": 1997
+  },
+  {
+    "name": "Neon Quest Deluxe",
+    "genre": "Strategy",
+    "year": 2009
+  },
+  {
+    "name": "Iron Legends Ultimate Edition",
+    "genre": "MMO",
+    "year": 2005
+  },
+  {
+    "name": "Lost Expedition III",
+    "genre": "Survival",
+    "year": 2021
+  },
+  {
+    "name": "Fallen Dynasty Deluxe",
+    "genre": "Action",
+    "year": 1987
+  },
+  {
+    "name": "Burning Citadel Reborn",
+    "genre": "Strategy",
+    "year": 2012
+  },
+  {
+    "name": "Ancient Saga II",
+    "genre": "RPG",
+    "year": 2009
+  },
+  {
+    "name": "Silent Empire Origins",
+    "genre": "Sandbox",
+    "year": 2000
+  },
+  {
+    "name": "Forgotten Chronicles IV",
+    "genre": "RPG",
+    "year": 1987
+  },
+  {
+    "name": "Fallen Saga III",
+    "genre": "Racing",
+    "year": 1992
+  },
+  {
+    "name": "Fallen Sanctuary Remastered",
+    "genre": "Survival",
+    "year": 2002
+  },
+  {
+    "name": "Golden Kingdom IV",
+    "genre": "Survival",
+    "year": 2024
+  },
+  {
+    "name": "Broken Voyage Reborn",
+    "genre": "MMO",
+    "year": 2016
+  },
+  {
+    "name": "Golden Echoes Deluxe",
+    "genre": "Horror",
+    "year": 1998
+  },
+  {
+    "name": "Dark Legends Online",
+    "genre": "MMO",
+    "year": 2007
+  },
+  {
+    "name": "Eternal Chronicles Origins",
+    "genre": "Horror",
+    "year": 2011
+  },
+  {
+    "name": "Frozen Kingdom Remastered",
+    "genre": "Platformer",
+    "year": 2024
+  },
+  {
+    "name": "Rising Guardians III",
+    "genre": "RPG",
+    "year": 1994
+  },
+  {
+    "name": "Lost Saga Ultimate Edition",
+    "genre": "Horror",
+    "year": 1999
+  },
+  {
+    "name": "Fallen Chronicles Origins",
+    "genre": "Survival",
+    "year": 1997
+  },
+  {
+    "name": "Wild Voyage III",
+    "genre": "Puzzle",
+    "year": 1998
+  },
+  {
+    "name": "Fallen Saga Online",
+    "genre": "FPS",
+    "year": 2018
+  },
+  {
+    "name": "Broken Odyssey Origins",
+    "genre": "FPS",
+    "year": 1987
+  },
+  {
+    "name": "Ancient Expedition III",
+    "genre": "FPS",
+    "year": 1996
+  },
+  {
+    "name": "Neon Kingdom II",
+    "genre": "FPS",
+    "year": 1998
+  },
+  {
+    "name": "Final Rebellion Deluxe",
+    "genre": "Simulation",
+    "year": 1996
+  },
+  {
+    "name": "Dark Echoes Reborn",
+    "genre": "FPS",
+    "year": 2004
+  },
+  {
+    "name": "Eternal Chronicles III",
+    "genre": "RPG",
+    "year": 1994
+  },
+  {
+    "name": "Final Legends",
+    "genre": "Platformer",
+    "year": 1985
+  },
+  {
+    "name": "Dark Empire Remastered",
+    "genre": "RPG",
+    "year": 1991
+  },
+  {
+    "name": "Dark Voyage Online",
+    "genre": "Strategy",
+    "year": 2023
+  },
+  {
+    "name": "Forgotten Outlaws Deluxe",
+    "genre": "MMO",
+    "year": 2010
+  },
+  {
+    "name": "Broken Kingdom IV",
+    "genre": "RPG",
+    "year": 1996
+  },
+  {
+    "name": "Golden Sanctuary Origins",
+    "genre": "FPS",
+    "year": 1999
+  },
+  {
+    "name": "Broken Legends Remastered",
+    "genre": "Adventure",
+    "year": 1990
+  },
+  {
+    "name": "Iron Quest II",
+    "genre": "Puzzle",
+    "year": 2009
+  },
+  {
+    "name": "Broken Saga II",
+    "genre": "Sandbox",
+    "year": 2012
+  },
+  {
+    "name": "Ancient Guardians Ultimate Edition",
+    "genre": "Simulation",
+    "year": 2005
+  },
+  {
+    "name": "Lost Frontier III",
+    "genre": "Puzzle",
+    "year": 2019
+  },
+  {
+    "name": "Golden Echoes Origins",
+    "genre": "Sandbox",
+    "year": 2001
+  },
+  {
+    "name": "Ancient Quest",
+    "genre": "Roguelike",
+    "year": 2010
+  },
+  {
+    "name": "Forgotten Echoes Ultimate Edition",
+    "genre": "Sandbox",
+    "year": 2001
+  },
+  {
+    "name": "Rising Empire Origins",
+    "genre": "Horror",
+    "year": 1990
+  },
+  {
+    "name": "Eternal Saga II",
+    "genre": "Survival",
+    "year": 1991
+  },
+  {
+    "name": "Ancient Odyssey",
+    "genre": "Horror",
+    "year": 2015
+  },
+  {
+    "name": "Silent Horizons",
+    "genre": "RPG",
+    "year": 1999
+  },
+  {
+    "name": "Golden Protocol Ultimate Edition",
+    "genre": "Strategy",
+    "year": 1999
+  },
+  {
+    "name": "Eternal Horizons IV",
+    "genre": "Platformer",
+    "year": 2018
+  },
+  {
+    "name": "Lost Legends II",
+    "genre": "Action",
+    "year": 2025
+  },
+  {
+    "name": "Hidden Sanctuary",
+    "genre": "Roguelike",
+    "year": 2000
+  },
+  {
+    "name": "Dark Rebellion Reborn",
+    "genre": "MMO",
+    "year": 1985
+  },
+  {
+    "name": "Golden Sanctuary Ultimate Edition",
+    "genre": "RPG",
+    "year": 1987
+  },
+  {
+    "name": "Shadow Legends",
+    "genre": "Horror",
+    "year": 2003
+  },
+  {
+    "name": "Radiant Kingdom IV",
+    "genre": "Platformer",
+    "year": 1997
+  },
+  {
+    "name": "Frozen Kingdom Ultimate Edition",
+    "genre": "Action",
+    "year": 2005
+  },
+  {
+    "name": "Iron Arena Deluxe",
+    "genre": "Adventure",
+    "year": 1999
+  },
+  {
+    "name": "Radiant Outlaws IV",
+    "genre": "Survival",
+    "year": 2007
+  },
+  {
+    "name": "Wild Dynasty Deluxe",
+    "genre": "Sandbox",
+    "year": 2005
+  },
+  {
+    "name": "Shadow Odyssey II",
+    "genre": "Strategy",
+    "year": 1985
+  },
+  {
+    "name": "Broken Quest",
+    "genre": "Sandbox",
+    "year": 1997
+  },
+  {
+    "name": "Frozen Arena II",
+    "genre": "Puzzle",
+    "year": 2009
+  },
+  {
+    "name": "Ancient Outlaws",
+    "genre": "Puzzle",
+    "year": 2019
+  },
+  {
+    "name": "Hidden Echoes Ultimate Edition",
+    "genre": "RPG",
+    "year": 2001
+  },
+  {
+    "name": "Fallen Outlaws Online",
+    "genre": "MMO",
+    "year": 2006
+  },
+  {
+    "name": "Crimson Sanctuary Remastered",
+    "genre": "MMO",
+    "year": 2014
+  },
+  {
+    "name": "Hidden Saga Origins",
+    "genre": "RPG",
+    "year": 1986
+  },
+  {
+    "name": "Forgotten Legends II",
+    "genre": "Platformer",
+    "year": 1991
+  },
+  {
+    "name": "Neon Echoes Deluxe",
+    "genre": "Sandbox",
+    "year": 2005
+  },
+  {
+    "name": "Frozen Echoes IV",
+    "genre": "Platformer",
+    "year": 2007
+  },
+  {
+    "name": "Eternal Horizons",
+    "genre": "Strategy",
+    "year": 2023
+  },
+  {
+    "name": "Ancient Saga",
+    "genre": "Action",
+    "year": 1998
+  },
+  {
+    "name": "Forgotten Rebellion Deluxe",
+    "genre": "Platformer",
+    "year": 1987
+  },
+  {
+    "name": "Silent Legends IV",
+    "genre": "Adventure",
+    "year": 2019
+  },
+  {
+    "name": "Golden Horizons II",
+    "genre": "Roguelike",
+    "year": 2014
+  },
+  {
+    "name": "Ancient Echoes Remastered",
+    "genre": "Puzzle",
+    "year": 2012
+  },
+  {
+    "name": "Neon Odyssey Reborn",
+    "genre": "Action",
+    "year": 2005
+  },
+  {
+    "name": "Hidden Chronicles",
+    "genre": "Survival",
+    "year": 2025
+  },
+  {
+    "name": "Ancient Guardians Deluxe",
+    "genre": "Adventure",
+    "year": 1986
+  },
+  {
+    "name": "Forgotten Expedition Remastered",
+    "genre": "Racing",
+    "year": 1993
+  },
+  {
+    "name": "Rising Rebellion Deluxe",
+    "genre": "Survival",
+    "year": 2016
+  },
+  {
+    "name": "Fallen Sanctuary IV",
+    "genre": "FPS",
+    "year": 2015
+  },
+  {
+    "name": "Forgotten Outlaws Online",
+    "genre": "MMO",
+    "year": 2023
+  },
+  {
+    "name": "Neon Outlaws Origins",
+    "genre": "RPG",
+    "year": 2000
+  },
+  {
+    "name": "Silent Citadel Origins",
+    "genre": "Adventure",
+    "year": 2001
+  },
+  {
+    "name": "Dark Legends Online",
+    "genre": "Puzzle",
+    "year": 1992
+  },
+  {
+    "name": "Silent Chronicles Ultimate Edition",
+    "genre": "Sandbox",
+    "year": 1987
+  },
+  {
+    "name": "Broken Outlaws",
+    "genre": "RPG",
+    "year": 2005
+  },
+  {
+    "name": "Ancient Kingdom II",
+    "genre": "Adventure",
+    "year": 2023
+  },
+  {
+    "name": "Silent Sanctuary Reborn",
+    "genre": "Racing",
+    "year": 1994
+  },
+  {
+    "name": "Final Guardians Remastered",
+    "genre": "Survival",
+    "year": 2016
+  },
+  {
+    "name": "Shadow Echoes III",
+    "genre": "Sandbox",
+    "year": 2022
+  },
+  {
+    "name": "Lost Frontier II",
+    "genre": "Racing",
+    "year": 1986
+  },
+  {
+    "name": "Final Horizons Deluxe",
+    "genre": "Roguelike",
+    "year": 2008
+  },
+  {
+    "name": "Shadow Empire II",
+    "genre": "Roguelike",
+    "year": 1994
+  },
+  {
+    "name": "Fallen Horizons Online",
+    "genre": "Sandbox",
+    "year": 2019
+  },
+  {
+    "name": "Crimson Arena Origins",
+    "genre": "Horror",
+    "year": 2022
+  },
+  {
+    "name": "Fallen Outlaws III",
+    "genre": "Action",
+    "year": 2006
+  },
+  {
+    "name": "Golden Sanctuary Deluxe",
+    "genre": "Platformer",
+    "year": 2016
+  },
+  {
+    "name": "Final Echoes IV",
+    "genre": "Roguelike",
+    "year": 2006
+  },
+  {
+    "name": "Forgotten Dynasty II",
+    "genre": "Platformer",
+    "year": 2013
+  },
+  {
+    "name": "Fallen Outlaws III",
+    "genre": "Strategy",
+    "year": 1993
+  },
+  {
+    "name": "Neon Dynasty Reborn",
+    "genre": "Horror",
+    "year": 2019
+  },
+  {
+    "name": "Crimson Kingdom Remastered",
+    "genre": "Survival",
+    "year": 2020
+  },
+  {
+    "name": "Forgotten Sanctuary Remastered",
+    "genre": "Sandbox",
+    "year": 2024
+  },
+  {
+    "name": "Ancient Saga IV",
+    "genre": "MMO",
+    "year": 2002
+  },
+  {
+    "name": "Wild Outlaws Ultimate Edition",
+    "genre": "Horror",
+    "year": 2024
+  },
+  {
+    "name": "Rising Saga Online",
+    "genre": "Simulation",
+    "year": 2016
+  },
+  {
+    "name": "Silent Horizons Deluxe",
+    "genre": "Adventure",
+    "year": 1991
+  },
+  {
+    "name": "Ancient Horizons Remastered",
+    "genre": "Strategy",
+    "year": 2023
+  },
+  {
+    "name": "Lost Kingdom III",
+    "genre": "MMO",
+    "year": 1995
+  },
+  {
+    "name": "Crimson Horizons II",
+    "genre": "FPS",
+    "year": 2008
+  },
+  {
+    "name": "Hidden Legends Reborn",
+    "genre": "Horror",
+    "year": 2010
+  },
+  {
+    "name": "Dark Outlaws Online",
+    "genre": "Simulation",
+    "year": 1989
+  },
+  {
+    "name": "Crimson Odyssey Reborn",
+    "genre": "RPG",
+    "year": 1989
+  },
+  {
+    "name": "Eternal Empire IV",
+    "genre": "Platformer",
+    "year": 2018
+  },
+  {
+    "name": "Dark Saga Online",
+    "genre": "FPS",
+    "year": 2011
+  },
+  {
+    "name": "Burning Rebellion Deluxe",
+    "genre": "Horror",
+    "year": 2004
+  },
+  {
+    "name": "Ancient Odyssey II",
+    "genre": "Simulation",
+    "year": 2015
+  },
+  {
+    "name": "Final Legends III",
+    "genre": "Simulation",
+    "year": 2016
+  },
+  {
+    "name": "Burning Rebellion Reborn",
+    "genre": "Roguelike",
+    "year": 2000
+  },
+  {
+    "name": "Broken Kingdom Remastered",
+    "genre": "FPS",
+    "year": 1996
+  },
+  {
+    "name": "Golden Protocol III",
+    "genre": "Action",
+    "year": 1986
+  },
+  {
+    "name": "Wild Kingdom IV",
+    "genre": "Puzzle",
+    "year": 2010
+  },
+  {
+    "name": "Silent Kingdom III",
+    "genre": "FPS",
+    "year": 2000
+  },
+  {
+    "name": "Wild Kingdom III",
+    "genre": "MMO",
+    "year": 2023
+  },
+  {
+    "name": "Lost Sanctuary Reborn",
+    "genre": "Simulation",
+    "year": 2014
+  },
+  {
+    "name": "Silent Protocol II",
+    "genre": "Racing",
+    "year": 2022
+  },
+  {
+    "name": "Burning Chronicles Remastered",
+    "genre": "Platformer",
+    "year": 2022
+  },
+  {
+    "name": "Crimson Odyssey III",
+    "genre": "Adventure",
+    "year": 2003
+  },
+  {
+    "name": "Silent Rebellion IV",
+    "genre": "Survival",
+    "year": 2011
+  },
+  {
+    "name": "Wild Citadel",
+    "genre": "MMO",
+    "year": 1987
+  },
+  {
+    "name": "Burning Quest III",
+    "genre": "Platformer",
+    "year": 2017
+  },
+  {
+    "name": "Ancient Expedition Remastered",
+    "genre": "Action",
+    "year": 2001
+  },
+  {
+    "name": "Frozen Outlaws Reborn",
+    "genre": "Roguelike",
+    "year": 2000
+  },
+  {
+    "name": "Forgotten Horizons Remastered",
+    "genre": "Horror",
+    "year": 2000
+  },
+  {
+    "name": "Shadow Citadel Origins",
+    "genre": "Strategy",
+    "year": 1985
+  },
+  {
+    "name": "Dark Citadel Remastered",
+    "genre": "Strategy",
+    "year": 2002
+  },
+  {
+    "name": "Fallen Chronicles Online",
+    "genre": "Platformer",
+    "year": 1986
+  },
+  {
+    "name": "Lost Odyssey IV",
+    "genre": "Racing",
+    "year": 2021
+  },
+  {
+    "name": "Silent Legends Origins",
+    "genre": "Puzzle",
+    "year": 2010
+  },
+  {
+    "name": "Neon Protocol IV",
+    "genre": "FPS",
+    "year": 1992
+  },
+  {
+    "name": "Final Kingdom III",
+    "genre": "Simulation",
+    "year": 2024
+  },
+  {
+    "name": "Neon Guardians Ultimate Edition",
+    "genre": "Racing",
+    "year": 1987
+  },
+  {
+    "name": "Crimson Empire Reborn",
+    "genre": "RPG",
+    "year": 1989
+  },
+  {
+    "name": "Hidden Kingdom IV",
+    "genre": "RPG",
+    "year": 1990
+  },
+  {
+    "name": "Rising Legends II",
+    "genre": "Strategy",
+    "year": 1990
+  },
+  {
+    "name": "Ancient Legends II",
+    "genre": "Roguelike",
+    "year": 2018
+  },
+  {
+    "name": "Lost Horizons Reborn",
+    "genre": "Strategy",
+    "year": 2013
+  },
+  {
+    "name": "Rising Frontier Online",
+    "genre": "Racing",
+    "year": 2016
+  },
+  {
+    "name": "Wild Protocol Ultimate Edition",
+    "genre": "Racing",
+    "year": 1994
+  },
+  {
+    "name": "Iron Legends Reborn",
+    "genre": "Roguelike",
+    "year": 2014
+  },
+  {
+    "name": "Fallen Outlaws Remastered",
+    "genre": "Puzzle",
+    "year": 2022
+  },
+  {
+    "name": "Ancient Voyage Reborn",
+    "genre": "Platformer",
+    "year": 2018
+  },
+  {
+    "name": "Broken Saga Reborn",
+    "genre": "Puzzle",
+    "year": 2017
+  },
+  {
+    "name": "Fallen Sanctuary III",
+    "genre": "RPG",
+    "year": 2017
+  },
+  {
+    "name": "Crimson Frontier Deluxe",
+    "genre": "Platformer",
+    "year": 2009
+  },
+  {
+    "name": "Crimson Expedition Remastered",
+    "genre": "Sandbox",
+    "year": 2021
+  },
+  {
+    "name": "Broken Expedition Deluxe",
+    "genre": "Platformer",
+    "year": 2011
+  },
+  {
+    "name": "Shadow Horizons Remastered",
+    "genre": "Platformer",
+    "year": 1998
+  },
+  {
+    "name": "Dark Quest Ultimate Edition",
+    "genre": "Racing",
+    "year": 2004
+  },
+  {
+    "name": "Crimson Voyage III",
+    "genre": "Racing",
+    "year": 2013
+  },
+  {
+    "name": "Neon Echoes Reborn",
+    "genre": "Racing",
+    "year": 1992
+  },
+  {
+    "name": "Burning Horizons",
+    "genre": "Action",
+    "year": 2002
+  },
+  {
+    "name": "Dark Saga IV",
+    "genre": "Action",
+    "year": 1995
+  },
+  {
+    "name": "Lost Sanctuary Origins",
+    "genre": "FPS",
+    "year": 2015
+  },
+  {
+    "name": "Rising Quest",
+    "genre": "Racing",
+    "year": 2025
+  },
+  {
+    "name": "Neon Expedition Origins",
+    "genre": "Roguelike",
+    "year": 2017
+  },
+  {
+    "name": "Silent Dynasty Ultimate Edition",
+    "genre": "Sandbox",
+    "year": 1992
+  },
+  {
+    "name": "Rising Frontier Online",
+    "genre": "Racing",
+    "year": 2005
+  },
+  {
+    "name": "Crimson Citadel IV",
+    "genre": "MMO",
+    "year": 2006
+  },
+  {
+    "name": "Golden Legends III",
+    "genre": "Roguelike",
+    "year": 2007
+  },
+  {
+    "name": "Neon Protocol III",
+    "genre": "Horror",
+    "year": 2006
+  },
+  {
+    "name": "Fallen Echoes Reborn",
+    "genre": "RPG",
+    "year": 2002
+  },
+  {
+    "name": "Lost Kingdom II",
+    "genre": "Action",
+    "year": 2009
+  },
+  {
+    "name": "Hidden Frontier Origins",
+    "genre": "Sandbox",
+    "year": 2015
+  },
+  {
+    "name": "Golden Echoes Origins",
+    "genre": "Simulation",
+    "year": 2016
+  },
+  {
+    "name": "Radiant Guardians Online",
+    "genre": "RPG",
+    "year": 2005
+  },
+  {
+    "name": "Final Protocol Online",
+    "genre": "Roguelike",
+    "year": 1990
+  },
+  {
+    "name": "Lost Kingdom Remastered",
+    "genre": "Racing",
+    "year": 2016
+  },
+  {
+    "name": "Hidden Chronicles IV",
+    "genre": "Roguelike",
+    "year": 1995
+  },
+  {
+    "name": "Frozen Citadel Ultimate Edition",
+    "genre": "Strategy",
+    "year": 2022
+  },
+  {
+    "name": "Radiant Arena III",
+    "genre": "Racing",
+    "year": 1996
+  },
+  {
+    "name": "Fallen Rebellion IV",
+    "genre": "FPS",
+    "year": 2020
+  },
+  {
+    "name": "Forgotten Quest II",
+    "genre": "Simulation",
+    "year": 1996
+  },
+  {
+    "name": "Wild Citadel Reborn",
+    "genre": "Survival",
+    "year": 2015
+  },
+  {
+    "name": "Wild Quest II",
+    "genre": "Survival",
+    "year": 2013
+  },
+  {
+    "name": "Crimson Guardians III",
+    "genre": "Adventure",
+    "year": 1989
+  },
+  {
+    "name": "Dark Horizons III",
+    "genre": "Puzzle",
+    "year": 1990
+  },
+  {
+    "name": "Crimson Frontier",
+    "genre": "Sandbox",
+    "year": 2009
+  },
+  {
+    "name": "Dark Dynasty Online",
+    "genre": "Horror",
+    "year": 2011
+  },
+  {
+    "name": "Fallen Sanctuary Deluxe",
+    "genre": "Adventure",
+    "year": 2016
+  },
+  {
+    "name": "Forgotten Dynasty III",
+    "genre": "Platformer",
+    "year": 1987
+  },
+  {
+    "name": "Burning Dynasty Ultimate Edition",
+    "genre": "Horror",
+    "year": 2006
+  },
+  {
+    "name": "Hidden Frontier Remastered",
+    "genre": "FPS",
+    "year": 2015
+  },
+  {
+    "name": "Neon Echoes Deluxe",
+    "genre": "Strategy",
+    "year": 2007
+  },
+  {
+    "name": "Shadow Outlaws II",
+    "genre": "Simulation",
+    "year": 1992
+  },
+  {
+    "name": "Golden Empire Deluxe",
+    "genre": "Platformer",
+    "year": 1992
+  },
+  {
+    "name": "Dark Frontier Deluxe",
+    "genre": "Survival",
+    "year": 2019
+  },
+  {
+    "name": "Wild Protocol",
+    "genre": "Platformer",
+    "year": 1993
+  },
+  {
+    "name": "Radiant Empire Ultimate Edition",
+    "genre": "Racing",
+    "year": 1993
+  },
+  {
+    "name": "Neon Protocol Deluxe",
+    "genre": "RPG",
+    "year": 2009
+  },
+  {
+    "name": "Wild Rebellion Ultimate Edition",
+    "genre": "Roguelike",
+    "year": 2014
+  },
+  {
+    "name": "Lost Arena Origins",
+    "genre": "Strategy",
+    "year": 2024
+  },
+  {
+    "name": "Dark Legends Reborn",
+    "genre": "MMO",
+    "year": 2009
+  },
+  {
+    "name": "Golden Guardians Origins",
+    "genre": "Roguelike",
+    "year": 1990
+  },
+  {
+    "name": "Final Rebellion II",
+    "genre": "Strategy",
+    "year": 2010
+  },
+  {
+    "name": "Eternal Expedition II",
+    "genre": "Simulation",
+    "year": 1986
+  },
+  {
+    "name": "Frozen Echoes Remastered",
+    "genre": "Puzzle",
+    "year": 2025
+  },
+  {
+    "name": "Forgotten Chronicles Ultimate Edition",
+    "genre": "Survival",
+    "year": 2020
+  },
+  {
+    "name": "Forgotten Empire II",
+    "genre": "RPG",
+    "year": 1992
+  },
+  {
+    "name": "Eternal Kingdom Origins",
+    "genre": "MMO",
+    "year": 2006
+  },
+  {
+    "name": "Silent Voyage Deluxe",
+    "genre": "Horror",
+    "year": 2001
+  },
+  {
+    "name": "Forgotten Kingdom",
+    "genre": "Adventure",
+    "year": 2020
+  },
+  {
+    "name": "Shadow Legends Origins",
+    "genre": "Horror",
+    "year": 2017
+  },
+  {
+    "name": "Broken Dynasty Reborn",
+    "genre": "Strategy",
+    "year": 2024
+  },
+  {
+    "name": "Dark Guardians Ultimate Edition",
+    "genre": "Platformer",
+    "year": 2008
+  },
+  {
+    "name": "Hidden Dynasty Online",
+    "genre": "RPG",
+    "year": 1994
+  },
+  {
+    "name": "Lost Outlaws Origins",
+    "genre": "Simulation",
+    "year": 2009
+  },
+  {
+    "name": "Forgotten Echoes III",
+    "genre": "Sandbox",
+    "year": 1996
+  },
+  {
+    "name": "Ancient Saga",
+    "genre": "Platformer",
+    "year": 2012
+  },
+  {
+    "name": "Iron Saga Ultimate Edition",
+    "genre": "Survival",
+    "year": 1991
+  },
+  {
+    "name": "Frozen Dynasty Remastered",
+    "genre": "Sandbox",
+    "year": 1991
+  },
+  {
+    "name": "Shadow Odyssey II",
+    "genre": "Puzzle",
+    "year": 1991
+  },
+  {
+    "name": "Rising Citadel IV",
+    "genre": "Adventure",
+    "year": 2005
+  },
+  {
+    "name": "Silent Legends Remastered",
+    "genre": "FPS",
+    "year": 1995
+  },
+  {
+    "name": "Wild Frontier",
+    "genre": "Adventure",
+    "year": 2010
+  },
+  {
+    "name": "Ancient Horizons Deluxe",
+    "genre": "Horror",
+    "year": 1993
+  },
+  {
+    "name": "Neon Expedition Remastered",
+    "genre": "Sandbox",
+    "year": 2022
+  },
+  {
+    "name": "Frozen Protocol Ultimate Edition",
+    "genre": "Racing",
+    "year": 2009
+  },
+  {
+    "name": "Lost Expedition Remastered",
+    "genre": "Puzzle",
+    "year": 1995
+  },
+  {
+    "name": "Neon Outlaws IV",
+    "genre": "Simulation",
+    "year": 1988
+  },
+  {
+    "name": "Wild Rebellion III",
+    "genre": "Survival",
+    "year": 2005
+  },
+  {
+    "name": "Broken Empire IV",
+    "genre": "Racing",
+    "year": 2004
+  },
+  {
+    "name": "Silent Citadel Ultimate Edition",
+    "genre": "Puzzle",
+    "year": 2008
+  },
+  {
+    "name": "Ancient Quest Origins",
+    "genre": "Action",
+    "year": 1989
+  },
+  {
+    "name": "Fallen Dynasty III",
+    "genre": "Simulation",
+    "year": 2002
+  },
+  {
+    "name": "Silent Protocol II",
+    "genre": "Survival",
+    "year": 2022
+  },
+  {
+    "name": "Shadow Chronicles IV",
+    "genre": "FPS",
+    "year": 2009
+  },
+  {
+    "name": "Rising Voyage III",
+    "genre": "Sandbox",
+    "year": 1992
+  },
+  {
+    "name": "Neon Kingdom II",
+    "genre": "Racing",
+    "year": 2021
+  },
+  {
+    "name": "Shadow Guardians II",
+    "genre": "Survival",
+    "year": 1994
+  },
+  {
+    "name": "Burning Echoes IV",
+    "genre": "Horror",
+    "year": 2002
+  },
+  {
+    "name": "Crimson Frontier IV",
+    "genre": "Platformer",
+    "year": 2020
+  },
+  {
+    "name": "Broken Kingdom II",
+    "genre": "Action",
+    "year": 1995
+  },
+  {
+    "name": "Rising Dynasty",
+    "genre": "FPS",
+    "year": 2008
+  },
+  {
+    "name": "Frozen Horizons Reborn",
+    "genre": "Simulation",
+    "year": 2000
+  },
+  {
+    "name": "Final Frontier IV",
+    "genre": "MMO",
+    "year": 1986
+  },
+  {
+    "name": "Lost Saga",
+    "genre": "FPS",
+    "year": 1985
+  },
+  {
+    "name": "Golden Arena",
+    "genre": "Strategy",
+    "year": 1993
+  },
+  {
+    "name": "Final Citadel Remastered",
+    "genre": "Horror",
+    "year": 2001
+  },
+  {
+    "name": "Golden Voyage III",
+    "genre": "Action",
+    "year": 2014
+  },
+  {
+    "name": "Shadow Sanctuary Remastered",
+    "genre": "Sandbox",
+    "year": 1995
+  },
+  {
+    "name": "Iron Odyssey III",
+    "genre": "Survival",
+    "year": 2019
+  },
+  {
+    "name": "Neon Guardians III",
+    "genre": "Racing",
+    "year": 1991
+  },
+  {
+    "name": "Ancient Outlaws",
+    "genre": "Strategy",
+    "year": 1986
+  },
+  {
+    "name": "Broken Expedition",
+    "genre": "Survival",
+    "year": 1990
+  },
+  {
+    "name": "Iron Dynasty Remastered",
+    "genre": "RPG",
+    "year": 1995
+  },
+  {
+    "name": "Neon Kingdom Reborn",
+    "genre": "Adventure",
+    "year": 2006
+  },
+  {
+    "name": "Burning Legends Deluxe",
+    "genre": "Puzzle",
+    "year": 2011
+  },
+  {
+    "name": "Shadow Quest III",
+    "genre": "FPS",
+    "year": 2024
+  },
+  {
+    "name": "Radiant Echoes IV",
+    "genre": "Platformer",
+    "year": 2016
+  },
+  {
+    "name": "Dark Frontier Remastered",
+    "genre": "Racing",
+    "year": 2000
+  },
+  {
+    "name": "Fallen Citadel IV",
+    "genre": "Sandbox",
+    "year": 2007
+  },
+  {
+    "name": "Silent Horizons Origins",
+    "genre": "RPG",
+    "year": 2014
+  },
+  {
+    "name": "Broken Sanctuary Online",
+    "genre": "Simulation",
+    "year": 1997
+  },
+  {
+    "name": "Frozen Dynasty Remastered",
+    "genre": "Racing",
+    "year": 2005
+  },
+  {
+    "name": "Dark Odyssey Deluxe",
+    "genre": "FPS",
+    "year": 2007
+  },
+  {
+    "name": "Dark Odyssey Online",
+    "genre": "Puzzle",
+    "year": 2017
+  },
+  {
+    "name": "Final Echoes III",
+    "genre": "RPG",
+    "year": 2010
+  },
+  {
+    "name": "Ancient Arena Online",
+    "genre": "Simulation",
+    "year": 1990
+  },
+  {
+    "name": "Dark Legends Remastered",
+    "genre": "Horror",
+    "year": 2010
+  },
+  {
+    "name": "Hidden Frontier II",
+    "genre": "Simulation",
+    "year": 1995
+  },
+  {
+    "name": "Forgotten Odyssey Origins",
+    "genre": "Sandbox",
+    "year": 1991
+  },
+  {
+    "name": "Iron Sanctuary Remastered",
+    "genre": "RPG",
+    "year": 2012
+  },
+  {
+    "name": "Rising Citadel Deluxe",
+    "genre": "Horror",
+    "year": 2011
+  },
+  {
+    "name": "Frozen Protocol IV",
+    "genre": "Roguelike",
+    "year": 1995
+  },
+  {
+    "name": "Final Arena",
+    "genre": "Horror",
+    "year": 1985
+  },
+  {
+    "name": "Silent Quest",
+    "genre": "Survival",
+    "year": 2021
+  },
+  {
+    "name": "Fallen Expedition",
+    "genre": "RPG",
+    "year": 2005
+  },
+  {
+    "name": "Frozen Empire Reborn",
+    "genre": "Platformer",
+    "year": 1999
+  },
+  {
+    "name": "Dark Saga Remastered",
+    "genre": "Platformer",
+    "year": 2013
+  },
+  {
+    "name": "Frozen Saga Ultimate Edition",
+    "genre": "Simulation",
+    "year": 2024
+  },
+  {
+    "name": "Crimson Kingdom Online",
+    "genre": "Sandbox",
+    "year": 1999
+  },
+  {
+    "name": "Ancient Legends II",
+    "genre": "Simulation",
+    "year": 2008
+  },
+  {
+    "name": "Radiant Echoes Reborn",
+    "genre": "Simulation",
+    "year": 1995
+  },
+  {
+    "name": "Frozen Quest III",
+    "genre": "FPS",
+    "year": 2017
+  },
+  {
+    "name": "Golden Protocol Remastered",
+    "genre": "Sandbox",
+    "year": 1985
+  },
+  {
+    "name": "Hidden Sanctuary",
+    "genre": "RPG",
+    "year": 1998
+  },
+  {
+    "name": "Lost Guardians Remastered",
+    "genre": "Sandbox",
+    "year": 2004
+  },
+  {
+    "name": "Neon Guardians II",
+    "genre": "Horror",
+    "year": 1991
+  },
+  {
+    "name": "Silent Citadel III",
+    "genre": "Roguelike",
+    "year": 2005
+  },
+  {
+    "name": "Shadow Chronicles Origins",
+    "genre": "Strategy",
+    "year": 2001
+  },
+  {
+    "name": "Broken Rebellion Ultimate Edition",
+    "genre": "RPG",
+    "year": 2006
+  },
+  {
+    "name": "Crimson Protocol II",
+    "genre": "Sandbox",
+    "year": 2003
+  },
+  {
+    "name": "Fallen Dynasty Ultimate Edition",
+    "genre": "Action",
+    "year": 2003
+  },
+  {
+    "name": "Forgotten Echoes IV",
+    "genre": "MMO",
+    "year": 2000
+  },
+  {
+    "name": "Eternal Empire",
+    "genre": "FPS",
+    "year": 1985
+  },
+  {
+    "name": "Lost Empire Online",
+    "genre": "Action",
+    "year": 2015
+  },
+  {
+    "name": "Shadow Outlaws Reborn",
+    "genre": "Survival",
+    "year": 2013
+  },
+  {
+    "name": "Frozen Echoes Remastered",
+    "genre": "Simulation",
+    "year": 1988
+  },
+  {
+    "name": "Eternal Echoes II",
+    "genre": "Sandbox",
+    "year": 1999
+  },
+  {
+    "name": "Broken Rebellion III",
+    "genre": "Action",
+    "year": 2001
+  },
+  {
+    "name": "Forgotten Quest II",
+    "genre": "Platformer",
+    "year": 1987
+  },
+  {
+    "name": "Radiant Protocol",
+    "genre": "Strategy",
+    "year": 2006
+  },
+  {
+    "name": "Iron Outlaws Deluxe",
+    "genre": "Racing",
+    "year": 2019
+  },
+  {
+    "name": "Neon Kingdom Online",
+    "genre": "Adventure",
+    "year": 2010
+  },
+  {
+    "name": "Final Kingdom II",
+    "genre": "Platformer",
+    "year": 2016
+  },
+  {
+    "name": "Golden Quest Remastered",
+    "genre": "Horror",
+    "year": 2019
+  },
+  {
+    "name": "Lost Horizons Deluxe",
+    "genre": "Simulation",
+    "year": 2005
+  },
+  {
+    "name": "Hidden Rebellion II",
+    "genre": "RPG",
+    "year": 2009
+  },
+  {
+    "name": "Shadow Kingdom Online",
+    "genre": "Action",
+    "year": 2007
+  },
+  {
+    "name": "Ancient Expedition III",
+    "genre": "Action",
+    "year": 1999
+  },
+  {
+    "name": "Frozen Expedition Online",
+    "genre": "Simulation",
+    "year": 2007
+  },
+  {
+    "name": "Silent Odyssey",
+    "genre": "Survival",
+    "year": 1988
+  },
+  {
+    "name": "Silent Rebellion Reborn",
+    "genre": "Adventure",
+    "year": 2002
+  },
+  {
+    "name": "Hidden Odyssey Reborn",
+    "genre": "FPS",
+    "year": 2011
+  },
+  {
+    "name": "Rising Sanctuary III",
+    "genre": "Simulation",
+    "year": 2000
+  },
+  {
+    "name": "Rising Saga Ultimate Edition",
+    "genre": "Simulation",
+    "year": 2006
+  },
+  {
+    "name": "Crimson Odyssey Origins",
+    "genre": "Platformer",
+    "year": 1988
+  },
+  {
+    "name": "Forgotten Protocol Online",
+    "genre": "Survival",
+    "year": 2007
+  },
+  {
+    "name": "Neon Guardians II",
+    "genre": "Sandbox",
+    "year": 2012
+  },
+  {
+    "name": "Golden Guardians IV",
+    "genre": "Platformer",
+    "year": 2011
+  },
+  {
+    "name": "Frozen Saga Deluxe",
+    "genre": "Roguelike",
+    "year": 1995
+  },
+  {
+    "name": "Frozen Citadel Ultimate Edition",
+    "genre": "Simulation",
+    "year": 2007
+  },
+  {
+    "name": "Broken Arena Online",
+    "genre": "MMO",
+    "year": 1999
+  },
+  {
+    "name": "Burning Frontier Online",
+    "genre": "Roguelike",
+    "year": 1985
+  },
+  {
+    "name": "Silent Saga Remastered",
+    "genre": "Simulation",
+    "year": 1985
+  },
+  {
+    "name": "Neon Sanctuary",
+    "genre": "Sandbox",
+    "year": 1992
+  },
+  {
+    "name": "Iron Legends Reborn",
+    "genre": "MMO",
+    "year": 2014
+  },
+  {
+    "name": "Crimson Kingdom Ultimate Edition",
+    "genre": "Racing",
+    "year": 2000
+  },
+  {
+    "name": "Broken Voyage II",
+    "genre": "MMO",
+    "year": 1993
+  },
+  {
+    "name": "Silent Outlaws Ultimate Edition",
+    "genre": "Strategy",
+    "year": 1989
+  },
+  {
+    "name": "Final Arena Reborn",
+    "genre": "Strategy",
+    "year": 1999
+  },
+  {
+    "name": "Ancient Protocol Reborn",
+    "genre": "MMO",
+    "year": 1991
+  },
+  {
+    "name": "Golden Outlaws Origins",
+    "genre": "Roguelike",
+    "year": 2006
+  },
+  {
+    "name": "Broken Chronicles Online",
+    "genre": "Roguelike",
+    "year": 2002
+  },
+  {
+    "name": "Frozen Echoes",
+    "genre": "Puzzle",
+    "year": 2010
+  },
+  {
+    "name": "Silent Arena",
+    "genre": "Platformer",
+    "year": 2024
+  },
+  {
+    "name": "Shadow Protocol Reborn",
+    "genre": "RPG",
+    "year": 1987
+  },
+  {
+    "name": "Hidden Rebellion Remastered",
+    "genre": "Racing",
+    "year": 2018
+  },
+  {
+    "name": "Burning Frontier Reborn",
+    "genre": "FPS",
+    "year": 2008
+  },
+  {
+    "name": "Rising Chronicles Ultimate Edition",
+    "genre": "Simulation",
+    "year": 1998
+  },
+  {
+    "name": "Radiant Voyage Deluxe",
+    "genre": "Platformer",
+    "year": 2004
+  },
+  {
+    "name": "Neon Guardians Ultimate Edition",
+    "genre": "Strategy",
+    "year": 1997
+  },
+  {
+    "name": "Dark Outlaws II",
+    "genre": "Adventure",
+    "year": 2015
+  },
+  {
+    "name": "Frozen Horizons II",
+    "genre": "Platformer",
+    "year": 2002
+  },
+  {
+    "name": "Final Legends II",
+    "genre": "Sandbox",
+    "year": 2016
+  },
+  {
+    "name": "Hidden Citadel Ultimate Edition",
+    "genre": "Platformer",
+    "year": 2014
+  },
+  {
+    "name": "Broken Guardians Remastered",
+    "genre": "Roguelike",
+    "year": 1997
+  },
+  {
+    "name": "Burning Odyssey Remastered",
+    "genre": "Action",
+    "year": 1998
+  },
+  {
+    "name": "Crimson Outlaws",
+    "genre": "Strategy",
+    "year": 2020
+  },
+  {
+    "name": "Shadow Dynasty IV",
+    "genre": "Action",
+    "year": 2022
+  },
+  {
+    "name": "Golden Citadel IV",
+    "genre": "Strategy",
+    "year": 1991
+  },
+  {
+    "name": "Rising Odyssey Ultimate Edition",
+    "genre": "Simulation",
+    "year": 1993
+  },
+  {
+    "name": "Shadow Sanctuary IV",
+    "genre": "Simulation",
+    "year": 2017
+  },
+  {
+    "name": "Iron Kingdom Ultimate Edition",
+    "genre": "Adventure",
+    "year": 1990
+  },
+  {
+    "name": "Forgotten Legends Origins",
+    "genre": "Platformer",
+    "year": 2012
+  },
+  {
+    "name": "Fallen Echoes IV",
+    "genre": "Platformer",
+    "year": 1998
+  },
+  {
+    "name": "Neon Outlaws Ultimate Edition",
+    "genre": "Horror",
+    "year": 2016
+  },
+  {
+    "name": "Broken Arena",
+    "genre": "Action",
+    "year": 2023
+  },
+  {
+    "name": "Silent Protocol Origins",
+    "genre": "Horror",
+    "year": 2019
+  },
+  {
+    "name": "Rising Empire Origins",
+    "genre": "MMO",
+    "year": 2004
+  },
+  {
+    "name": "Lost Kingdom II",
+    "genre": "Horror",
+    "year": 1997
+  },
+  {
+    "name": "Forgotten Expedition Reborn",
+    "genre": "Racing",
+    "year": 1992
+  },
+  {
+    "name": "Shadow Echoes Deluxe",
+    "genre": "Adventure",
+    "year": 2015
+  },
+  {
+    "name": "Shadow Saga Ultimate Edition",
+    "genre": "FPS",
+    "year": 1988
+  },
+  {
+    "name": "Ancient Voyage Reborn",
+    "genre": "Action",
+    "year": 2009
+  },
+  {
+    "name": "Neon Dynasty Deluxe",
+    "genre": "Horror",
+    "year": 1997
+  },
+  {
+    "name": "Golden Frontier III",
+    "genre": "Platformer",
+    "year": 2023
+  },
+  {
+    "name": "Fallen Odyssey Ultimate Edition",
+    "genre": "MMO",
+    "year": 1989
+  },
+  {
+    "name": "Ancient Chronicles Reborn",
+    "genre": "RPG",
+    "year": 2018
+  },
+  {
+    "name": "Dark Quest",
+    "genre": "Adventure",
+    "year": 2012
+  },
+  {
+    "name": "Frozen Horizons III",
+    "genre": "MMO",
+    "year": 2012
+  },
+  {
+    "name": "Lost Expedition Remastered",
+    "genre": "Survival",
+    "year": 1997
+  },
+  {
+    "name": "Eternal Sanctuary III",
+    "genre": "Horror",
+    "year": 2000
+  },
+  {
+    "name": "Neon Horizons III",
+    "genre": "Simulation",
+    "year": 2000
+  },
+  {
+    "name": "Silent Odyssey II",
+    "genre": "Adventure",
+    "year": 2014
+  },
+  {
+    "name": "Broken Odyssey II",
+    "genre": "MMO",
+    "year": 2009
+  },
+  {
+    "name": "Golden Kingdom Remastered",
+    "genre": "Platformer",
+    "year": 2010
+  },
+  {
+    "name": "Fallen Protocol Origins",
+    "genre": "Sandbox",
+    "year": 1988
+  },
+  {
+    "name": "Forgotten Frontier II",
+    "genre": "Horror",
+    "year": 2020
+  },
+  {
+    "name": "Broken Guardians",
+    "genre": "Survival",
+    "year": 2002
+  },
+  {
+    "name": "Shadow Arena Origins",
+    "genre": "MMO",
+    "year": 1989
+  },
+  {
+    "name": "Eternal Citadel Ultimate Edition",
+    "genre": "Horror",
+    "year": 2010
+  },
+  {
+    "name": "Hidden Odyssey Deluxe",
+    "genre": "Sandbox",
+    "year": 2005
+  },
+  {
+    "name": "Radiant Citadel Reborn",
+    "genre": "Puzzle",
+    "year": 2008
+  },
+  {
+    "name": "Final Voyage Deluxe",
+    "genre": "Horror",
+    "year": 1994
+  },
+  {
+    "name": "Crimson Horizons IV",
+    "genre": "RPG",
+    "year": 2020
+  },
+  {
+    "name": "Final Echoes Remastered",
+    "genre": "Puzzle",
+    "year": 2022
+  },
+  {
+    "name": "Wild Rebellion Reborn",
+    "genre": "MMO",
+    "year": 1999
+  },
+  {
+    "name": "Forgotten Horizons Ultimate Edition",
+    "genre": "Puzzle",
+    "year": 2001
+  },
+  {
+    "name": "Final Empire IV",
+    "genre": "Platformer",
+    "year": 2004
+  },
+  {
+    "name": "Fallen Outlaws",
+    "genre": "Roguelike",
+    "year": 1992
+  },
+  {
+    "name": "Dark Echoes Online",
+    "genre": "Adventure",
+    "year": 2005
+  },
+  {
+    "name": "Broken Citadel Reborn",
+    "genre": "Strategy",
+    "year": 2015
+  },
+  {
+    "name": "Iron Sanctuary Deluxe",
+    "genre": "Platformer",
+    "year": 2016
+  },
+  {
+    "name": "Lost Odyssey Origins",
+    "genre": "RPG",
+    "year": 2000
+  },
+  {
+    "name": "Silent Dynasty Ultimate Edition",
+    "genre": "RPG",
+    "year": 2009
+  },
+  {
+    "name": "Lost Empire IV",
+    "genre": "Adventure",
+    "year": 2004
+  },
+  {
+    "name": "Iron Saga Online",
+    "genre": "MMO",
+    "year": 2002
+  },
+  {
+    "name": "Shadow Dynasty IV",
+    "genre": "FPS",
+    "year": 1995
+  },
+  {
+    "name": "Dark Echoes Reborn",
+    "genre": "Sandbox",
+    "year": 2019
+  },
+  {
+    "name": "Shadow Horizons II",
+    "genre": "MMO",
+    "year": 2000
+  },
+  {
+    "name": "Final Protocol Origins",
+    "genre": "Horror",
+    "year": 2001
+  },
+  {
+    "name": "Neon Expedition Ultimate Edition",
+    "genre": "RPG",
+    "year": 1987
+  },
+  {
+    "name": "Forgotten Rebellion Deluxe",
+    "genre": "Racing",
+    "year": 2012
+  },
+  {
+    "name": "Crimson Empire",
+    "genre": "Action",
+    "year": 2015
+  },
+  {
+    "name": "Burning Dynasty",
+    "genre": "Racing",
+    "year": 2021
+  },
+  {
+    "name": "Eternal Echoes Reborn",
+    "genre": "Survival",
+    "year": 2010
+  },
+  {
+    "name": "Lost Frontier",
+    "genre": "Puzzle",
+    "year": 2013
+  },
+  {
+    "name": "Fallen Odyssey IV",
+    "genre": "MMO",
+    "year": 2003
+  },
+  {
+    "name": "Eternal Dynasty IV",
+    "genre": "Action",
+    "year": 2018
+  },
+  {
+    "name": "Neon Odyssey Reborn",
+    "genre": "Platformer",
+    "year": 2011
+  },
+  {
+    "name": "Silent Rebellion Remastered",
+    "genre": "Action",
+    "year": 2008
+  },
+  {
+    "name": "Crimson Dynasty Online",
+    "genre": "Adventure",
+    "year": 2022
+  },
+  {
+    "name": "Dark Guardians",
+    "genre": "Adventure",
+    "year": 1994
+  },
+  {
+    "name": "Rising Quest Online",
+    "genre": "Adventure",
+    "year": 2010
+  },
+  {
+    "name": "Broken Chronicles Reborn",
+    "genre": "Racing",
+    "year": 2002
+  },
+  {
+    "name": "Fallen Empire Origins",
+    "genre": "MMO",
+    "year": 2023
+  },
+  {
+    "name": "Ancient Dynasty II",
+    "genre": "MMO",
+    "year": 2015
+  },
+  {
+    "name": "Iron Odyssey Remastered",
+    "genre": "Simulation",
+    "year": 2002
+  },
+  {
+    "name": "Crimson Sanctuary III",
+    "genre": "Roguelike",
+    "year": 2016
+  },
+  {
+    "name": "Fallen Echoes Remastered",
+    "genre": "Platformer",
+    "year": 1997
+  },
+  {
+    "name": "Wild Echoes Remastered",
+    "genre": "Action",
+    "year": 2017
+  },
+  {
+    "name": "Fallen Expedition IV",
+    "genre": "Platformer",
+    "year": 1987
+  },
+  {
+    "name": "Frozen Outlaws Online",
+    "genre": "FPS",
+    "year": 2011
+  },
+  {
+    "name": "Burning Quest II",
+    "genre": "FPS",
+    "year": 2023
+  },
+  {
+    "name": "Forgotten Arena III",
+    "genre": "Simulation",
+    "year": 2005
+  },
+  {
+    "name": "Shadow Guardians",
+    "genre": "Platformer",
+    "year": 2017
+  },
+  {
+    "name": "Hidden Chronicles Origins",
+    "genre": "FPS",
+    "year": 2013
+  },
+  {
+    "name": "Shadow Echoes Deluxe",
+    "genre": "Puzzle",
+    "year": 1989
+  },
+  {
+    "name": "Radiant Empire III",
+    "genre": "Horror",
+    "year": 1995
+  },
+  {
+    "name": "Broken Chronicles Reborn",
+    "genre": "Action",
+    "year": 2016
+  },
+  {
+    "name": "Dark Sanctuary II",
+    "genre": "Racing",
+    "year": 1992
+  },
+  {
+    "name": "Golden Empire Ultimate Edition",
+    "genre": "Platformer",
+    "year": 1989
+  },
+  {
+    "name": "Silent Odyssey II",
+    "genre": "MMO",
+    "year": 2006
+  },
+  {
+    "name": "Fallen Citadel Online",
+    "genre": "MMO",
+    "year": 2001
+  },
+  {
+    "name": "Frozen Voyage Ultimate Edition",
+    "genre": "Survival",
+    "year": 1985
+  },
+  {
+    "name": "Hidden Protocol Online",
+    "genre": "FPS",
+    "year": 2004
+  },
+  {
+    "name": "Hidden Empire III",
+    "genre": "Sandbox",
+    "year": 1989
+  },
+  {
+    "name": "Dark Arena Origins",
+    "genre": "Puzzle",
+    "year": 1985
+  },
+  {
+    "name": "Crimson Odyssey IV",
+    "genre": "Adventure",
+    "year": 2013
+  },
+  {
+    "name": "Radiant Chronicles IV",
+    "genre": "FPS",
+    "year": 2006
+  },
+  {
+    "name": "Neon Kingdom Deluxe",
+    "genre": "Racing",
+    "year": 1990
+  },
+  {
+    "name": "Neon Voyage IV",
+    "genre": "Strategy",
+    "year": 1987
+  },
+  {
+    "name": "Burning Voyage Reborn",
+    "genre": "Puzzle",
+    "year": 1989
+  },
+  {
+    "name": "Rising Legends Origins",
+    "genre": "RPG",
+    "year": 2010
+  },
+  {
+    "name": "Radiant Odyssey III",
+    "genre": "Adventure",
+    "year": 2003
+  },
+  {
+    "name": "Lost Rebellion Remastered",
+    "genre": "RPG",
+    "year": 2010
+  },
+  {
+    "name": "Golden Sanctuary Remastered",
+    "genre": "Survival",
+    "year": 1985
+  },
+  {
+    "name": "Crimson Protocol Remastered",
+    "genre": "Horror",
+    "year": 1995
+  },
+  {
+    "name": "Broken Chronicles II",
+    "genre": "Action",
+    "year": 2016
+  },
+  {
+    "name": "Rising Odyssey Origins",
+    "genre": "Simulation",
+    "year": 2010
+  },
+  {
+    "name": "Ancient Expedition IV",
+    "genre": "Racing",
+    "year": 2022
+  },
+  {
+    "name": "Burning Frontier Online",
+    "genre": "Racing",
+    "year": 2007
+  },
+  {
+    "name": "Hidden Chronicles IV",
+    "genre": "Simulation",
+    "year": 1995
+  },
+  {
+    "name": "Ancient Rebellion IV",
+    "genre": "Puzzle",
+    "year": 2021
+  },
+  {
+    "name": "Broken Saga Reborn",
+    "genre": "Survival",
+    "year": 2002
+  },
+  {
+    "name": "Wild Empire",
+    "genre": "Racing",
+    "year": 2016
+  },
+  {
+    "name": "Frozen Outlaws Reborn",
+    "genre": "Puzzle",
+    "year": 1997
+  },
+  {
+    "name": "Hidden Saga IV",
+    "genre": "Adventure",
+    "year": 1991
+  },
+  {
+    "name": "Dark Outlaws Origins",
+    "genre": "Survival",
+    "year": 2017
+  },
+  {
+    "name": "Radiant Protocol Ultimate Edition",
+    "genre": "FPS",
+    "year": 2001
+  },
+  {
+    "name": "Radiant Sanctuary Deluxe",
+    "genre": "Puzzle",
+    "year": 2020
+  },
+  {
+    "name": "Radiant Rebellion II",
+    "genre": "Sandbox",
+    "year": 1996
+  },
+  {
+    "name": "Radiant Odyssey Deluxe",
+    "genre": "Horror",
+    "year": 2024
+  },
+  {
+    "name": "Iron Chronicles",
+    "genre": "Sandbox",
+    "year": 2008
+  },
+  {
+    "name": "Eternal Citadel IV",
+    "genre": "FPS",
+    "year": 1996
+  },
+  {
+    "name": "Fallen Chronicles IV",
+    "genre": "Horror",
+    "year": 2008
+  },
+  {
+    "name": "Lost Kingdom II",
+    "genre": "Roguelike",
+    "year": 2003
+  },
+  {
+    "name": "Rising Frontier III",
+    "genre": "MMO",
+    "year": 2000
+  },
+  {
+    "name": "Final Voyage Remastered",
+    "genre": "Platformer",
+    "year": 2021
+  },
+  {
+    "name": "Dark Chronicles Reborn",
+    "genre": "Survival",
+    "year": 1991
+  },
+  {
+    "name": "Final Saga",
+    "genre": "Roguelike",
+    "year": 2025
+  },
+  {
+    "name": "Burning Kingdom Origins",
+    "genre": "MMO",
+    "year": 2019
+  },
+  {
+    "name": "Dark Odyssey II",
+    "genre": "Sandbox",
+    "year": 2012
+  },
+  {
+    "name": "Broken Rebellion III",
+    "genre": "Sandbox",
+    "year": 1991
+  },
+  {
+    "name": "Broken Dynasty Deluxe",
+    "genre": "Puzzle",
+    "year": 2004
+  },
+  {
+    "name": "Ancient Saga Reborn",
+    "genre": "Sandbox",
+    "year": 1999
+  },
+  {
+    "name": "Ancient Expedition Origins",
+    "genre": "Simulation",
+    "year": 2019
+  },
+  {
+    "name": "Hidden Expedition II",
+    "genre": "Horror",
+    "year": 2012
+  },
+  {
+    "name": "Iron Voyage",
+    "genre": "Survival",
+    "year": 1995
+  },
+  {
+    "name": "Crimson Saga Deluxe",
+    "genre": "FPS",
+    "year": 2003
+  },
+  {
+    "name": "Fallen Quest",
+    "genre": "Action",
+    "year": 2003
+  },
+  {
+    "name": "Iron Sanctuary",
+    "genre": "Adventure",
+    "year": 2025
+  },
+  {
+    "name": "Iron Legends Reborn",
+    "genre": "Puzzle",
+    "year": 2001
+  },
+  {
+    "name": "Shadow Dynasty III",
+    "genre": "Strategy",
+    "year": 2014
+  },
+  {
+    "name": "Hidden Frontier Remastered",
+    "genre": "Simulation",
+    "year": 1994
+  },
+  {
+    "name": "Lost Frontier Origins",
+    "genre": "Adventure",
+    "year": 2024
+  },
+  {
+    "name": "Hidden Sanctuary Deluxe",
+    "genre": "RPG",
+    "year": 2020
+  },
+  {
+    "name": "Silent Echoes II",
+    "genre": "Adventure",
+    "year": 1996
+  },
+  {
+    "name": "Shadow Horizons Remastered",
+    "genre": "Platformer",
+    "year": 2017
+  },
+  {
+    "name": "Hidden Quest",
+    "genre": "Platformer",
+    "year": 2023
+  },
+  {
+    "name": "Final Echoes IV",
+    "genre": "Racing",
+    "year": 2020
+  },
+  {
+    "name": "Hidden Sanctuary Online",
+    "genre": "Adventure",
+    "year": 2011
+  },
+  {
+    "name": "Eternal Rebellion Remastered",
+    "genre": "Puzzle",
+    "year": 1988
+  },
+  {
+    "name": "Hidden Protocol",
+    "genre": "Strategy",
+    "year": 2018
+  },
+  {
+    "name": "Shadow Sanctuary II",
+    "genre": "Action",
+    "year": 2005
+  },
+  {
+    "name": "Broken Odyssey",
+    "genre": "FPS",
+    "year": 2004
+  },
+  {
+    "name": "Hidden Legends IV",
+    "genre": "Platformer",
+    "year": 2008
+  },
+  {
+    "name": "Crimson Horizons Online",
+    "genre": "MMO",
+    "year": 1988
+  },
+  {
+    "name": "Eternal Odyssey",
+    "genre": "Platformer",
+    "year": 1986
+  },
+  {
+    "name": "Radiant Saga Online",
+    "genre": "Strategy",
+    "year": 2012
+  },
+  {
+    "name": "Hidden Expedition Origins",
+    "genre": "Survival",
+    "year": 1985
+  },
+  {
+    "name": "Dark Frontier II",
+    "genre": "Adventure",
+    "year": 2019
+  },
+  {
+    "name": "Burning Arena Deluxe",
+    "genre": "Simulation",
+    "year": 1986
+  },
+  {
+    "name": "Hidden Guardians Origins",
+    "genre": "Horror",
+    "year": 1999
+  },
+  {
+    "name": "Rising Outlaws Deluxe",
+    "genre": "Survival",
+    "year": 1995
+  },
+  {
+    "name": "Fallen Arena Origins",
+    "genre": "Roguelike",
+    "year": 2006
+  },
+  {
+    "name": "Hidden Kingdom IV",
+    "genre": "Sandbox",
+    "year": 1990
+  },
+  {
+    "name": "Ancient Echoes Ultimate Edition",
+    "genre": "Adventure",
+    "year": 2011
+  },
+  {
+    "name": "Hidden Expedition Reborn",
+    "genre": "Sandbox",
+    "year": 1988
+  },
+  {
+    "name": "Neon Odyssey Remastered",
+    "genre": "Puzzle",
+    "year": 2003
+  },
+  {
+    "name": "Shadow Kingdom Deluxe",
+    "genre": "Action",
+    "year": 2006
+  },
+  {
+    "name": "Fallen Rebellion Origins",
+    "genre": "Adventure",
+    "year": 1998
+  },
+  {
+    "name": "Dark Odyssey Deluxe",
+    "genre": "FPS",
+    "year": 2010
+  },
+  {
+    "name": "Dark Frontier Ultimate Edition",
+    "genre": "MMO",
+    "year": 2010
+  },
+  {
+    "name": "Burning Quest IV",
+    "genre": "Simulation",
+    "year": 2017
+  },
+  {
+    "name": "Lost Kingdom Remastered",
+    "genre": "Puzzle",
+    "year": 1987
+  },
+  {
+    "name": "Rising Arena Remastered",
+    "genre": "Survival",
+    "year": 1996
+  },
+  {
+    "name": "Dark Outlaws Remastered",
+    "genre": "Racing",
+    "year": 2009
+  },
+  {
+    "name": "Golden Citadel Ultimate Edition",
+    "genre": "Horror",
+    "year": 1986
+  },
+  {
+    "name": "Burning Horizons II",
+    "genre": "Horror",
+    "year": 1994
+  },
+  {
+    "name": "Forgotten Empire III",
+    "genre": "Puzzle",
+    "year": 2006
+  },
+  {
+    "name": "Burning Citadel Ultimate Edition",
+    "genre": "MMO",
+    "year": 2006
+  },
+  {
+    "name": "Rising Kingdom III",
+    "genre": "Platformer",
+    "year": 2012
+  },
+  {
+    "name": "Eternal Frontier Online",
+    "genre": "Action",
+    "year": 2005
+  },
+  {
+    "name": "Neon Echoes",
+    "genre": "Survival",
+    "year": 1994
+  },
+  {
+    "name": "Rising Rebellion IV",
+    "genre": "Roguelike",
+    "year": 2016
+  },
+  {
+    "name": "Iron Saga Online",
+    "genre": "Sandbox",
+    "year": 1995
+  },
+  {
+    "name": "Iron Outlaws",
+    "genre": "Survival",
+    "year": 2023
+  },
+  {
+    "name": "Final Voyage Remastered",
+    "genre": "Platformer",
+    "year": 2010
+  },
+  {
+    "name": "Golden Legends Deluxe",
+    "genre": "Horror",
+    "year": 2011
+  },
+  {
+    "name": "Frozen Legends Reborn",
+    "genre": "MMO",
+    "year": 2002
+  },
+  {
+    "name": "Eternal Echoes",
+    "genre": "Horror",
+    "year": 2010
+  },
+  {
+    "name": "Final Guardians",
+    "genre": "Simulation",
+    "year": 2017
+  },
+  {
+    "name": "Golden Guardians Online",
+    "genre": "Strategy",
+    "year": 2003
+  },
+  {
+    "name": "Shadow Chronicles IV",
+    "genre": "Roguelike",
+    "year": 2002
+  },
+  {
+    "name": "Burning Protocol III",
+    "genre": "Racing",
+    "year": 2023
+  },
+  {
+    "name": "Neon Protocol II",
+    "genre": "RPG",
+    "year": 2004
+  },
+  {
+    "name": "Dark Voyage III",
+    "genre": "Racing",
+    "year": 2023
+  },
+  {
+    "name": "Silent Expedition Online",
+    "genre": "MMO",
+    "year": 1986
+  },
+  {
+    "name": "Dark Rebellion",
+    "genre": "Survival",
+    "year": 1996
+  },
+  {
+    "name": "Frozen Dynasty Origins",
+    "genre": "FPS",
+    "year": 2005
+  },
+  {
+    "name": "Silent Echoes Remastered",
+    "genre": "Simulation",
+    "year": 2023
+  },
+  {
+    "name": "Neon Dynasty Deluxe",
+    "genre": "FPS",
+    "year": 1989
+  },
+  {
+    "name": "Fallen Rebellion Reborn",
+    "genre": "Action",
+    "year": 1986
+  },
+  {
+    "name": "Ancient Protocol Origins",
+    "genre": "RPG",
+    "year": 2021
+  },
+  {
+    "name": "Radiant Rebellion",
+    "genre": "Puzzle",
+    "year": 1994
+  },
+  {
+    "name": "Dark Chronicles Deluxe",
+    "genre": "Horror",
+    "year": 2024
+  },
+  {
+    "name": "Hidden Saga Origins",
+    "genre": "Survival",
+    "year": 2003
+  },
+  {
+    "name": "Fallen Dynasty Online",
+    "genre": "Action",
+    "year": 2000
+  },
+  {
+    "name": "Golden Odyssey Online",
+    "genre": "FPS",
+    "year": 1991
+  },
+  {
+    "name": "Final Protocol Origins",
+    "genre": "Puzzle",
+    "year": 2006
+  },
+  {
+    "name": "Lost Guardians",
+    "genre": "Survival",
+    "year": 2007
+  },
+  {
+    "name": "Forgotten Sanctuary II",
+    "genre": "Horror",
+    "year": 2018
+  },
+  {
+    "name": "Eternal Expedition",
+    "genre": "Action",
+    "year": 2014
+  },
+  {
+    "name": "Ancient Echoes III",
+    "genre": "Roguelike",
+    "year": 2010
+  },
+  {
+    "name": "Dark Expedition IV",
+    "genre": "RPG",
+    "year": 2016
+  },
+  {
+    "name": "Silent Rebellion Deluxe",
+    "genre": "Adventure",
+    "year": 1991
+  },
+  {
+    "name": "Radiant Citadel III",
+    "genre": "MMO",
+    "year": 2025
+  },
+  {
+    "name": "Hidden Empire",
+    "genre": "Adventure",
+    "year": 2011
+  },
+  {
+    "name": "Lost Saga II",
+    "genre": "Horror",
+    "year": 1994
+  },
+  {
+    "name": "Burning Frontier Reborn",
+    "genre": "Horror",
+    "year": 2016
+  },
+  {
+    "name": "Silent Citadel IV",
+    "genre": "Platformer",
+    "year": 1995
+  },
+  {
+    "name": "Wild Empire Remastered",
+    "genre": "Roguelike",
+    "year": 2025
+  },
+  {
+    "name": "Crimson Echoes Ultimate Edition",
+    "genre": "Roguelike",
+    "year": 2016
+  },
+  {
+    "name": "Hidden Rebellion Reborn",
+    "genre": "Horror",
+    "year": 1998
+  },
+  {
+    "name": "Wild Echoes",
+    "genre": "Strategy",
+    "year": 2010
+  },
+  {
+    "name": "Neon Expedition Origins",
+    "genre": "MMO",
+    "year": 2023
+  },
+  {
+    "name": "Broken Voyage Ultimate Edition",
+    "genre": "FPS",
+    "year": 2024
+  },
+  {
+    "name": "Frozen Quest II",
+    "genre": "MMO",
+    "year": 2015
+  },
+  {
+    "name": "Final Chronicles Deluxe",
+    "genre": "MMO",
+    "year": 1985
+  },
+  {
+    "name": "Burning Quest Ultimate Edition",
+    "genre": "Sandbox",
+    "year": 2021
+  },
+  {
+    "name": "Iron Arena II",
+    "genre": "FPS",
+    "year": 2016
+  },
+  {
+    "name": "Broken Dynasty II",
+    "genre": "Horror",
+    "year": 1988
+  },
+  {
+    "name": "Silent Citadel Online",
+    "genre": "MMO",
+    "year": 1990
+  },
+  {
+    "name": "Radiant Sanctuary II",
+    "genre": "Horror",
+    "year": 1996
+  },
+  {
+    "name": "Shadow Legends Deluxe",
+    "genre": "Simulation",
+    "year": 2003
+  },
+  {
+    "name": "Golden Outlaws",
+    "genre": "Strategy",
+    "year": 1990
+  },
+  {
+    "name": "Golden Kingdom II",
+    "genre": "MMO",
+    "year": 2008
+  },
+  {
+    "name": "Eternal Sanctuary Reborn",
+    "genre": "Strategy",
+    "year": 2005
+  },
+  {
+    "name": "Golden Sanctuary IV",
+    "genre": "Horror",
+    "year": 1988
+  },
+  {
+    "name": "Burning Quest IV",
+    "genre": "Racing",
+    "year": 2011
+  },
+  {
+    "name": "Crimson Echoes",
+    "genre": "Puzzle",
+    "year": 1985
+  },
+  {
+    "name": "Ancient Expedition Deluxe",
+    "genre": "Survival",
+    "year": 2025
+  },
+  {
+    "name": "Forgotten Legends Deluxe",
+    "genre": "Platformer",
+    "year": 2024
+  },
+  {
+    "name": "Burning Sanctuary Deluxe",
+    "genre": "Horror",
+    "year": 2017
+  },
+  {
+    "name": "Broken Arena Reborn",
+    "genre": "RPG",
+    "year": 2002
+  },
+  {
+    "name": "Radiant Horizons III",
+    "genre": "Survival",
+    "year": 1993
+  },
+  {
+    "name": "Burning Dynasty III",
+    "genre": "Horror",
+    "year": 2021
+  },
+  {
+    "name": "Dark Citadel II",
+    "genre": "Action",
+    "year": 2009
+  },
+  {
+    "name": "Wild Chronicles II",
+    "genre": "Simulation",
+    "year": 2013
+  },
+  {
+    "name": "Lost Rebellion Origins",
+    "genre": "Puzzle",
+    "year": 2015
+  },
+  {
+    "name": "Shadow Horizons Ultimate Edition",
+    "genre": "Platformer",
+    "year": 1994
+  },
+  {
+    "name": "Crimson Citadel III",
+    "genre": "Roguelike",
+    "year": 2009
+  },
+  {
+    "name": "Frozen Dynasty Deluxe",
+    "genre": "Platformer",
+    "year": 2015
+  },
+  {
+    "name": "Golden Horizons Remastered",
+    "genre": "Roguelike",
+    "year": 2024
+  },
+  {
+    "name": "Ancient Rebellion Online",
+    "genre": "Sandbox",
+    "year": 1989
+  },
+  {
+    "name": "Crimson Citadel Origins",
+    "genre": "Survival",
+    "year": 1994
+  },
+  {
+    "name": "Frozen Voyage Remastered",
+    "genre": "Puzzle",
+    "year": 2002
+  },
+  {
+    "name": "Silent Horizons Deluxe",
+    "genre": "Strategy",
+    "year": 1994
+  },
+  {
+    "name": "Neon Sanctuary IV",
+    "genre": "Simulation",
+    "year": 1993
+  },
+  {
+    "name": "Golden Voyage Origins",
+    "genre": "Survival",
+    "year": 2013
+  },
+  {
+    "name": "Fallen Outlaws Reborn",
+    "genre": "Survival",
+    "year": 1988
+  },
+  {
+    "name": "Silent Horizons Reborn",
+    "genre": "Survival",
+    "year": 2009
+  },
+  {
+    "name": "Silent Sanctuary Reborn",
+    "genre": "Racing",
+    "year": 1989
+  },
+  {
+    "name": "Lost Outlaws III",
+    "genre": "Platformer",
+    "year": 2011
+  },
+  {
+    "name": "Crimson Frontier Origins",
+    "genre": "Simulation",
+    "year": 1985
+  },
+  {
+    "name": "Radiant Empire IV",
+    "genre": "Roguelike",
+    "year": 1988
+  },
+  {
+    "name": "Crimson Legends II",
+    "genre": "Horror",
+    "year": 2009
+  },
+  {
+    "name": "Shadow Odyssey IV",
+    "genre": "RPG",
+    "year": 2021
+  },
+  {
+    "name": "Neon Citadel III",
+    "genre": "FPS",
+    "year": 2007
+  },
+  {
+    "name": "Crimson Kingdom III",
+    "genre": "Simulation",
+    "year": 2013
+  },
+  {
+    "name": "Broken Voyage",
+    "genre": "Sandbox",
+    "year": 2002
+  },
+  {
+    "name": "Silent Voyage IV",
+    "genre": "FPS",
+    "year": 2014
+  },
+  {
+    "name": "Burning Outlaws",
+    "genre": "Racing",
+    "year": 2020
+  },
+  {
+    "name": "Rising Legends Remastered",
+    "genre": "Strategy",
+    "year": 1993
+  },
+  {
+    "name": "Lost Dynasty Reborn",
+    "genre": "FPS",
+    "year": 2008
+  },
+  {
+    "name": "Iron Saga Ultimate Edition",
+    "genre": "MMO",
+    "year": 1988
+  },
+  {
+    "name": "Burning Protocol Remastered",
+    "genre": "Puzzle",
+    "year": 1997
+  },
+  {
+    "name": "Silent Outlaws Ultimate Edition",
+    "genre": "Strategy",
+    "year": 1990
+  },
+  {
+    "name": "Burning Chronicles Deluxe",
+    "genre": "Puzzle",
+    "year": 2000
+  },
+  {
+    "name": "Shadow Legends IV",
+    "genre": "Horror",
+    "year": 1995
+  },
+  {
+    "name": "Burning Echoes Remastered",
+    "genre": "Simulation",
+    "year": 1988
+  },
+  {
+    "name": "Forgotten Horizons IV",
+    "genre": "Platformer",
+    "year": 2004
+  },
+  {
+    "name": "Eternal Quest Origins",
+    "genre": "FPS",
+    "year": 1988
+  },
+  {
+    "name": "Silent Citadel Online",
+    "genre": "Sandbox",
+    "year": 1993
+  },
+  {
+    "name": "Forgotten Echoes Ultimate Edition",
+    "genre": "Platformer",
+    "year": 1988
+  },
+  {
+    "name": "Wild Arena II",
+    "genre": "RPG",
+    "year": 2017
+  },
+  {
+    "name": "Iron Rebellion II",
+    "genre": "Strategy",
+    "year": 2003
+  },
+  {
+    "name": "Iron Horizons IV",
+    "genre": "Sandbox",
+    "year": 1987
+  },
+  {
+    "name": "Lost Voyage Deluxe",
+    "genre": "Platformer",
+    "year": 1999
+  },
+  {
+    "name": "Forgotten Chronicles Remastered",
+    "genre": "Strategy",
+    "year": 2025
+  },
+  {
+    "name": "Dark Chronicles Remastered",
+    "genre": "Roguelike",
+    "year": 2012
+  },
+  {
+    "name": "Radiant Quest",
+    "genre": "Racing",
+    "year": 1994
+  },
+  {
+    "name": "Crimson Arena IV",
+    "genre": "FPS",
+    "year": 2022
+  },
+  {
+    "name": "Dark Rebellion IV",
+    "genre": "Simulation",
+    "year": 2018
+  },
+  {
+    "name": "Dark Quest Ultimate Edition",
+    "genre": "Simulation",
+    "year": 2025
+  },
+  {
+    "name": "Frozen Kingdom Reborn",
+    "genre": "Puzzle",
+    "year": 1987
+  },
+  {
+    "name": "Radiant Chronicles",
+    "genre": "Racing",
+    "year": 2007
+  },
+  {
+    "name": "Eternal Sanctuary Origins",
+    "genre": "Horror",
+    "year": 2001
+  },
+  {
+    "name": "Silent Empire Ultimate Edition",
+    "genre": "Simulation",
+    "year": 1990
+  },
+  {
+    "name": "Lost Legends Online",
+    "genre": "Strategy",
+    "year": 2008
+  },
+  {
+    "name": "Burning Horizons Online",
+    "genre": "MMO",
+    "year": 2021
+  },
+  {
+    "name": "Crimson Guardians III",
+    "genre": "Horror",
+    "year": 2017
+  },
+  {
+    "name": "Frozen Outlaws Reborn",
+    "genre": "Strategy",
+    "year": 2023
+  },
+  {
+    "name": "Radiant Chronicles II",
+    "genre": "Adventure",
+    "year": 1991
+  },
+  {
+    "name": "Wild Saga Origins",
+    "genre": "Horror",
+    "year": 1998
+  },
+  {
+    "name": "Crimson Echoes Origins",
+    "genre": "MMO",
+    "year": 2015
+  },
+  {
+    "name": "Hidden Citadel II",
+    "genre": "RPG",
+    "year": 2011
+  },
+  {
+    "name": "Wild Arena II",
+    "genre": "Sandbox",
+    "year": 1997
+  },
+  {
+    "name": "Burning Arena Ultimate Edition",
+    "genre": "RPG",
+    "year": 1993
+  },
+  {
+    "name": "Radiant Dynasty II",
+    "genre": "Horror",
+    "year": 2000
+  },
+  {
+    "name": "Fallen Quest Origins",
+    "genre": "Roguelike",
+    "year": 2020
+  },
+  {
+    "name": "Frozen Protocol III",
+    "genre": "Racing",
+    "year": 1992
+  },
+  {
+    "name": "Frozen Citadel Deluxe",
+    "genre": "MMO",
+    "year": 2004
+  },
+  {
+    "name": "Ancient Legends Ultimate Edition",
+    "genre": "Survival",
+    "year": 2002
+  },
+  {
+    "name": "Frozen Outlaws II",
+    "genre": "Sandbox",
+    "year": 2013
+  },
+  {
+    "name": "Fallen Legends Deluxe",
+    "genre": "RPG",
+    "year": 2004
+  },
+  {
+    "name": "Fallen Chronicles Deluxe",
+    "genre": "Sandbox",
+    "year": 1991
+  },
+  {
+    "name": "Shadow Frontier Remastered",
+    "genre": "MMO",
+    "year": 1998
+  },
+  {
+    "name": "Wild Kingdom Origins",
+    "genre": "Platformer",
+    "year": 2004
+  },
+  {
+    "name": "Shadow Quest Remastered",
+    "genre": "Action",
+    "year": 2024
+  },
+  {
+    "name": "Neon Outlaws II",
+    "genre": "FPS",
+    "year": 1990
+  },
+  {
+    "name": "Lost Saga Remastered",
+    "genre": "Horror",
+    "year": 2012
+  },
+  {
+    "name": "Broken Guardians IV",
+    "genre": "RPG",
+    "year": 2000
+  },
+  {
+    "name": "Rising Saga Online",
+    "genre": "Survival",
+    "year": 1986
+  },
+  {
+    "name": "Shadow Kingdom Online",
+    "genre": "Platformer",
+    "year": 2001
+  },
+  {
+    "name": "Radiant Saga Online",
+    "genre": "Sandbox",
+    "year": 2015
+  },
+  {
+    "name": "Hidden Empire Reborn",
+    "genre": "Racing",
+    "year": 2025
+  },
+  {
+    "name": "Rising Horizons Deluxe",
+    "genre": "Survival",
+    "year": 2013
+  },
+  {
+    "name": "Ancient Chronicles Deluxe",
+    "genre": "Adventure",
+    "year": 2020
+  },
+  {
+    "name": "Wild Outlaws Origins",
+    "genre": "Sandbox",
+    "year": 2002
+  },
+  {
+    "name": "Lost Chronicles",
+    "genre": "RPG",
+    "year": 2003
+  },
+  {
+    "name": "Crimson Dynasty Remastered",
+    "genre": "RPG",
+    "year": 1994
+  },
+  {
+    "name": "Golden Rebellion Ultimate Edition",
+    "genre": "Action",
+    "year": 1990
+  },
+  {
+    "name": "Fallen Arena Reborn",
+    "genre": "FPS",
+    "year": 1992
+  },
+  {
+    "name": "Golden Chronicles Origins",
+    "genre": "RPG",
+    "year": 1994
+  },
+  {
+    "name": "Golden Voyage Ultimate Edition",
+    "genre": "Puzzle",
+    "year": 2025
+  },
+  {
+    "name": "Eternal Frontier Deluxe",
+    "genre": "Puzzle",
+    "year": 1993
+  },
+  {
+    "name": "Forgotten Rebellion Ultimate Edition",
+    "genre": "MMO",
+    "year": 2010
+  },
+  {
+    "name": "Ancient Odyssey IV",
+    "genre": "Action",
+    "year": 1985
+  },
+  {
+    "name": "Dark Expedition",
+    "genre": "Racing",
+    "year": 2000
+  },
+  {
+    "name": "Ancient Quest Ultimate Edition",
+    "genre": "Strategy",
+    "year": 2002
+  },
+  {
+    "name": "Burning Guardians Remastered",
+    "genre": "Platformer",
+    "year": 2012
+  },
+  {
+    "name": "Radiant Arena Remastered",
+    "genre": "Racing",
+    "year": 2021
+  },
+  {
+    "name": "Eternal Odyssey Deluxe",
+    "genre": "Simulation",
+    "year": 1988
+  },
+  {
+    "name": "Rising Outlaws Reborn",
+    "genre": "Sandbox",
+    "year": 2002
+  },
+  {
+    "name": "Radiant Saga Deluxe",
+    "genre": "Puzzle",
+    "year": 1998
+  },
+  {
+    "name": "Wild Guardians Remastered",
+    "genre": "Survival",
+    "year": 2006
+  },
+  {
+    "name": "Rising Rebellion Reborn",
+    "genre": "Platformer",
+    "year": 1987
+  },
+  {
+    "name": "Neon Voyage IV",
+    "genre": "MMO",
+    "year": 2002
+  },
+  {
+    "name": "Rising Horizons Online",
+    "genre": "MMO",
+    "year": 1995
+  },
+  {
+    "name": "Iron Sanctuary",
+    "genre": "Platformer",
+    "year": 1993
+  },
+  {
+    "name": "Frozen Voyage II",
+    "genre": "Platformer",
+    "year": 2023
+  },
+  {
+    "name": "Iron Echoes",
+    "genre": "Platformer",
+    "year": 2005
+  },
+  {
+    "name": "Fallen Echoes Reborn",
+    "genre": "Platformer",
+    "year": 2004
+  },
+  {
+    "name": "Burning Sanctuary Deluxe",
+    "genre": "Roguelike",
+    "year": 1997
+  },
+  {
+    "name": "Forgotten Saga Ultimate Edition",
+    "genre": "Strategy",
+    "year": 1994
+  },
+  {
+    "name": "Final Protocol Reborn",
+    "genre": "Platformer",
+    "year": 2020
+  },
+  {
+    "name": "Wild Frontier Reborn",
+    "genre": "Platformer",
+    "year": 2008
+  },
+  {
+    "name": "Final Horizons Deluxe",
+    "genre": "RPG",
+    "year": 1986
+  },
+  {
+    "name": "Radiant Saga Online",
+    "genre": "Action",
+    "year": 1995
+  },
+  {
+    "name": "Broken Chronicles Ultimate Edition",
+    "genre": "RPG",
+    "year": 2004
+  },
+  {
+    "name": "Ancient Protocol Remastered",
+    "genre": "Survival",
+    "year": 2021
+  },
+  {
+    "name": "Iron Rebellion Online",
+    "genre": "Platformer",
+    "year": 1994
+  },
+  {
+    "name": "Frozen Citadel",
+    "genre": "RPG",
+    "year": 2011
+  },
+  {
+    "name": "Final Legends Remastered",
+    "genre": "FPS",
+    "year": 1990
+  },
+  {
+    "name": "Hidden Odyssey",
+    "genre": "RPG",
+    "year": 2014
+  },
+  {
+    "name": "Radiant Citadel Reborn",
+    "genre": "Platformer",
+    "year": 2006
+  },
+  {
+    "name": "Broken Horizons Ultimate Edition",
+    "genre": "Horror",
+    "year": 1993
+  },
+  {
+    "name": "Rising Protocol Online",
+    "genre": "Platformer",
+    "year": 2000
+  },
+  {
+    "name": "Wild Rebellion II",
+    "genre": "Action",
+    "year": 2007
+  },
+  {
+    "name": "Final Guardians Ultimate Edition",
+    "genre": "Action",
+    "year": 2006
+  },
+  {
+    "name": "Silent Echoes III",
+    "genre": "Action",
+    "year": 2011
+  },
+  {
+    "name": "Lost Empire Deluxe",
+    "genre": "Roguelike",
+    "year": 2017
+  },
+  {
+    "name": "Dark Arena Deluxe",
+    "genre": "Adventure",
+    "year": 2019
+  },
+  {
+    "name": "Crimson Empire IV",
+    "genre": "FPS",
+    "year": 1993
+  },
+  {
+    "name": "Hidden Voyage Ultimate Edition",
+    "genre": "Platformer",
+    "year": 2016
+  },
+  {
+    "name": "Fallen Citadel Ultimate Edition",
+    "genre": "RPG",
+    "year": 2007
+  },
+  {
+    "name": "Fallen Horizons Reborn",
+    "genre": "Racing",
+    "year": 2002
+  },
+  {
+    "name": "Hidden Citadel Reborn",
+    "genre": "Roguelike",
+    "year": 1998
+  },
+  {
+    "name": "Ancient Chronicles Ultimate Edition",
+    "genre": "Action",
+    "year": 2016
+  },
+  {
+    "name": "Iron Arena III",
+    "genre": "Survival",
+    "year": 2013
+  },
+  {
+    "name": "Fallen Dynasty Online",
+    "genre": "FPS",
+    "year": 1992
+  },
+  {
+    "name": "Final Legends III",
+    "genre": "Strategy",
+    "year": 1994
+  },
+  {
+    "name": "Iron Guardians Reborn",
+    "genre": "Racing",
+    "year": 1990
+  },
+  {
+    "name": "Burning Horizons Remastered",
+    "genre": "Survival",
+    "year": 1997
+  },
+  {
+    "name": "Wild Expedition",
+    "genre": "Adventure",
+    "year": 2001
+  },
+  {
+    "name": "Burning Rebellion Remastered",
+    "genre": "Puzzle",
+    "year": 2024
+  },
+  {
+    "name": "Frozen Outlaws IV",
+    "genre": "MMO",
+    "year": 2012
+  },
+  {
+    "name": "Golden Horizons Remastered",
+    "genre": "RPG",
+    "year": 2022
+  },
+  {
+    "name": "Frozen Legends Ultimate Edition",
+    "genre": "Action",
+    "year": 2023
+  },
+  {
+    "name": "Ancient Rebellion Reborn",
+    "genre": "RPG",
+    "year": 1993
+  },
+  {
+    "name": "Golden Quest Online",
+    "genre": "Racing",
+    "year": 2023
+  },
+  {
+    "name": "Iron Citadel Ultimate Edition",
+    "genre": "Strategy",
+    "year": 1994
+  },
+  {
+    "name": "Broken Chronicles",
+    "genre": "Racing",
+    "year": 1985
+  },
+  {
+    "name": "Iron Protocol Online",
+    "genre": "Simulation",
+    "year": 1999
+  },
+  {
+    "name": "Neon Voyage Remastered",
+    "genre": "Action",
+    "year": 2009
+  },
+  {
+    "name": "Iron Chronicles II",
+    "genre": "Simulation",
+    "year": 2004
+  },
+  {
+    "name": "Ancient Citadel IV",
+    "genre": "Puzzle",
+    "year": 1998
+  },
+  {
+    "name": "Golden Outlaws Remastered",
+    "genre": "MMO",
+    "year": 2009
+  },
+  {
+    "name": "Hidden Outlaws Ultimate Edition",
+    "genre": "Adventure",
+    "year": 2017
+  },
+  {
+    "name": "Ancient Outlaws",
+    "genre": "Adventure",
+    "year": 2016
+  },
+  {
+    "name": "Dark Citadel Remastered",
+    "genre": "Platformer",
+    "year": 2008
+  },
+  {
+    "name": "Broken Empire Origins",
+    "genre": "Horror",
+    "year": 2011
+  },
+  {
+    "name": "Eternal Horizons Origins",
+    "genre": "RPG",
+    "year": 2006
+  },
+  {
+    "name": "Forgotten Outlaws Deluxe",
+    "genre": "Adventure",
+    "year": 1994
+  },
+  {
+    "name": "Crimson Odyssey IV",
+    "genre": "Platformer",
+    "year": 2000
+  },
+  {
+    "name": "Dark Empire",
+    "genre": "FPS",
+    "year": 2005
+  },
+  {
+    "name": "Fallen Expedition Remastered",
+    "genre": "Racing",
+    "year": 1985
+  },
+  {
+    "name": "Lost Frontier III",
+    "genre": "Sandbox",
+    "year": 2011
+  },
+  {
+    "name": "Iron Voyage III",
+    "genre": "Platformer",
+    "year": 2020
+  },
+  {
+    "name": "Burning Odyssey Origins",
+    "genre": "Action",
+    "year": 2012
+  },
+  {
+    "name": "Hidden Chronicles Ultimate Edition",
+    "genre": "FPS",
+    "year": 2011
+  },
+  {
+    "name": "Lost Arena",
+    "genre": "Puzzle",
+    "year": 2011
+  },
+  {
+    "name": "Radiant Expedition Remastered",
+    "genre": "Sandbox",
+    "year": 2002
+  },
+  {
+    "name": "Golden Sanctuary III",
+    "genre": "Strategy",
+    "year": 2024
+  },
+  {
+    "name": "Fallen Outlaws Ultimate Edition",
+    "genre": "Survival",
+    "year": 2017
+  },
+  {
+    "name": "Fallen Outlaws IV",
+    "genre": "Action",
+    "year": 2013
+  },
+  {
+    "name": "Eternal Chronicles Ultimate Edition",
+    "genre": "Puzzle",
+    "year": 2017
+  },
+  {
+    "name": "Burning Quest IV",
+    "genre": "FPS",
+    "year": 2006
+  },
+  {
+    "name": "Frozen Empire III",
+    "genre": "RPG",
+    "year": 2010
+  },
+  {
+    "name": "Eternal Empire Online",
+    "genre": "Sandbox",
+    "year": 2004
+  },
+  {
+    "name": "Radiant Quest Origins",
+    "genre": "Roguelike",
+    "year": 2000
+  },
+  {
+    "name": "Frozen Expedition",
+    "genre": "MMO",
+    "year": 2009
+  },
+  {
+    "name": "Lost Odyssey Deluxe",
+    "genre": "MMO",
+    "year": 2014
+  },
+  {
+    "name": "Iron Odyssey II",
+    "genre": "Adventure",
+    "year": 1991
+  },
+  {
+    "name": "Fallen Legends III",
+    "genre": "Survival",
+    "year": 1999
+  },
+  {
+    "name": "Neon Quest Deluxe",
+    "genre": "Survival",
+    "year": 2021
+  },
+  {
+    "name": "Final Echoes Reborn",
+    "genre": "Survival",
+    "year": 2015
+  },
+  {
+    "name": "Crimson Arena III",
+    "genre": "Horror",
+    "year": 1995
+  },
+  {
+    "name": "Eternal Outlaws Ultimate Edition",
+    "genre": "Horror",
+    "year": 2000
+  },
+  {
+    "name": "Ancient Odyssey Online",
+    "genre": "Adventure",
+    "year": 1997
+  },
+  {
+    "name": "Wild Quest Reborn",
+    "genre": "Survival",
+    "year": 1988
+  },
+  {
+    "name": "Golden Chronicles Ultimate Edition",
+    "genre": "Strategy",
+    "year": 2011
+  },
+  {
+    "name": "Hidden Empire Online",
+    "genre": "Adventure",
+    "year": 2015
+  },
+  {
+    "name": "Rising Rebellion Ultimate Edition",
+    "genre": "Roguelike",
+    "year": 2004
+  }
 ]
