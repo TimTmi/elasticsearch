@@ -40,7 +40,7 @@ input.addEventListener("input", () => {
 
       const first = data[0];
 
-      if (first && first.toLowerCase().startsWith(q.toLowerCase())) {
+      if (first && first.name.toLowerCase().startsWith(q.toLowerCase())) {
         ghost.value = q + first.slice(q.length);
       } else {
         ghost.value = "";
