@@ -25,7 +25,7 @@ async function search(request, env) {
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      size: 5,
+      size: 13,
       query: {
         multi_match: {
           query: q,
