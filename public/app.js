@@ -67,9 +67,5 @@ results.addEventListener("click", (e) => {
     const year = e.target.dataset.year;
 
     alert(`${name}\nGenre: ${genre}\nYear: ${year}`);
-
-    input.value = name;
-    ghost.value = "";
-    results.innerHTML = "";
   }
 });
