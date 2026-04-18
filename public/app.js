@@ -28,9 +28,13 @@ input.addEventListener("input", () => {
       const data = await res.json();
 
       results.innerHTML = "";
-      data.forEach((r) => {
+      data.forEach((game) => {
         const li = document.createElement("li");
-        li.textContent = r;
+
+        li.textContent = game.name;
+        li.dataset.genre = game.genre;
+        li.dataset.year = game.year;
+
         results.appendChild(li);
       });
 
@@ -58,7 +62,13 @@ input.addEventListener("keydown", (e) => {
 
 results.addEventListener("click", (e) => {
   if (e.target.tagName === "LI") {
-    input.value = e.target.textContent;
+    const name = e.target.textContent;
+    const genre = e.target.dataset.genre;
+    const year = e.target.dataset.year;
+
+    alert(`${name}\nGenre: ${genre}\nYear: ${year}`);
+
+    input.value = name;
     ghost.value = "";
     results.innerHTML = "";
   }

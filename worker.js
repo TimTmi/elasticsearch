@@ -37,7 +37,7 @@ async function search(request, env) {
   });
 
   const json = await es.json();
-  const results = json.hits.hits.map((h) => h._source.name);
+  const results = json.hits.hits.map((h) => h._source);
 
   return Response.json(results);
 }
