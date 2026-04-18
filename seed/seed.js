@@ -13,6 +13,13 @@ const headers = {
 
 const games = JSON.parse(fs.readFileSync("./games.json"));
 
+async function deleteIndex() {
+  await fetch(`${ES_URL}/games?ignore_unavailable=true`, {
+    method: "DELETE",
+    headers,
+  });
+}
+
 async function createIndex() {
   await fetch(`${ES_URL}/games`, {
     method: "PUT",
@@ -50,6 +57,7 @@ async function bulkInsert() {
 }
 
 async function run() {
+  await deleteIndex();
   await createIndex();
   await bulkInsert();
   console.log("seed complete");
