@@ -1,5002 +1,5002 @@
 [
   {
-    "name": "Burning Kingdom Origins",
-    "genre": "Strategy",
-    "year": 2000
-  },
-  {
-    "name": "Crimson Horizons III",
-    "genre": "Puzzle",
-    "year": 2009
-  },
-  {
-    "name": "Dark Saga Origins",
-    "genre": "RPG",
-    "year": 1993
-  },
-  {
-    "name": "Rising Dynasty II",
-    "genre": "Platformer",
-    "year": 2006
-  },
-  {
-    "name": "Forgotten Citadel Origins",
-    "genre": "Horror",
-    "year": 2020
-  },
-  {
-    "name": "Eternal Citadel Reborn",
-    "genre": "Action",
-    "year": 2015
-  },
-  {
-    "name": "Iron Horizons II",
+    "name": "Minecraft",
     "genre": "Sandbox",
-    "year": 2021
-  },
-  {
-    "name": "Forgotten Guardians Online",
-    "genre": "Puzzle",
-    "year": 2008
-  },
-  {
-    "name": "Dark Horizons Deluxe",
-    "genre": "MMO",
-    "year": 1989
-  },
-  {
-    "name": "Silent Legends",
-    "genre": "FPS",
-    "year": 1988
-  },
-  {
-    "name": "Fallen Kingdom III",
-    "genre": "FPS",
-    "year": 2014
-  },
-  {
-    "name": "Rising Chronicles Remastered",
-    "genre": "MMO",
-    "year": 2002
-  },
-  {
-    "name": "Rising Citadel II",
-    "genre": "Horror",
-    "year": 1999
-  },
-  {
-    "name": "Crimson Echoes Ultimate Edition",
-    "genre": "Roguelike",
-    "year": 2008
-  },
-  {
-    "name": "Ancient Expedition Online",
-    "genre": "Adventure",
-    "year": 2015
-  },
-  {
-    "name": "Hidden Empire III",
-    "genre": "Action",
-    "year": 2009
-  },
-  {
-    "name": "Forgotten Sanctuary Reborn",
-    "genre": "Sandbox",
-    "year": 2008
-  },
-  {
-    "name": "Dark Horizons Origins",
-    "genre": "MMO",
-    "year": 1987
-  },
-  {
-    "name": "Rising Voyage Remastered",
-    "genre": "RPG",
-    "year": 2000
-  },
-  {
-    "name": "Radiant Legends Remastered",
-    "genre": "MMO",
-    "year": 1991
-  },
-  {
-    "name": "Crimson Protocol Origins",
-    "genre": "Simulation",
-    "year": 2009
-  },
-  {
-    "name": "Iron Expedition Remastered",
-    "genre": "Strategy",
-    "year": 2023
-  },
-  {
-    "name": "Wild Rebellion Reborn",
-    "genre": "MMO",
-    "year": 1991
-  },
-  {
-    "name": "Broken Protocol Reborn",
-    "genre": "Roguelike",
-    "year": 2022
-  },
-  {
-    "name": "Neon Expedition Origins",
-    "genre": "Strategy",
-    "year": 1992
-  },
-  {
-    "name": "Final Empire IV",
-    "genre": "Simulation",
-    "year": 1990
-  },
-  {
-    "name": "Lost Citadel Reborn",
-    "genre": "Simulation",
-    "year": 2020
-  },
-  {
-    "name": "Crimson Empire Origins",
-    "genre": "Action",
-    "year": 1999
-  },
-  {
-    "name": "Golden Sanctuary Ultimate Edition",
-    "genre": "FPS",
-    "year": 1994
-  },
-  {
-    "name": "Silent Expedition Online",
-    "genre": "Strategy",
-    "year": 1996
-  },
-  {
-    "name": "Shadow Horizons Ultimate Edition",
-    "genre": "Roguelike",
-    "year": 1998
-  },
-  {
-    "name": "Burning Rebellion II",
-    "genre": "Strategy",
-    "year": 1991
-  },
-  {
-    "name": "Lost Rebellion IV",
-    "genre": "Strategy",
-    "year": 1996
-  },
-  {
-    "name": "Hidden Frontier Deluxe",
-    "genre": "Platformer",
-    "year": 1986
-  },
-  {
-    "name": "Hidden Arena",
-    "genre": "Roguelike",
-    "year": 2001
-  },
-  {
-    "name": "Broken Echoes II",
-    "genre": "Puzzle",
     "year": 2011
   },
   {
-    "name": "Hidden Expedition IV",
-    "genre": "Sandbox",
-    "year": 2002
-  },
-  {
-    "name": "Fallen Legends IV",
+    "name": "Grand Theft Auto V",
     "genre": "Action",
     "year": 2013
   },
   {
-    "name": "Crimson Arena Reborn",
-    "genre": "Sandbox",
-    "year": 1998
+    "name": "Grand Theft Auto IV",
+    "genre": "Action",
+    "year": 2008
   },
   {
-    "name": "Golden Saga Remastered",
-    "genre": "Simulation",
-    "year": 1992
+    "name": "Grand Theft Auto: San Andreas",
+    "genre": "Action",
+    "year": 2004
   },
   {
-    "name": "Frozen Arena Deluxe",
-    "genre": "Horror",
+    "name": "Grand Theft Auto: Vice City",
+    "genre": "Action",
     "year": 2002
   },
   {
-    "name": "Burning Arena II",
-    "genre": "Survival",
-    "year": 1988
-  },
-  {
-    "name": "Final Citadel Deluxe",
-    "genre": "FPS",
-    "year": 2017
-  },
-  {
-    "name": "Fallen Horizons II",
-    "genre": "Platformer",
-    "year": 1985
-  },
-  {
-    "name": "Broken Legends Ultimate Edition",
-    "genre": "FPS",
-    "year": 2023
-  },
-  {
-    "name": "Wild Guardians Deluxe",
-    "genre": "MMO",
-    "year": 2000
-  },
-  {
-    "name": "Neon Sanctuary Remastered",
-    "genre": "Horror",
-    "year": 2012
-  },
-  {
-    "name": "Broken Outlaws II",
-    "genre": "FPS",
-    "year": 1996
-  },
-  {
-    "name": "Fallen Dynasty III",
+    "name": "Grand Theft Auto III",
     "genre": "Action",
-    "year": 2020
-  },
-  {
-    "name": "Eternal Empire Deluxe",
-    "genre": "Puzzle",
-    "year": 2014
-  },
-  {
-    "name": "Crimson Frontier Reborn",
-    "genre": "Sandbox",
-    "year": 2024
-  },
-  {
-    "name": "Final Protocol Online",
-    "genre": "Adventure",
-    "year": 1991
-  },
-  {
-    "name": "Crimson Sanctuary",
-    "genre": "Action",
-    "year": 1990
-  },
-  {
-    "name": "Hidden Expedition Ultimate Edition",
-    "genre": "Adventure",
-    "year": 2021
-  },
-  {
-    "name": "Final Odyssey IV",
-    "genre": "FPS",
-    "year": 1992
-  },
-  {
-    "name": "Final Legends III",
-    "genre": "Action",
-    "year": 1993
-  },
-  {
-    "name": "Ancient Horizons IV",
-    "genre": "RPG",
-    "year": 2015
-  },
-  {
-    "name": "Frozen Echoes II",
-    "genre": "Survival",
-    "year": 1991
-  },
-  {
-    "name": "Ancient Citadel Remastered",
-    "genre": "Adventure",
-    "year": 1986
-  },
-  {
-    "name": "Eternal Protocol Origins",
-    "genre": "RPG",
-    "year": 1997
-  },
-  {
-    "name": "Fallen Echoes IV",
-    "genre": "Platformer",
-    "year": 1987
-  },
-  {
-    "name": "Lost Citadel II",
-    "genre": "Action",
-    "year": 2023
-  },
-  {
-    "name": "Radiant Saga Remastered",
-    "genre": "MMO",
-    "year": 2005
-  },
-  {
-    "name": "Broken Guardians Origins",
-    "genre": "RPG",
-    "year": 2021
-  },
-  {
-    "name": "Shadow Voyage Origins",
-    "genre": "Adventure",
-    "year": 2022
-  },
-  {
-    "name": "Ancient Legends II",
-    "genre": "Horror",
-    "year": 1998
-  },
-  {
-    "name": "Silent Saga Online",
-    "genre": "Survival",
     "year": 2001
   },
   {
-    "name": "Neon Quest II",
-    "genre": "FPS",
-    "year": 1995
-  },
-  {
-    "name": "Dark Frontier Reborn",
-    "genre": "Racing",
-    "year": 2014
-  },
-  {
-    "name": "Wild Odyssey",
-    "genre": "Adventure",
-    "year": 1988
-  },
-  {
-    "name": "Dark Guardians IV",
-    "genre": "Racing",
-    "year": 2001
-  },
-  {
-    "name": "Eternal Expedition IV",
-    "genre": "MMO",
-    "year": 2021
-  },
-  {
-    "name": "Lost Echoes Origins",
-    "genre": "Horror",
-    "year": 1997
-  },
-  {
-    "name": "Wild Voyage Reborn",
-    "genre": "Strategy",
-    "year": 1986
-  },
-  {
-    "name": "Dark Frontier IV",
-    "genre": "Survival",
-    "year": 2020
-  },
-  {
-    "name": "Hidden Empire II",
-    "genre": "Horror",
-    "year": 2009
-  },
-  {
-    "name": "Golden Echoes Deluxe",
-    "genre": "Strategy",
-    "year": 1992
-  },
-  {
-    "name": "Eternal Odyssey IV",
-    "genre": "Strategy",
-    "year": 2018
-  },
-  {
-    "name": "Hidden Outlaws IV",
-    "genre": "Survival",
-    "year": 2021
-  },
-  {
-    "name": "Eternal Sanctuary III",
-    "genre": "Action",
-    "year": 2012
-  },
-  {
-    "name": "Hidden Arena Origins",
-    "genre": "Roguelike",
-    "year": 2000
-  },
-  {
-    "name": "Forgotten Protocol IV",
-    "genre": "Roguelike",
-    "year": 2022
-  },
-  {
-    "name": "Rising Saga Ultimate Edition",
+    "name": "The Elder Scrolls V: Skyrim",
     "genre": "RPG",
-    "year": 2007
-  },
-  {
-    "name": "Burning Sanctuary IV",
-    "genre": "Action",
     "year": 2011
   },
   {
-    "name": "Lost Rebellion Origins",
-    "genre": "Roguelike",
-    "year": 1998
+    "name": "The Elder Scrolls IV: Oblivion",
+    "genre": "RPG",
+    "year": 2006
   },
   {
-    "name": "Golden Dynasty II",
-    "genre": "Survival",
-    "year": 2005
+    "name": "The Elder Scrolls III: Morrowind",
+    "genre": "RPG",
+    "year": 2002
   },
   {
-    "name": "Forgotten Rebellion Online",
+    "name": "The Witcher 3: Wild Hunt",
     "genre": "RPG",
     "year": 2015
   },
   {
-    "name": "Hidden Sanctuary Reborn",
-    "genre": "Racing",
-    "year": 1999
-  },
-  {
-    "name": "Burning Echoes",
+    "name": "The Witcher 2: Assassins of Kings",
     "genre": "RPG",
-    "year": 1999
+    "year": 2011
   },
   {
-    "name": "Crimson Outlaws Reborn",
-    "genre": "MMO",
-    "year": 1999
+    "name": "The Witcher",
+    "genre": "RPG",
+    "year": 2007
   },
   {
-    "name": "Final Legends",
-    "genre": "Roguelike",
+    "name": "Dark Souls",
+    "genre": "RPG",
+    "year": 2011
+  },
+  {
+    "name": "Dark Souls II",
+    "genre": "RPG",
     "year": 2014
   },
   {
-    "name": "Fallen Dynasty Deluxe",
-    "genre": "Sandbox",
+    "name": "Dark Souls III",
+    "genre": "RPG",
+    "year": 2016
+  },
+  {
+    "name": "Elden Ring",
+    "genre": "RPG",
+    "year": 2022
+  },
+  {
+    "name": "Sekiro: Shadows Die Twice",
+    "genre": "Action",
+    "year": 2019
+  },
+  {
+    "name": "Bloodborne",
+    "genre": "RPG",
     "year": 2015
   },
   {
-    "name": "Dark Chronicles IV",
-    "genre": "MMO",
-    "year": 2025
+    "name": "Portal",
+    "genre": "Puzzle",
+    "year": 2007
   },
   {
-    "name": "Wild Quest Deluxe",
-    "genre": "Racing",
-    "year": 1987
+    "name": "Portal 2",
+    "genre": "Puzzle",
+    "year": 2011
   },
   {
-    "name": "Lost Sanctuary Online",
-    "genre": "Platformer",
-    "year": 1985
-  },
-  {
-    "name": "Crimson Citadel Remastered",
+    "name": "Half-Life",
     "genre": "FPS",
     "year": 1998
   },
   {
-    "name": "Burning Kingdom Deluxe",
-    "genre": "Simulation",
-    "year": 2007
-  },
-  {
-    "name": "Dark Outlaws III",
-    "genre": "Action",
-    "year": 1993
-  },
-  {
-    "name": "Crimson Legends Ultimate Edition",
-    "genre": "RPG",
-    "year": 2025
-  },
-  {
-    "name": "Hidden Empire III",
-    "genre": "Strategy",
-    "year": 1997
-  },
-  {
-    "name": "Crimson Saga Online",
+    "name": "Half-Life 2",
     "genre": "FPS",
-    "year": 2009
-  },
-  {
-    "name": "Neon Quest Origins",
-    "genre": "MMO",
-    "year": 1992
-  },
-  {
-    "name": "Ancient Odyssey Origins",
-    "genre": "Platformer",
-    "year": 2010
-  },
-  {
-    "name": "Shadow Protocol IV",
-    "genre": "Adventure",
     "year": 2004
   },
   {
-    "name": "Ancient Odyssey Ultimate Edition",
-    "genre": "Horror",
+    "name": "Half-Life 2: Episode One",
+    "genre": "FPS",
+    "year": 2006
+  },
+  {
+    "name": "Half-Life 2: Episode Two",
+    "genre": "FPS",
+    "year": 2007
+  },
+  {
+    "name": "Counter-Strike",
+    "genre": "FPS",
+    "year": 2000
+  },
+  {
+    "name": "Counter-Strike: Source",
+    "genre": "FPS",
+    "year": 2004
+  },
+  {
+    "name": "Counter-Strike: Global Offensive",
+    "genre": "FPS",
+    "year": 2012
+  },
+  {
+    "name": "Counter-Strike 2",
+    "genre": "FPS",
     "year": 2023
   },
   {
-    "name": "Dark Horizons",
+    "name": "Civilization V",
     "genre": "Strategy",
-    "year": 2004
+    "year": 2010
   },
   {
-    "name": "Dark Arena Online",
-    "genre": "Action",
-    "year": 2007
+    "name": "Civilization VI",
+    "genre": "Strategy",
+    "year": 2016
   },
   {
-    "name": "Fallen Protocol Reborn",
-    "genre": "Action",
-    "year": 2009
-  },
-  {
-    "name": "Forgotten Rebellion II",
-    "genre": "Simulation",
-    "year": 1987
-  },
-  {
-    "name": "Eternal Saga III",
-    "genre": "Racing",
-    "year": 2020
-  },
-  {
-    "name": "Wild Saga Reborn",
-    "genre": "RPG",
-    "year": 1993
-  },
-  {
-    "name": "Golden Empire Online",
-    "genre": "Survival",
+    "name": "Age of Empires II",
+    "genre": "Strategy",
     "year": 1999
   },
   {
-    "name": "Neon Sanctuary Deluxe",
-    "genre": "Sandbox",
-    "year": 1989
+    "name": "Age of Empires III",
+    "genre": "Strategy",
+    "year": 2005
   },
   {
-    "name": "Fallen Frontier",
-    "genre": "FPS",
-    "year": 1989
+    "name": "Age of Empires IV",
+    "genre": "Strategy",
+    "year": 2021
   },
   {
-    "name": "Silent Saga Remastered",
-    "genre": "Platformer",
-    "year": 2001
+    "name": "Red Dead Redemption",
+    "genre": "Action",
+    "year": 2010
   },
   {
-    "name": "Neon Frontier II",
+    "name": "Red Dead Redemption 2",
+    "genre": "Action",
+    "year": 2018
+  },
+  {
+    "name": "Hades",
     "genre": "Roguelike",
+    "year": 2020
+  },
+  {
+    "name": "Hades II",
+    "genre": "Roguelike",
+    "year": 2024
+  },
+  {
+    "name": "Terraria",
+    "genre": "Sandbox",
+    "year": 2011
+  },
+  {
+    "name": "Stardew Valley",
+    "genre": "Simulation",
+    "year": 2016
+  },
+  {
+    "name": "Overwatch",
+    "genre": "FPS",
+    "year": 2016
+  },
+  {
+    "name": "Overwatch 2",
+    "genre": "FPS",
+    "year": 2022
+  },
+  {
+    "name": "League of Legends",
+    "genre": "MOBA",
+    "year": 2009
+  },
+  {
+    "name": "Dota 2",
+    "genre": "MOBA",
+    "year": 2013
+  },
+  {
+    "name": "Fortnite",
+    "genre": "Battle Royale",
     "year": 2017
   },
   {
-    "name": "Golden Echoes Remastered",
-    "genre": "Survival",
+    "name": "PUBG: Battlegrounds",
+    "genre": "Battle Royale",
+    "year": 2017
+  },
+  {
+    "name": "Call of Duty 4: Modern Warfare",
+    "genre": "FPS",
+    "year": 2007
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 2",
+    "genre": "FPS",
+    "year": 2009
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 3",
+    "genre": "FPS",
+    "year": 2011
+  },
+  {
+    "name": "Call of Duty: Black Ops",
+    "genre": "FPS",
+    "year": 2010
+  },
+  {
+    "name": "Call of Duty: Black Ops II",
+    "genre": "FPS",
+    "year": 2012
+  },
+  {
+    "name": "Call of Duty: Black Ops III",
+    "genre": "FPS",
+    "year": 2015
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "Action",
     "year": 2003
   },
   {
-    "name": "Crimson Frontier Remastered",
-    "genre": "Sandbox",
-    "year": 1995
-  },
-  {
-    "name": "Wild Guardians Reborn",
-    "genre": "Survival",
-    "year": 2008
-  },
-  {
-    "name": "Iron Frontier Deluxe",
-    "genre": "FPS",
-    "year": 1990
-  },
-  {
-    "name": "Fallen Legends",
-    "genre": "Roguelike",
-    "year": 2022
-  },
-  {
-    "name": "Iron Saga Origins",
-    "genre": "Platformer",
-    "year": 2019
-  },
-  {
-    "name": "Crimson Dynasty Origins",
-    "genre": "Simulation",
-    "year": 1988
-  },
-  {
-    "name": "Crimson Expedition Online",
-    "genre": "Adventure",
-    "year": 2007
-  },
-  {
-    "name": "Radiant Saga Online",
-    "genre": "Roguelike",
-    "year": 2023
-  },
-  {
-    "name": "Shadow Saga Deluxe",
-    "genre": "Platformer",
-    "year": 2000
-  },
-  {
-    "name": "Eternal Arena Ultimate Edition",
-    "genre": "MMO",
-    "year": 1994
-  },
-  {
-    "name": "Golden Citadel Remastered",
-    "genre": "Simulation",
-    "year": 2023
-  },
-  {
-    "name": "Neon Protocol III",
-    "genre": "Sandbox",
-    "year": 1992
-  },
-  {
-    "name": "Ancient Dynasty Reborn",
-    "genre": "Adventure",
-    "year": 2025
-  },
-  {
-    "name": "Rising Rebellion III",
-    "genre": "Racing",
-    "year": 1995
-  },
-  {
-    "name": "Forgotten Expedition",
-    "genre": "Survival",
-    "year": 1994
-  },
-  {
-    "name": "Silent Legends Ultimate Edition",
-    "genre": "Racing",
-    "year": 2025
-  },
-  {
-    "name": "Golden Protocol IV",
-    "genre": "Horror",
-    "year": 2010
-  },
-  {
-    "name": "Lost Echoes Ultimate Edition",
-    "genre": "RPG",
-    "year": 2021
-  },
-  {
-    "name": "Neon Quest Origins",
-    "genre": "Roguelike",
-    "year": 2012
-  },
-  {
-    "name": "Broken Citadel IV",
-    "genre": "FPS",
-    "year": 1997
-  },
-  {
-    "name": "Hidden Frontier Ultimate Edition",
-    "genre": "RPG",
-    "year": 1987
-  },
-  {
-    "name": "Dark Echoes",
-    "genre": "Survival",
-    "year": 1993
-  },
-  {
-    "name": "Shadow Kingdom",
-    "genre": "Roguelike",
-    "year": 2017
-  },
-  {
-    "name": "Burning Frontier III",
-    "genre": "Platformer",
-    "year": 1986
-  },
-  {
-    "name": "Rising Outlaws Origins",
-    "genre": "Strategy",
-    "year": 2015
-  },
-  {
-    "name": "Final Quest Reborn",
-    "genre": "MMO",
-    "year": 1993
-  },
-  {
-    "name": "Dark Outlaws",
-    "genre": "Adventure",
-    "year": 2010
-  },
-  {
-    "name": "Dark Horizons IV",
-    "genre": "Strategy",
-    "year": 2002
-  },
-  {
-    "name": "Lost Guardians Remastered",
-    "genre": "Survival",
-    "year": 1985
-  },
-  {
-    "name": "Eternal Quest Reborn",
-    "genre": "Action",
-    "year": 2011
-  },
-  {
-    "name": "Frozen Odyssey Ultimate Edition",
-    "genre": "Racing",
-    "year": 2017
-  },
-  {
-    "name": "Ancient Chronicles Remastered",
-    "genre": "Survival",
-    "year": 2006
-  },
-  {
-    "name": "Ancient Chronicles Online",
-    "genre": "Adventure",
-    "year": 2013
-  },
-  {
-    "name": "Fallen Quest II",
-    "genre": "Survival",
-    "year": 2001
-  },
-  {
-    "name": "Final Echoes IV",
-    "genre": "Sandbox",
-    "year": 1990
-  },
-  {
-    "name": "Dark Rebellion Deluxe",
-    "genre": "Strategy",
-    "year": 2001
-  },
-  {
-    "name": "Broken Empire IV",
-    "genre": "MMO",
-    "year": 2009
-  },
-  {
-    "name": "Lost Citadel Origins",
-    "genre": "Racing",
-    "year": 2012
-  },
-  {
-    "name": "Final Kingdom Remastered",
-    "genre": "Racing",
-    "year": 2012
-  },
-  {
-    "name": "Forgotten Protocol IV",
-    "genre": "RPG",
-    "year": 2007
-  },
-  {
-    "name": "Lost Legends Ultimate Edition",
-    "genre": "Roguelike",
-    "year": 1999
-  },
-  {
-    "name": "Fallen Citadel Ultimate Edition",
-    "genre": "Survival",
-    "year": 2020
-  },
-  {
-    "name": "Silent Outlaws Origins",
-    "genre": "Roguelike",
-    "year": 1989
-  },
-  {
-    "name": "Crimson Echoes Online",
-    "genre": "Sandbox",
-    "year": 1986
-  },
-  {
-    "name": "Wild Odyssey Remastered",
-    "genre": "Platformer",
-    "year": 2005
-  },
-  {
-    "name": "Ancient Empire Online",
-    "genre": "Action",
-    "year": 2006
-  },
-  {
-    "name": "Rising Protocol Deluxe",
-    "genre": "Action",
-    "year": 1998
-  },
-  {
-    "name": "Crimson Chronicles II",
-    "genre": "Horror",
-    "year": 2005
-  },
-  {
-    "name": "Golden Protocol III",
-    "genre": "RPG",
-    "year": 2021
-  },
-  {
-    "name": "Frozen Chronicles Deluxe",
-    "genre": "FPS",
-    "year": 2022
-  },
-  {
-    "name": "Crimson Odyssey II",
-    "genre": "Action",
-    "year": 2007
-  },
-  {
-    "name": "Radiant Kingdom IV",
-    "genre": "MMO",
-    "year": 2021
-  },
-  {
-    "name": "Golden Empire",
-    "genre": "RPG",
-    "year": 2005
-  },
-  {
-    "name": "Wild Guardians Remastered",
-    "genre": "FPS",
-    "year": 2011
-  },
-  {
-    "name": "Dark Expedition Deluxe",
-    "genre": "FPS",
-    "year": 1998
-  },
-  {
-    "name": "Lost Frontier III",
-    "genre": "Roguelike",
-    "year": 2024
-  },
-  {
-    "name": "Hidden Protocol III",
-    "genre": "Action",
-    "year": 2024
-  },
-  {
-    "name": "Lost Citadel Origins",
-    "genre": "Strategy",
-    "year": 2013
-  },
-  {
-    "name": "Eternal Expedition Ultimate Edition",
-    "genre": "Survival",
-    "year": 2002
-  },
-  {
-    "name": "Hidden Empire",
-    "genre": "Simulation",
-    "year": 1990
-  },
-  {
-    "name": "Dark Saga Online",
-    "genre": "MMO",
-    "year": 2011
-  },
-  {
-    "name": "Shadow Arena Reborn",
-    "genre": "FPS",
-    "year": 2010
-  },
-  {
-    "name": "Eternal Protocol Origins",
-    "genre": "Racing",
-    "year": 1988
-  },
-  {
-    "name": "Iron Empire Deluxe",
-    "genre": "RPG",
-    "year": 2018
-  },
-  {
-    "name": "Crimson Voyage",
-    "genre": "Horror",
-    "year": 1995
-  },
-  {
-    "name": "Final Horizons Origins",
-    "genre": "Puzzle",
-    "year": 2005
-  },
-  {
-    "name": "Hidden Expedition",
-    "genre": "Puzzle",
-    "year": 2011
-  },
-  {
-    "name": "Forgotten Expedition IV",
-    "genre": "Horror",
-    "year": 1997
-  },
-  {
-    "name": "Lost Guardians",
-    "genre": "Sandbox",
-    "year": 2025
-  },
-  {
-    "name": "Eternal Sanctuary Ultimate Edition",
-    "genre": "Adventure",
-    "year": 1989
-  },
-  {
-    "name": "Final Kingdom Online",
-    "genre": "Adventure",
-    "year": 2021
-  },
-  {
-    "name": "Hidden Dynasty",
-    "genre": "Platformer",
-    "year": 2001
-  },
-  {
-    "name": "Shadow Sanctuary Origins",
-    "genre": "MMO",
-    "year": 2014
-  },
-  {
-    "name": "Crimson Legends",
-    "genre": "Platformer",
-    "year": 2019
-  },
-  {
-    "name": "Iron Chronicles IV",
-    "genre": "FPS",
-    "year": 2002
-  },
-  {
-    "name": "Lost Empire III",
-    "genre": "RPG",
-    "year": 1999
-  },
-  {
-    "name": "Forgotten Rebellion Remastered",
-    "genre": "Sandbox",
-    "year": 1995
-  },
-  {
-    "name": "Wild Chronicles Origins",
-    "genre": "Sandbox",
-    "year": 1994
-  },
-  {
-    "name": "Dark Horizons IV",
-    "genre": "Sandbox",
-    "year": 2002
-  },
-  {
-    "name": "Eternal Echoes Deluxe",
-    "genre": "Platformer",
-    "year": 1998
-  },
-  {
-    "name": "Neon Expedition Ultimate Edition",
-    "genre": "Roguelike",
-    "year": 2011
-  },
-  {
-    "name": "Golden Echoes II",
-    "genre": "MMO",
-    "year": 1998
-  },
-  {
-    "name": "Forgotten Dynasty III",
-    "genre": "Simulation",
-    "year": 2002
-  },
-  {
-    "name": "Frozen Rebellion Remastered",
-    "genre": "Adventure",
-    "year": 2000
-  },
-  {
-    "name": "Dark Guardians IV",
-    "genre": "Roguelike",
-    "year": 2005
-  },
-  {
-    "name": "Neon Protocol Remastered",
-    "genre": "Platformer",
-    "year": 2023
-  },
-  {
-    "name": "Eternal Expedition Origins",
-    "genre": "Simulation",
-    "year": 2018
-  },
-  {
-    "name": "Radiant Sanctuary Reborn",
-    "genre": "Racing",
-    "year": 1990
-  },
-  {
-    "name": "Rising Echoes Origins",
-    "genre": "MMO",
-    "year": 2023
-  },
-  {
-    "name": "Frozen Outlaws",
-    "genre": "FPS",
-    "year": 2007
-  },
-  {
-    "name": "Burning Legends Remastered",
-    "genre": "Strategy",
-    "year": 2007
-  },
-  {
-    "name": "Radiant Expedition Ultimate Edition",
-    "genre": "Puzzle",
-    "year": 2022
-  },
-  {
-    "name": "Dark Quest Reborn",
-    "genre": "Simulation",
-    "year": 2022
-  },
-  {
-    "name": "Golden Voyage Deluxe",
-    "genre": "Action",
-    "year": 1990
-  },
-  {
-    "name": "Lost Protocol Deluxe",
-    "genre": "Roguelike",
-    "year": 2011
-  },
-  {
-    "name": "Crimson Rebellion Remastered",
-    "genre": "Adventure",
-    "year": 2024
-  },
-  {
-    "name": "Rising Legends II",
-    "genre": "Adventure",
-    "year": 2009
-  },
-  {
-    "name": "Hidden Echoes",
-    "genre": "Roguelike",
-    "year": 2009
-  },
-  {
-    "name": "Crimson Citadel Reborn",
+    "name": "Star Quest II",
     "genre": "Sandbox",
     "year": 2010
   },
   {
-    "name": "Eternal Guardians Ultimate Edition",
+    "name": "Mystic Odyssey II",
     "genre": "RPG",
-    "year": 2008
-  },
-  {
-    "name": "Iron Arena II",
-    "genre": "Racing",
-    "year": 1998
-  },
-  {
-    "name": "Fallen Odyssey",
-    "genre": "Platformer",
-    "year": 2006
-  },
-  {
-    "name": "Forgotten Chronicles Ultimate Edition",
-    "genre": "RPG",
-    "year": 2008
-  },
-  {
-    "name": "Iron Guardians II",
-    "genre": "Action",
-    "year": 1997
-  },
-  {
-    "name": "Shadow Guardians II",
-    "genre": "RPG",
-    "year": 1997
-  },
-  {
-    "name": "Neon Quest Deluxe",
-    "genre": "Strategy",
-    "year": 2009
-  },
-  {
-    "name": "Iron Legends Ultimate Edition",
-    "genre": "MMO",
-    "year": 2005
-  },
-  {
-    "name": "Lost Expedition III",
-    "genre": "Survival",
-    "year": 2021
-  },
-  {
-    "name": "Fallen Dynasty Deluxe",
-    "genre": "Action",
-    "year": 1987
-  },
-  {
-    "name": "Burning Citadel Reborn",
-    "genre": "Strategy",
-    "year": 2012
-  },
-  {
-    "name": "Ancient Saga II",
-    "genre": "RPG",
-    "year": 2009
-  },
-  {
-    "name": "Silent Empire Origins",
-    "genre": "Sandbox",
-    "year": 2000
-  },
-  {
-    "name": "Forgotten Chronicles IV",
-    "genre": "RPG",
-    "year": 1987
-  },
-  {
-    "name": "Fallen Saga III",
-    "genre": "Racing",
-    "year": 1992
-  },
-  {
-    "name": "Fallen Sanctuary Remastered",
-    "genre": "Survival",
-    "year": 2002
-  },
-  {
-    "name": "Golden Kingdom IV",
-    "genre": "Survival",
-    "year": 2024
-  },
-  {
-    "name": "Broken Voyage Reborn",
-    "genre": "MMO",
     "year": 2016
   },
   {
-    "name": "Golden Echoes Deluxe",
-    "genre": "Horror",
-    "year": 1998
-  },
-  {
-    "name": "Dark Legends Online",
-    "genre": "MMO",
-    "year": 2007
-  },
-  {
-    "name": "Eternal Chronicles Origins",
-    "genre": "Horror",
-    "year": 2011
-  },
-  {
-    "name": "Frozen Kingdom Remastered",
+    "name": "Cyber Runner III",
     "genre": "Platformer",
-    "year": 2024
+    "year": 2014
   },
   {
-    "name": "Rising Guardians III",
-    "genre": "RPG",
-    "year": 1994
-  },
-  {
-    "name": "Lost Saga Ultimate Edition",
-    "genre": "Horror",
-    "year": 1999
-  },
-  {
-    "name": "Fallen Chronicles Origins",
-    "genre": "Survival",
-    "year": 1997
-  },
-  {
-    "name": "Wild Voyage III",
-    "genre": "Puzzle",
-    "year": 1998
-  },
-  {
-    "name": "Fallen Saga Online",
-    "genre": "FPS",
-    "year": 2018
-  },
-  {
-    "name": "Broken Odyssey Origins",
-    "genre": "FPS",
-    "year": 1987
-  },
-  {
-    "name": "Ancient Expedition III",
-    "genre": "FPS",
-    "year": 1996
-  },
-  {
-    "name": "Neon Kingdom II",
-    "genre": "FPS",
-    "year": 1998
-  },
-  {
-    "name": "Final Rebellion Deluxe",
-    "genre": "Simulation",
-    "year": 1996
-  },
-  {
-    "name": "Dark Echoes Reborn",
-    "genre": "FPS",
-    "year": 2004
-  },
-  {
-    "name": "Eternal Chronicles III",
-    "genre": "RPG",
-    "year": 1994
-  },
-  {
-    "name": "Final Legends",
+    "name": "Iron Command Chronicles",
     "genre": "Platformer",
-    "year": 1985
+    "year": 2022
   },
   {
-    "name": "Dark Empire Remastered",
-    "genre": "RPG",
-    "year": 1991
-  },
-  {
-    "name": "Dark Voyage Online",
-    "genre": "Strategy",
-    "year": 2023
-  },
-  {
-    "name": "Forgotten Outlaws Deluxe",
-    "genre": "MMO",
-    "year": 2010
-  },
-  {
-    "name": "Broken Kingdom IV",
-    "genre": "RPG",
-    "year": 1996
-  },
-  {
-    "name": "Golden Sanctuary Origins",
-    "genre": "FPS",
-    "year": 1999
-  },
-  {
-    "name": "Broken Legends Remastered",
-    "genre": "Adventure",
-    "year": 1990
-  },
-  {
-    "name": "Iron Quest II",
+    "name": "Star Quest",
     "genre": "Puzzle",
-    "year": 2009
+    "year": 2017
   },
   {
-    "name": "Broken Saga II",
-    "genre": "Sandbox",
-    "year": 2012
-  },
-  {
-    "name": "Ancient Guardians Ultimate Edition",
-    "genre": "Simulation",
-    "year": 2005
-  },
-  {
-    "name": "Lost Frontier III",
+    "name": "Titan Assault Chronicles",
     "genre": "Puzzle",
-    "year": 2019
-  },
-  {
-    "name": "Golden Echoes Origins",
-    "genre": "Sandbox",
-    "year": 2001
-  },
-  {
-    "name": "Ancient Quest",
-    "genre": "Roguelike",
-    "year": 2010
-  },
-  {
-    "name": "Forgotten Echoes Ultimate Edition",
-    "genre": "Sandbox",
-    "year": 2001
-  },
-  {
-    "name": "Rising Empire Origins",
-    "genre": "Horror",
-    "year": 1990
-  },
-  {
-    "name": "Eternal Saga II",
-    "genre": "Survival",
-    "year": 1991
-  },
-  {
-    "name": "Ancient Odyssey",
-    "genre": "Horror",
     "year": 2015
   },
   {
-    "name": "Silent Horizons",
-    "genre": "RPG",
-    "year": 1999
-  },
-  {
-    "name": "Golden Protocol Ultimate Edition",
-    "genre": "Strategy",
-    "year": 1999
-  },
-  {
-    "name": "Eternal Horizons IV",
-    "genre": "Platformer",
-    "year": 2018
-  },
-  {
-    "name": "Lost Legends II",
+    "name": "Mystic Odyssey Chronicles",
     "genre": "Action",
-    "year": 2025
+    "year": 2011
   },
   {
-    "name": "Hidden Sanctuary",
-    "genre": "Roguelike",
+    "name": "Galaxy Raiders III",
+    "genre": "Platformer",
     "year": 2000
   },
   {
-    "name": "Dark Rebellion Reborn",
-    "genre": "MMO",
-    "year": 1985
+    "name": "Battle Arena IV",
+    "genre": "Adventure",
+    "year": 1996
   },
   {
-    "name": "Golden Sanctuary Ultimate Edition",
+    "name": "Neon Racers II",
+    "genre": "Adventure",
+    "year": 2009
+  },
+  {
+    "name": "Neon Racers Origins",
+    "genre": "Action",
+    "year": 2010
+  },
+  {
+    "name": "Shadow Legends III",
+    "genre": "Adventure",
+    "year": 2018
+  },
+  {
+    "name": "Crystal Kingdom II",
+    "genre": "Roguelike",
+    "year": 2023
+  },
+  {
+    "name": "Galaxy Raiders IV",
+    "genre": "Platformer",
+    "year": 2019
+  },
+  {
+    "name": "Galaxy Raiders",
+    "genre": "Simulation",
+    "year": 2008
+  },
+  {
+    "name": "Shadow Legends Chronicles",
+    "genre": "Puzzle",
+    "year": 1997
+  },
+  {
+    "name": "Star Quest IV",
     "genre": "RPG",
-    "year": 1987
+    "year": 2024
   },
   {
-    "name": "Shadow Legends",
-    "genre": "Horror",
+    "name": "Iron Command Reborn",
+    "genre": "Strategy",
+    "year": 2016
+  },
+  {
+    "name": "Neon Racers Reborn",
+    "genre": "Simulation",
+    "year": 2009
+  },
+  {
+    "name": "Dragon Realms III",
+    "genre": "Roguelike",
+    "year": 1998
+  },
+  {
+    "name": "Crystal Kingdom",
+    "genre": "Roguelike",
+    "year": 2021
+  },
+  {
+    "name": "Mystic Odyssey III",
+    "genre": "RPG",
+    "year": 2024
+  },
+  {
+    "name": "Star Quest Reborn",
+    "genre": "Platformer",
     "year": 2003
   },
   {
-    "name": "Radiant Kingdom IV",
+    "name": "Iron Command Reborn",
+    "genre": "Roguelike",
+    "year": 2025
+  },
+  {
+    "name": "Crystal Kingdom III",
     "genre": "Platformer",
+    "year": 2002
+  },
+  {
+    "name": "Neon Racers II",
+    "genre": "RPG",
+    "year": 2014
+  },
+  {
+    "name": "Star Quest II",
+    "genre": "Sandbox",
+    "year": 2013
+  },
+  {
+    "name": "Mystic Odyssey II",
+    "genre": "Strategy",
     "year": 1997
   },
   {
-    "name": "Frozen Kingdom Ultimate Edition",
-    "genre": "Action",
-    "year": 2005
+    "name": "Battle Arena",
+    "genre": "Platformer",
+    "year": 2011
   },
   {
-    "name": "Iron Arena Deluxe",
-    "genre": "Adventure",
-    "year": 1999
-  },
-  {
-    "name": "Radiant Outlaws IV",
-    "genre": "Survival",
-    "year": 2007
-  },
-  {
-    "name": "Wild Dynasty Deluxe",
-    "genre": "Sandbox",
-    "year": 2005
-  },
-  {
-    "name": "Shadow Odyssey II",
-    "genre": "Strategy",
-    "year": 1985
-  },
-  {
-    "name": "Broken Quest",
-    "genre": "Sandbox",
-    "year": 1997
-  },
-  {
-    "name": "Frozen Arena II",
+    "name": "Star Quest Chronicles",
     "genre": "Puzzle",
     "year": 2009
   },
   {
-    "name": "Ancient Outlaws",
-    "genre": "Puzzle",
-    "year": 2019
-  },
-  {
-    "name": "Hidden Echoes Ultimate Edition",
-    "genre": "RPG",
-    "year": 2001
-  },
-  {
-    "name": "Fallen Outlaws Online",
-    "genre": "MMO",
-    "year": 2006
-  },
-  {
-    "name": "Crimson Sanctuary Remastered",
-    "genre": "MMO",
-    "year": 2014
-  },
-  {
-    "name": "Hidden Saga Origins",
-    "genre": "RPG",
-    "year": 1986
-  },
-  {
-    "name": "Forgotten Legends II",
-    "genre": "Platformer",
-    "year": 1991
-  },
-  {
-    "name": "Neon Echoes Deluxe",
-    "genre": "Sandbox",
-    "year": 2005
-  },
-  {
-    "name": "Frozen Echoes IV",
-    "genre": "Platformer",
-    "year": 2007
-  },
-  {
-    "name": "Eternal Horizons",
-    "genre": "Strategy",
-    "year": 2023
-  },
-  {
-    "name": "Ancient Saga",
-    "genre": "Action",
-    "year": 1998
-  },
-  {
-    "name": "Forgotten Rebellion Deluxe",
-    "genre": "Platformer",
-    "year": 1987
-  },
-  {
-    "name": "Silent Legends IV",
-    "genre": "Adventure",
-    "year": 2019
-  },
-  {
-    "name": "Golden Horizons II",
+    "name": "Crystal Kingdom Origins",
     "genre": "Roguelike",
-    "year": 2014
+    "year": 2022
   },
   {
-    "name": "Ancient Echoes Remastered",
-    "genre": "Puzzle",
-    "year": 2012
-  },
-  {
-    "name": "Neon Odyssey Reborn",
-    "genre": "Action",
-    "year": 2005
-  },
-  {
-    "name": "Hidden Chronicles",
-    "genre": "Survival",
-    "year": 2025
-  },
-  {
-    "name": "Ancient Guardians Deluxe",
+    "name": "Battle Arena Reborn",
     "genre": "Adventure",
-    "year": 1986
-  },
-  {
-    "name": "Forgotten Expedition Remastered",
-    "genre": "Racing",
-    "year": 1993
-  },
-  {
-    "name": "Rising Rebellion Deluxe",
-    "genre": "Survival",
-    "year": 2016
-  },
-  {
-    "name": "Fallen Sanctuary IV",
-    "genre": "FPS",
-    "year": 2015
-  },
-  {
-    "name": "Forgotten Outlaws Online",
-    "genre": "MMO",
-    "year": 2023
-  },
-  {
-    "name": "Neon Outlaws Origins",
-    "genre": "RPG",
     "year": 2000
   },
   {
-    "name": "Silent Citadel Origins",
-    "genre": "Adventure",
-    "year": 2001
-  },
-  {
-    "name": "Dark Legends Online",
-    "genre": "Puzzle",
-    "year": 1992
-  },
-  {
-    "name": "Silent Chronicles Ultimate Edition",
-    "genre": "Sandbox",
-    "year": 1987
-  },
-  {
-    "name": "Broken Outlaws",
-    "genre": "RPG",
-    "year": 2005
-  },
-  {
-    "name": "Ancient Kingdom II",
-    "genre": "Adventure",
-    "year": 2023
-  },
-  {
-    "name": "Silent Sanctuary Reborn",
-    "genre": "Racing",
-    "year": 1994
-  },
-  {
-    "name": "Final Guardians Remastered",
-    "genre": "Survival",
-    "year": 2016
-  },
-  {
-    "name": "Shadow Echoes III",
-    "genre": "Sandbox",
-    "year": 2022
-  },
-  {
-    "name": "Lost Frontier II",
-    "genre": "Racing",
-    "year": 1986
-  },
-  {
-    "name": "Final Horizons Deluxe",
-    "genre": "Roguelike",
-    "year": 2008
-  },
-  {
-    "name": "Shadow Empire II",
-    "genre": "Roguelike",
-    "year": 1994
-  },
-  {
-    "name": "Fallen Horizons Online",
-    "genre": "Sandbox",
-    "year": 2019
-  },
-  {
-    "name": "Crimson Arena Origins",
-    "genre": "Horror",
-    "year": 2022
-  },
-  {
-    "name": "Fallen Outlaws III",
+    "name": "Titan Assault Reborn",
     "genre": "Action",
-    "year": 2006
+    "year": 2024
   },
   {
-    "name": "Golden Sanctuary Deluxe",
-    "genre": "Platformer",
-    "year": 2016
-  },
-  {
-    "name": "Final Echoes IV",
-    "genre": "Roguelike",
-    "year": 2006
-  },
-  {
-    "name": "Forgotten Dynasty II",
-    "genre": "Platformer",
-    "year": 2013
-  },
-  {
-    "name": "Fallen Outlaws III",
-    "genre": "Strategy",
-    "year": 1993
-  },
-  {
-    "name": "Neon Dynasty Reborn",
-    "genre": "Horror",
+    "name": "Iron Command III",
+    "genre": "RPG",
     "year": 2019
   },
   {
-    "name": "Crimson Kingdom Remastered",
-    "genre": "Survival",
-    "year": 2020
-  },
-  {
-    "name": "Forgotten Sanctuary Remastered",
-    "genre": "Sandbox",
-    "year": 2024
-  },
-  {
-    "name": "Ancient Saga IV",
-    "genre": "MMO",
-    "year": 2002
-  },
-  {
-    "name": "Wild Outlaws Ultimate Edition",
-    "genre": "Horror",
-    "year": 2024
-  },
-  {
-    "name": "Rising Saga Online",
-    "genre": "Simulation",
-    "year": 2016
-  },
-  {
-    "name": "Silent Horizons Deluxe",
+    "name": "Neon Racers Reborn",
     "genre": "Adventure",
-    "year": 1991
+    "year": 2009
   },
   {
-    "name": "Ancient Horizons Remastered",
-    "genre": "Strategy",
-    "year": 2023
-  },
-  {
-    "name": "Lost Kingdom III",
-    "genre": "MMO",
-    "year": 1995
-  },
-  {
-    "name": "Crimson Horizons II",
-    "genre": "FPS",
-    "year": 2008
-  },
-  {
-    "name": "Hidden Legends Reborn",
-    "genre": "Horror",
-    "year": 2010
-  },
-  {
-    "name": "Dark Outlaws Online",
-    "genre": "Simulation",
-    "year": 1989
-  },
-  {
-    "name": "Crimson Odyssey Reborn",
-    "genre": "RPG",
-    "year": 1989
-  },
-  {
-    "name": "Eternal Empire IV",
-    "genre": "Platformer",
-    "year": 2018
-  },
-  {
-    "name": "Dark Saga Online",
-    "genre": "FPS",
-    "year": 2011
-  },
-  {
-    "name": "Burning Rebellion Deluxe",
-    "genre": "Horror",
+    "name": "Shadow Legends II",
+    "genre": "Action",
     "year": 2004
   },
   {
-    "name": "Ancient Odyssey II",
-    "genre": "Simulation",
-    "year": 2015
-  },
-  {
-    "name": "Final Legends III",
-    "genre": "Simulation",
-    "year": 2016
-  },
-  {
-    "name": "Burning Rebellion Reborn",
-    "genre": "Roguelike",
-    "year": 2000
-  },
-  {
-    "name": "Broken Kingdom Remastered",
+    "name": "Shadow Legends II",
     "genre": "FPS",
-    "year": 1996
-  },
-  {
-    "name": "Golden Protocol III",
-    "genre": "Action",
-    "year": 1986
-  },
-  {
-    "name": "Wild Kingdom IV",
-    "genre": "Puzzle",
     "year": 2010
   },
   {
-    "name": "Silent Kingdom III",
+    "name": "Shadow Legends Reborn",
     "genre": "FPS",
-    "year": 2000
-  },
-  {
-    "name": "Wild Kingdom III",
-    "genre": "MMO",
-    "year": 2023
-  },
-  {
-    "name": "Lost Sanctuary Reborn",
-    "genre": "Simulation",
-    "year": 2014
-  },
-  {
-    "name": "Silent Protocol II",
-    "genre": "Racing",
-    "year": 2022
-  },
-  {
-    "name": "Burning Chronicles Remastered",
-    "genre": "Platformer",
-    "year": 2022
-  },
-  {
-    "name": "Crimson Odyssey III",
-    "genre": "Adventure",
-    "year": 2003
-  },
-  {
-    "name": "Silent Rebellion IV",
-    "genre": "Survival",
-    "year": 2011
-  },
-  {
-    "name": "Wild Citadel",
-    "genre": "MMO",
-    "year": 1987
-  },
-  {
-    "name": "Burning Quest III",
-    "genre": "Platformer",
-    "year": 2017
-  },
-  {
-    "name": "Ancient Expedition Remastered",
-    "genre": "Action",
-    "year": 2001
-  },
-  {
-    "name": "Frozen Outlaws Reborn",
-    "genre": "Roguelike",
-    "year": 2000
-  },
-  {
-    "name": "Forgotten Horizons Remastered",
-    "genre": "Horror",
-    "year": 2000
-  },
-  {
-    "name": "Shadow Citadel Origins",
-    "genre": "Strategy",
-    "year": 1985
-  },
-  {
-    "name": "Dark Citadel Remastered",
-    "genre": "Strategy",
-    "year": 2002
-  },
-  {
-    "name": "Fallen Chronicles Online",
-    "genre": "Platformer",
-    "year": 1986
-  },
-  {
-    "name": "Lost Odyssey IV",
-    "genre": "Racing",
-    "year": 2021
-  },
-  {
-    "name": "Silent Legends Origins",
-    "genre": "Puzzle",
-    "year": 2010
-  },
-  {
-    "name": "Neon Protocol IV",
-    "genre": "FPS",
-    "year": 1992
-  },
-  {
-    "name": "Final Kingdom III",
-    "genre": "Simulation",
-    "year": 2024
-  },
-  {
-    "name": "Neon Guardians Ultimate Edition",
-    "genre": "Racing",
-    "year": 1987
-  },
-  {
-    "name": "Crimson Empire Reborn",
-    "genre": "RPG",
-    "year": 1989
-  },
-  {
-    "name": "Hidden Kingdom IV",
-    "genre": "RPG",
-    "year": 1990
-  },
-  {
-    "name": "Rising Legends II",
-    "genre": "Strategy",
-    "year": 1990
-  },
-  {
-    "name": "Ancient Legends II",
-    "genre": "Roguelike",
-    "year": 2018
-  },
-  {
-    "name": "Lost Horizons Reborn",
-    "genre": "Strategy",
-    "year": 2013
-  },
-  {
-    "name": "Rising Frontier Online",
-    "genre": "Racing",
-    "year": 2016
-  },
-  {
-    "name": "Wild Protocol Ultimate Edition",
-    "genre": "Racing",
-    "year": 1994
-  },
-  {
-    "name": "Iron Legends Reborn",
-    "genre": "Roguelike",
-    "year": 2014
-  },
-  {
-    "name": "Fallen Outlaws Remastered",
-    "genre": "Puzzle",
-    "year": 2022
-  },
-  {
-    "name": "Ancient Voyage Reborn",
-    "genre": "Platformer",
-    "year": 2018
-  },
-  {
-    "name": "Broken Saga Reborn",
-    "genre": "Puzzle",
-    "year": 2017
-  },
-  {
-    "name": "Fallen Sanctuary III",
-    "genre": "RPG",
-    "year": 2017
-  },
-  {
-    "name": "Crimson Frontier Deluxe",
-    "genre": "Platformer",
-    "year": 2009
-  },
-  {
-    "name": "Crimson Expedition Remastered",
-    "genre": "Sandbox",
-    "year": 2021
-  },
-  {
-    "name": "Broken Expedition Deluxe",
-    "genre": "Platformer",
-    "year": 2011
-  },
-  {
-    "name": "Shadow Horizons Remastered",
-    "genre": "Platformer",
-    "year": 1998
-  },
-  {
-    "name": "Dark Quest Ultimate Edition",
-    "genre": "Racing",
     "year": 2004
   },
   {
-    "name": "Crimson Voyage III",
-    "genre": "Racing",
-    "year": 2013
-  },
-  {
-    "name": "Neon Echoes Reborn",
-    "genre": "Racing",
-    "year": 1992
-  },
-  {
-    "name": "Burning Horizons",
-    "genre": "Action",
-    "year": 2002
-  },
-  {
-    "name": "Dark Saga IV",
-    "genre": "Action",
-    "year": 1995
-  },
-  {
-    "name": "Lost Sanctuary Origins",
-    "genre": "FPS",
-    "year": 2015
-  },
-  {
-    "name": "Rising Quest",
-    "genre": "Racing",
-    "year": 2025
-  },
-  {
-    "name": "Neon Expedition Origins",
-    "genre": "Roguelike",
-    "year": 2017
-  },
-  {
-    "name": "Silent Dynasty Ultimate Edition",
-    "genre": "Sandbox",
-    "year": 1992
-  },
-  {
-    "name": "Rising Frontier Online",
-    "genre": "Racing",
-    "year": 2005
-  },
-  {
-    "name": "Crimson Citadel IV",
-    "genre": "MMO",
-    "year": 2006
-  },
-  {
-    "name": "Golden Legends III",
-    "genre": "Roguelike",
-    "year": 2007
-  },
-  {
-    "name": "Neon Protocol III",
-    "genre": "Horror",
-    "year": 2006
-  },
-  {
-    "name": "Fallen Echoes Reborn",
-    "genre": "RPG",
-    "year": 2002
-  },
-  {
-    "name": "Lost Kingdom II",
-    "genre": "Action",
-    "year": 2009
-  },
-  {
-    "name": "Hidden Frontier Origins",
-    "genre": "Sandbox",
-    "year": 2015
-  },
-  {
-    "name": "Golden Echoes Origins",
-    "genre": "Simulation",
-    "year": 2016
-  },
-  {
-    "name": "Radiant Guardians Online",
+    "name": "Titan Assault",
     "genre": "RPG",
     "year": 2005
   },
   {
-    "name": "Final Protocol Online",
-    "genre": "Roguelike",
-    "year": 1990
-  },
-  {
-    "name": "Lost Kingdom Remastered",
-    "genre": "Racing",
-    "year": 2016
-  },
-  {
-    "name": "Hidden Chronicles IV",
-    "genre": "Roguelike",
-    "year": 1995
-  },
-  {
-    "name": "Frozen Citadel Ultimate Edition",
-    "genre": "Strategy",
-    "year": 2022
-  },
-  {
-    "name": "Radiant Arena III",
-    "genre": "Racing",
-    "year": 1996
-  },
-  {
-    "name": "Fallen Rebellion IV",
-    "genre": "FPS",
+    "name": "Iron Command IV",
+    "genre": "Simulation",
     "year": 2020
   },
   {
-    "name": "Forgotten Quest II",
-    "genre": "Simulation",
-    "year": 1996
-  },
-  {
-    "name": "Wild Citadel Reborn",
-    "genre": "Survival",
-    "year": 2015
-  },
-  {
-    "name": "Wild Quest II",
-    "genre": "Survival",
-    "year": 2013
-  },
-  {
-    "name": "Crimson Guardians III",
-    "genre": "Adventure",
-    "year": 1989
-  },
-  {
-    "name": "Dark Horizons III",
-    "genre": "Puzzle",
-    "year": 1990
-  },
-  {
-    "name": "Crimson Frontier",
+    "name": "Shadow Legends Reborn",
     "genre": "Sandbox",
-    "year": 2009
-  },
-  {
-    "name": "Dark Dynasty Online",
-    "genre": "Horror",
-    "year": 2011
-  },
-  {
-    "name": "Fallen Sanctuary Deluxe",
-    "genre": "Adventure",
-    "year": 2016
-  },
-  {
-    "name": "Forgotten Dynasty III",
-    "genre": "Platformer",
-    "year": 1987
-  },
-  {
-    "name": "Burning Dynasty Ultimate Edition",
-    "genre": "Horror",
-    "year": 2006
-  },
-  {
-    "name": "Hidden Frontier Remastered",
-    "genre": "FPS",
-    "year": 2015
-  },
-  {
-    "name": "Neon Echoes Deluxe",
-    "genre": "Strategy",
-    "year": 2007
-  },
-  {
-    "name": "Shadow Outlaws II",
-    "genre": "Simulation",
-    "year": 1992
-  },
-  {
-    "name": "Golden Empire Deluxe",
-    "genre": "Platformer",
-    "year": 1992
-  },
-  {
-    "name": "Dark Frontier Deluxe",
-    "genre": "Survival",
-    "year": 2019
-  },
-  {
-    "name": "Wild Protocol",
-    "genre": "Platformer",
-    "year": 1993
-  },
-  {
-    "name": "Radiant Empire Ultimate Edition",
-    "genre": "Racing",
-    "year": 1993
-  },
-  {
-    "name": "Neon Protocol Deluxe",
-    "genre": "RPG",
-    "year": 2009
-  },
-  {
-    "name": "Wild Rebellion Ultimate Edition",
-    "genre": "Roguelike",
-    "year": 2014
-  },
-  {
-    "name": "Lost Arena Origins",
-    "genre": "Strategy",
-    "year": 2024
-  },
-  {
-    "name": "Dark Legends Reborn",
-    "genre": "MMO",
-    "year": 2009
-  },
-  {
-    "name": "Golden Guardians Origins",
-    "genre": "Roguelike",
-    "year": 1990
-  },
-  {
-    "name": "Final Rebellion II",
-    "genre": "Strategy",
-    "year": 2010
-  },
-  {
-    "name": "Eternal Expedition II",
-    "genre": "Simulation",
-    "year": 1986
-  },
-  {
-    "name": "Frozen Echoes Remastered",
-    "genre": "Puzzle",
-    "year": 2025
-  },
-  {
-    "name": "Forgotten Chronicles Ultimate Edition",
-    "genre": "Survival",
-    "year": 2020
-  },
-  {
-    "name": "Forgotten Empire II",
-    "genre": "RPG",
-    "year": 1992
-  },
-  {
-    "name": "Eternal Kingdom Origins",
-    "genre": "MMO",
-    "year": 2006
-  },
-  {
-    "name": "Silent Voyage Deluxe",
-    "genre": "Horror",
-    "year": 2001
-  },
-  {
-    "name": "Forgotten Kingdom",
-    "genre": "Adventure",
-    "year": 2020
+    "year": 2023
   },
   {
     "name": "Shadow Legends Origins",
-    "genre": "Horror",
-    "year": 2017
-  },
-  {
-    "name": "Broken Dynasty Reborn",
-    "genre": "Strategy",
-    "year": 2024
-  },
-  {
-    "name": "Dark Guardians Ultimate Edition",
-    "genre": "Platformer",
-    "year": 2008
-  },
-  {
-    "name": "Hidden Dynasty Online",
-    "genre": "RPG",
-    "year": 1994
-  },
-  {
-    "name": "Lost Outlaws Origins",
     "genre": "Simulation",
-    "year": 2009
+    "year": 1999
   },
   {
-    "name": "Forgotten Echoes III",
-    "genre": "Sandbox",
-    "year": 1996
-  },
-  {
-    "name": "Ancient Saga",
-    "genre": "Platformer",
-    "year": 2012
-  },
-  {
-    "name": "Iron Saga Ultimate Edition",
-    "genre": "Survival",
-    "year": 1991
-  },
-  {
-    "name": "Frozen Dynasty Remastered",
-    "genre": "Sandbox",
-    "year": 1991
-  },
-  {
-    "name": "Shadow Odyssey II",
-    "genre": "Puzzle",
-    "year": 1991
-  },
-  {
-    "name": "Rising Citadel IV",
-    "genre": "Adventure",
-    "year": 2005
-  },
-  {
-    "name": "Silent Legends Remastered",
-    "genre": "FPS",
-    "year": 1995
-  },
-  {
-    "name": "Wild Frontier",
-    "genre": "Adventure",
-    "year": 2010
-  },
-  {
-    "name": "Ancient Horizons Deluxe",
-    "genre": "Horror",
-    "year": 1993
-  },
-  {
-    "name": "Neon Expedition Remastered",
-    "genre": "Sandbox",
+    "name": "Iron Command",
+    "genre": "Simulation",
     "year": 2022
   },
   {
-    "name": "Frozen Protocol Ultimate Edition",
-    "genre": "Racing",
-    "year": 2009
+    "name": "Cyber Runner",
+    "genre": "FPS",
+    "year": 1997
   },
   {
-    "name": "Lost Expedition Remastered",
-    "genre": "Puzzle",
-    "year": 1995
-  },
-  {
-    "name": "Neon Outlaws IV",
-    "genre": "Simulation",
-    "year": 1988
-  },
-  {
-    "name": "Wild Rebellion III",
-    "genre": "Survival",
-    "year": 2005
-  },
-  {
-    "name": "Broken Empire IV",
-    "genre": "Racing",
-    "year": 2004
-  },
-  {
-    "name": "Silent Citadel Ultimate Edition",
-    "genre": "Puzzle",
+    "name": "Void Explorer",
+    "genre": "Platformer",
     "year": 2008
   },
   {
-    "name": "Ancient Quest Origins",
-    "genre": "Action",
-    "year": 1989
-  },
-  {
-    "name": "Fallen Dynasty III",
-    "genre": "Simulation",
-    "year": 2002
-  },
-  {
-    "name": "Silent Protocol II",
-    "genre": "Survival",
-    "year": 2022
-  },
-  {
-    "name": "Shadow Chronicles IV",
-    "genre": "FPS",
-    "year": 2009
-  },
-  {
-    "name": "Rising Voyage III",
-    "genre": "Sandbox",
-    "year": 1992
-  },
-  {
-    "name": "Neon Kingdom II",
-    "genre": "Racing",
-    "year": 2021
-  },
-  {
-    "name": "Shadow Guardians II",
-    "genre": "Survival",
-    "year": 1994
-  },
-  {
-    "name": "Burning Echoes IV",
-    "genre": "Horror",
-    "year": 2002
-  },
-  {
-    "name": "Crimson Frontier IV",
-    "genre": "Platformer",
-    "year": 2020
-  },
-  {
-    "name": "Broken Kingdom II",
-    "genre": "Action",
-    "year": 1995
-  },
-  {
-    "name": "Rising Dynasty",
-    "genre": "FPS",
-    "year": 2008
-  },
-  {
-    "name": "Frozen Horizons Reborn",
-    "genre": "Simulation",
-    "year": 2000
-  },
-  {
-    "name": "Final Frontier IV",
-    "genre": "MMO",
-    "year": 1986
-  },
-  {
-    "name": "Lost Saga",
-    "genre": "FPS",
-    "year": 1985
-  },
-  {
-    "name": "Golden Arena",
-    "genre": "Strategy",
-    "year": 1993
-  },
-  {
-    "name": "Final Citadel Remastered",
-    "genre": "Horror",
-    "year": 2001
-  },
-  {
-    "name": "Golden Voyage III",
-    "genre": "Action",
-    "year": 2014
-  },
-  {
-    "name": "Shadow Sanctuary Remastered",
-    "genre": "Sandbox",
-    "year": 1995
-  },
-  {
-    "name": "Iron Odyssey III",
-    "genre": "Survival",
-    "year": 2019
-  },
-  {
-    "name": "Neon Guardians III",
-    "genre": "Racing",
-    "year": 1991
-  },
-  {
-    "name": "Ancient Outlaws",
-    "genre": "Strategy",
-    "year": 1986
-  },
-  {
-    "name": "Broken Expedition",
-    "genre": "Survival",
-    "year": 1990
-  },
-  {
-    "name": "Iron Dynasty Remastered",
-    "genre": "RPG",
-    "year": 1995
-  },
-  {
-    "name": "Neon Kingdom Reborn",
-    "genre": "Adventure",
-    "year": 2006
-  },
-  {
-    "name": "Burning Legends Deluxe",
-    "genre": "Puzzle",
-    "year": 2011
-  },
-  {
-    "name": "Shadow Quest III",
-    "genre": "FPS",
-    "year": 2024
-  },
-  {
-    "name": "Radiant Echoes IV",
-    "genre": "Platformer",
-    "year": 2016
-  },
-  {
-    "name": "Dark Frontier Remastered",
-    "genre": "Racing",
-    "year": 2000
-  },
-  {
-    "name": "Fallen Citadel IV",
-    "genre": "Sandbox",
-    "year": 2007
-  },
-  {
-    "name": "Silent Horizons Origins",
-    "genre": "RPG",
-    "year": 2014
-  },
-  {
-    "name": "Broken Sanctuary Online",
+    "name": "Shadow Legends IV",
     "genre": "Simulation",
     "year": 1997
   },
   {
-    "name": "Frozen Dynasty Remastered",
-    "genre": "Racing",
-    "year": 2005
+    "name": "Dragon Realms IV",
+    "genre": "Adventure",
+    "year": 2017
   },
   {
-    "name": "Dark Odyssey Deluxe",
-    "genre": "FPS",
-    "year": 2007
+    "name": "Crystal Kingdom III",
+    "genre": "RPG",
+    "year": 2002
   },
   {
-    "name": "Dark Odyssey Online",
+    "name": "Dragon Realms Origins",
     "genre": "Puzzle",
-    "year": 2017
-  },
-  {
-    "name": "Final Echoes III",
-    "genre": "RPG",
-    "year": 2010
-  },
-  {
-    "name": "Ancient Arena Online",
-    "genre": "Simulation",
-    "year": 1990
-  },
-  {
-    "name": "Dark Legends Remastered",
-    "genre": "Horror",
-    "year": 2010
-  },
-  {
-    "name": "Hidden Frontier II",
-    "genre": "Simulation",
-    "year": 1995
-  },
-  {
-    "name": "Forgotten Odyssey Origins",
-    "genre": "Sandbox",
-    "year": 1991
-  },
-  {
-    "name": "Iron Sanctuary Remastered",
-    "genre": "RPG",
-    "year": 2012
-  },
-  {
-    "name": "Rising Citadel Deluxe",
-    "genre": "Horror",
-    "year": 2011
-  },
-  {
-    "name": "Frozen Protocol IV",
-    "genre": "Roguelike",
-    "year": 1995
-  },
-  {
-    "name": "Final Arena",
-    "genre": "Horror",
-    "year": 1985
-  },
-  {
-    "name": "Silent Quest",
-    "genre": "Survival",
-    "year": 2021
-  },
-  {
-    "name": "Fallen Expedition",
-    "genre": "RPG",
-    "year": 2005
-  },
-  {
-    "name": "Frozen Empire Reborn",
-    "genre": "Platformer",
-    "year": 1999
-  },
-  {
-    "name": "Dark Saga Remastered",
-    "genre": "Platformer",
-    "year": 2013
-  },
-  {
-    "name": "Frozen Saga Ultimate Edition",
-    "genre": "Simulation",
-    "year": 2024
-  },
-  {
-    "name": "Crimson Kingdom Online",
-    "genre": "Sandbox",
-    "year": 1999
-  },
-  {
-    "name": "Ancient Legends II",
-    "genre": "Simulation",
-    "year": 2008
-  },
-  {
-    "name": "Radiant Echoes Reborn",
-    "genre": "Simulation",
-    "year": 1995
-  },
-  {
-    "name": "Frozen Quest III",
-    "genre": "FPS",
-    "year": 2017
-  },
-  {
-    "name": "Golden Protocol Remastered",
-    "genre": "Sandbox",
-    "year": 1985
-  },
-  {
-    "name": "Hidden Sanctuary",
-    "genre": "RPG",
-    "year": 1998
-  },
-  {
-    "name": "Lost Guardians Remastered",
-    "genre": "Sandbox",
-    "year": 2004
-  },
-  {
-    "name": "Neon Guardians II",
-    "genre": "Horror",
-    "year": 1991
-  },
-  {
-    "name": "Silent Citadel III",
-    "genre": "Roguelike",
-    "year": 2005
-  },
-  {
-    "name": "Shadow Chronicles Origins",
-    "genre": "Strategy",
-    "year": 2001
-  },
-  {
-    "name": "Broken Rebellion Ultimate Edition",
-    "genre": "RPG",
-    "year": 2006
-  },
-  {
-    "name": "Crimson Protocol II",
-    "genre": "Sandbox",
-    "year": 2003
-  },
-  {
-    "name": "Fallen Dynasty Ultimate Edition",
-    "genre": "Action",
-    "year": 2003
-  },
-  {
-    "name": "Forgotten Echoes IV",
-    "genre": "MMO",
-    "year": 2000
-  },
-  {
-    "name": "Eternal Empire",
-    "genre": "FPS",
-    "year": 1985
-  },
-  {
-    "name": "Lost Empire Online",
-    "genre": "Action",
-    "year": 2015
-  },
-  {
-    "name": "Shadow Outlaws Reborn",
-    "genre": "Survival",
-    "year": 2013
-  },
-  {
-    "name": "Frozen Echoes Remastered",
-    "genre": "Simulation",
-    "year": 1988
-  },
-  {
-    "name": "Eternal Echoes II",
-    "genre": "Sandbox",
-    "year": 1999
-  },
-  {
-    "name": "Broken Rebellion III",
-    "genre": "Action",
-    "year": 2001
-  },
-  {
-    "name": "Forgotten Quest II",
-    "genre": "Platformer",
-    "year": 1987
-  },
-  {
-    "name": "Radiant Protocol",
-    "genre": "Strategy",
-    "year": 2006
-  },
-  {
-    "name": "Iron Outlaws Deluxe",
-    "genre": "Racing",
-    "year": 2019
-  },
-  {
-    "name": "Neon Kingdom Online",
-    "genre": "Adventure",
-    "year": 2010
-  },
-  {
-    "name": "Final Kingdom II",
-    "genre": "Platformer",
-    "year": 2016
-  },
-  {
-    "name": "Golden Quest Remastered",
-    "genre": "Horror",
-    "year": 2019
-  },
-  {
-    "name": "Lost Horizons Deluxe",
-    "genre": "Simulation",
-    "year": 2005
-  },
-  {
-    "name": "Hidden Rebellion II",
-    "genre": "RPG",
-    "year": 2009
-  },
-  {
-    "name": "Shadow Kingdom Online",
-    "genre": "Action",
-    "year": 2007
-  },
-  {
-    "name": "Ancient Expedition III",
-    "genre": "Action",
-    "year": 1999
-  },
-  {
-    "name": "Frozen Expedition Online",
-    "genre": "Simulation",
-    "year": 2007
-  },
-  {
-    "name": "Silent Odyssey",
-    "genre": "Survival",
-    "year": 1988
-  },
-  {
-    "name": "Silent Rebellion Reborn",
-    "genre": "Adventure",
-    "year": 2002
-  },
-  {
-    "name": "Hidden Odyssey Reborn",
-    "genre": "FPS",
-    "year": 2011
-  },
-  {
-    "name": "Rising Sanctuary III",
-    "genre": "Simulation",
-    "year": 2000
-  },
-  {
-    "name": "Rising Saga Ultimate Edition",
-    "genre": "Simulation",
-    "year": 2006
-  },
-  {
-    "name": "Crimson Odyssey Origins",
-    "genre": "Platformer",
-    "year": 1988
-  },
-  {
-    "name": "Forgotten Protocol Online",
-    "genre": "Survival",
-    "year": 2007
-  },
-  {
-    "name": "Neon Guardians II",
-    "genre": "Sandbox",
-    "year": 2012
-  },
-  {
-    "name": "Golden Guardians IV",
-    "genre": "Platformer",
-    "year": 2011
-  },
-  {
-    "name": "Frozen Saga Deluxe",
-    "genre": "Roguelike",
-    "year": 1995
-  },
-  {
-    "name": "Frozen Citadel Ultimate Edition",
-    "genre": "Simulation",
-    "year": 2007
-  },
-  {
-    "name": "Broken Arena Online",
-    "genre": "MMO",
-    "year": 1999
-  },
-  {
-    "name": "Burning Frontier Online",
-    "genre": "Roguelike",
-    "year": 1985
-  },
-  {
-    "name": "Silent Saga Remastered",
-    "genre": "Simulation",
-    "year": 1985
-  },
-  {
-    "name": "Neon Sanctuary",
-    "genre": "Sandbox",
-    "year": 1992
-  },
-  {
-    "name": "Iron Legends Reborn",
-    "genre": "MMO",
-    "year": 2014
-  },
-  {
-    "name": "Crimson Kingdom Ultimate Edition",
-    "genre": "Racing",
-    "year": 2000
-  },
-  {
-    "name": "Broken Voyage II",
-    "genre": "MMO",
-    "year": 1993
-  },
-  {
-    "name": "Silent Outlaws Ultimate Edition",
-    "genre": "Strategy",
-    "year": 1989
-  },
-  {
-    "name": "Final Arena Reborn",
-    "genre": "Strategy",
-    "year": 1999
-  },
-  {
-    "name": "Ancient Protocol Reborn",
-    "genre": "MMO",
-    "year": 1991
-  },
-  {
-    "name": "Golden Outlaws Origins",
-    "genre": "Roguelike",
-    "year": 2006
-  },
-  {
-    "name": "Broken Chronicles Online",
-    "genre": "Roguelike",
-    "year": 2002
-  },
-  {
-    "name": "Frozen Echoes",
-    "genre": "Puzzle",
-    "year": 2010
-  },
-  {
-    "name": "Silent Arena",
-    "genre": "Platformer",
-    "year": 2024
-  },
-  {
-    "name": "Shadow Protocol Reborn",
-    "genre": "RPG",
-    "year": 1987
-  },
-  {
-    "name": "Hidden Rebellion Remastered",
-    "genre": "Racing",
-    "year": 2018
-  },
-  {
-    "name": "Burning Frontier Reborn",
-    "genre": "FPS",
-    "year": 2008
-  },
-  {
-    "name": "Rising Chronicles Ultimate Edition",
-    "genre": "Simulation",
-    "year": 1998
-  },
-  {
-    "name": "Radiant Voyage Deluxe",
-    "genre": "Platformer",
-    "year": 2004
-  },
-  {
-    "name": "Neon Guardians Ultimate Edition",
-    "genre": "Strategy",
-    "year": 1997
-  },
-  {
-    "name": "Dark Outlaws II",
-    "genre": "Adventure",
-    "year": 2015
-  },
-  {
-    "name": "Frozen Horizons II",
-    "genre": "Platformer",
-    "year": 2002
-  },
-  {
-    "name": "Final Legends II",
-    "genre": "Sandbox",
-    "year": 2016
-  },
-  {
-    "name": "Hidden Citadel Ultimate Edition",
-    "genre": "Platformer",
-    "year": 2014
-  },
-  {
-    "name": "Broken Guardians Remastered",
-    "genre": "Roguelike",
-    "year": 1997
-  },
-  {
-    "name": "Burning Odyssey Remastered",
-    "genre": "Action",
-    "year": 1998
-  },
-  {
-    "name": "Crimson Outlaws",
-    "genre": "Strategy",
-    "year": 2020
-  },
-  {
-    "name": "Shadow Dynasty IV",
-    "genre": "Action",
-    "year": 2022
-  },
-  {
-    "name": "Golden Citadel IV",
-    "genre": "Strategy",
-    "year": 1991
-  },
-  {
-    "name": "Rising Odyssey Ultimate Edition",
-    "genre": "Simulation",
-    "year": 1993
-  },
-  {
-    "name": "Shadow Sanctuary IV",
-    "genre": "Simulation",
-    "year": 2017
-  },
-  {
-    "name": "Iron Kingdom Ultimate Edition",
-    "genre": "Adventure",
-    "year": 1990
-  },
-  {
-    "name": "Forgotten Legends Origins",
-    "genre": "Platformer",
-    "year": 2012
-  },
-  {
-    "name": "Fallen Echoes IV",
-    "genre": "Platformer",
-    "year": 1998
-  },
-  {
-    "name": "Neon Outlaws Ultimate Edition",
-    "genre": "Horror",
-    "year": 2016
-  },
-  {
-    "name": "Broken Arena",
-    "genre": "Action",
     "year": 2023
   },
   {
-    "name": "Silent Protocol Origins",
-    "genre": "Horror",
-    "year": 2019
-  },
-  {
-    "name": "Rising Empire Origins",
-    "genre": "MMO",
-    "year": 2004
-  },
-  {
-    "name": "Lost Kingdom II",
-    "genre": "Horror",
-    "year": 1997
-  },
-  {
-    "name": "Forgotten Expedition Reborn",
-    "genre": "Racing",
-    "year": 1992
-  },
-  {
-    "name": "Shadow Echoes Deluxe",
-    "genre": "Adventure",
-    "year": 2015
-  },
-  {
-    "name": "Shadow Saga Ultimate Edition",
-    "genre": "FPS",
-    "year": 1988
-  },
-  {
-    "name": "Ancient Voyage Reborn",
-    "genre": "Action",
-    "year": 2009
-  },
-  {
-    "name": "Neon Dynasty Deluxe",
-    "genre": "Horror",
-    "year": 1997
-  },
-  {
-    "name": "Golden Frontier III",
-    "genre": "Platformer",
-    "year": 2023
-  },
-  {
-    "name": "Fallen Odyssey Ultimate Edition",
-    "genre": "MMO",
-    "year": 1989
-  },
-  {
-    "name": "Ancient Chronicles Reborn",
-    "genre": "RPG",
-    "year": 2018
-  },
-  {
-    "name": "Dark Quest",
-    "genre": "Adventure",
-    "year": 2012
-  },
-  {
-    "name": "Frozen Horizons III",
-    "genre": "MMO",
-    "year": 2012
-  },
-  {
-    "name": "Lost Expedition Remastered",
-    "genre": "Survival",
-    "year": 1997
-  },
-  {
-    "name": "Eternal Sanctuary III",
-    "genre": "Horror",
-    "year": 2000
-  },
-  {
-    "name": "Neon Horizons III",
-    "genre": "Simulation",
-    "year": 2000
-  },
-  {
-    "name": "Silent Odyssey II",
-    "genre": "Adventure",
-    "year": 2014
-  },
-  {
-    "name": "Broken Odyssey II",
-    "genre": "MMO",
-    "year": 2009
-  },
-  {
-    "name": "Golden Kingdom Remastered",
-    "genre": "Platformer",
-    "year": 2010
-  },
-  {
-    "name": "Fallen Protocol Origins",
-    "genre": "Sandbox",
-    "year": 1988
-  },
-  {
-    "name": "Forgotten Frontier II",
-    "genre": "Horror",
-    "year": 2020
-  },
-  {
-    "name": "Broken Guardians",
-    "genre": "Survival",
-    "year": 2002
-  },
-  {
-    "name": "Shadow Arena Origins",
-    "genre": "MMO",
-    "year": 1989
-  },
-  {
-    "name": "Eternal Citadel Ultimate Edition",
-    "genre": "Horror",
-    "year": 2010
-  },
-  {
-    "name": "Hidden Odyssey Deluxe",
-    "genre": "Sandbox",
-    "year": 2005
-  },
-  {
-    "name": "Radiant Citadel Reborn",
-    "genre": "Puzzle",
-    "year": 2008
-  },
-  {
-    "name": "Final Voyage Deluxe",
-    "genre": "Horror",
-    "year": 1994
-  },
-  {
-    "name": "Crimson Horizons IV",
-    "genre": "RPG",
-    "year": 2020
-  },
-  {
-    "name": "Final Echoes Remastered",
-    "genre": "Puzzle",
-    "year": 2022
-  },
-  {
-    "name": "Wild Rebellion Reborn",
-    "genre": "MMO",
-    "year": 1999
-  },
-  {
-    "name": "Forgotten Horizons Ultimate Edition",
-    "genre": "Puzzle",
-    "year": 2001
-  },
-  {
-    "name": "Final Empire IV",
-    "genre": "Platformer",
-    "year": 2004
-  },
-  {
-    "name": "Fallen Outlaws",
-    "genre": "Roguelike",
-    "year": 1992
-  },
-  {
-    "name": "Dark Echoes Online",
-    "genre": "Adventure",
-    "year": 2005
-  },
-  {
-    "name": "Broken Citadel Reborn",
+    "name": "Dragon Realms III",
     "genre": "Strategy",
-    "year": 2015
-  },
-  {
-    "name": "Iron Sanctuary Deluxe",
-    "genre": "Platformer",
-    "year": 2016
-  },
-  {
-    "name": "Lost Odyssey Origins",
-    "genre": "RPG",
-    "year": 2000
-  },
-  {
-    "name": "Silent Dynasty Ultimate Edition",
-    "genre": "RPG",
-    "year": 2009
-  },
-  {
-    "name": "Lost Empire IV",
-    "genre": "Adventure",
-    "year": 2004
-  },
-  {
-    "name": "Iron Saga Online",
-    "genre": "MMO",
-    "year": 2002
-  },
-  {
-    "name": "Shadow Dynasty IV",
-    "genre": "FPS",
-    "year": 1995
-  },
-  {
-    "name": "Dark Echoes Reborn",
-    "genre": "Sandbox",
-    "year": 2019
-  },
-  {
-    "name": "Shadow Horizons II",
-    "genre": "MMO",
-    "year": 2000
-  },
-  {
-    "name": "Final Protocol Origins",
-    "genre": "Horror",
-    "year": 2001
-  },
-  {
-    "name": "Neon Expedition Ultimate Edition",
-    "genre": "RPG",
-    "year": 1987
-  },
-  {
-    "name": "Forgotten Rebellion Deluxe",
-    "genre": "Racing",
-    "year": 2012
-  },
-  {
-    "name": "Crimson Empire",
-    "genre": "Action",
-    "year": 2015
-  },
-  {
-    "name": "Burning Dynasty",
-    "genre": "Racing",
-    "year": 2021
-  },
-  {
-    "name": "Eternal Echoes Reborn",
-    "genre": "Survival",
-    "year": 2010
-  },
-  {
-    "name": "Lost Frontier",
-    "genre": "Puzzle",
-    "year": 2013
-  },
-  {
-    "name": "Fallen Odyssey IV",
-    "genre": "MMO",
-    "year": 2003
-  },
-  {
-    "name": "Eternal Dynasty IV",
-    "genre": "Action",
-    "year": 2018
-  },
-  {
-    "name": "Neon Odyssey Reborn",
-    "genre": "Platformer",
-    "year": 2011
-  },
-  {
-    "name": "Silent Rebellion Remastered",
-    "genre": "Action",
-    "year": 2008
-  },
-  {
-    "name": "Crimson Dynasty Online",
-    "genre": "Adventure",
-    "year": 2022
-  },
-  {
-    "name": "Dark Guardians",
-    "genre": "Adventure",
-    "year": 1994
-  },
-  {
-    "name": "Rising Quest Online",
-    "genre": "Adventure",
-    "year": 2010
-  },
-  {
-    "name": "Broken Chronicles Reborn",
-    "genre": "Racing",
-    "year": 2002
-  },
-  {
-    "name": "Fallen Empire Origins",
-    "genre": "MMO",
-    "year": 2023
-  },
-  {
-    "name": "Ancient Dynasty II",
-    "genre": "MMO",
-    "year": 2015
-  },
-  {
-    "name": "Iron Odyssey Remastered",
-    "genre": "Simulation",
-    "year": 2002
-  },
-  {
-    "name": "Crimson Sanctuary III",
-    "genre": "Roguelike",
-    "year": 2016
-  },
-  {
-    "name": "Fallen Echoes Remastered",
-    "genre": "Platformer",
-    "year": 1997
-  },
-  {
-    "name": "Wild Echoes Remastered",
-    "genre": "Action",
-    "year": 2017
-  },
-  {
-    "name": "Fallen Expedition IV",
-    "genre": "Platformer",
-    "year": 1987
-  },
-  {
-    "name": "Frozen Outlaws Online",
-    "genre": "FPS",
-    "year": 2011
-  },
-  {
-    "name": "Burning Quest II",
-    "genre": "FPS",
-    "year": 2023
-  },
-  {
-    "name": "Forgotten Arena III",
-    "genre": "Simulation",
-    "year": 2005
-  },
-  {
-    "name": "Shadow Guardians",
-    "genre": "Platformer",
-    "year": 2017
-  },
-  {
-    "name": "Hidden Chronicles Origins",
-    "genre": "FPS",
-    "year": 2013
-  },
-  {
-    "name": "Shadow Echoes Deluxe",
-    "genre": "Puzzle",
-    "year": 1989
-  },
-  {
-    "name": "Radiant Empire III",
-    "genre": "Horror",
-    "year": 1995
-  },
-  {
-    "name": "Broken Chronicles Reborn",
-    "genre": "Action",
-    "year": 2016
-  },
-  {
-    "name": "Dark Sanctuary II",
-    "genre": "Racing",
-    "year": 1992
-  },
-  {
-    "name": "Golden Empire Ultimate Edition",
-    "genre": "Platformer",
-    "year": 1989
-  },
-  {
-    "name": "Silent Odyssey II",
-    "genre": "MMO",
-    "year": 2006
-  },
-  {
-    "name": "Fallen Citadel Online",
-    "genre": "MMO",
-    "year": 2001
-  },
-  {
-    "name": "Frozen Voyage Ultimate Edition",
-    "genre": "Survival",
-    "year": 1985
-  },
-  {
-    "name": "Hidden Protocol Online",
-    "genre": "FPS",
-    "year": 2004
-  },
-  {
-    "name": "Hidden Empire III",
-    "genre": "Sandbox",
-    "year": 1989
-  },
-  {
-    "name": "Dark Arena Origins",
-    "genre": "Puzzle",
-    "year": 1985
-  },
-  {
-    "name": "Crimson Odyssey IV",
-    "genre": "Adventure",
-    "year": 2013
-  },
-  {
-    "name": "Radiant Chronicles IV",
-    "genre": "FPS",
-    "year": 2006
-  },
-  {
-    "name": "Neon Kingdom Deluxe",
-    "genre": "Racing",
-    "year": 1990
-  },
-  {
-    "name": "Neon Voyage IV",
-    "genre": "Strategy",
-    "year": 1987
-  },
-  {
-    "name": "Burning Voyage Reborn",
-    "genre": "Puzzle",
-    "year": 1989
-  },
-  {
-    "name": "Rising Legends Origins",
-    "genre": "RPG",
-    "year": 2010
-  },
-  {
-    "name": "Radiant Odyssey III",
-    "genre": "Adventure",
-    "year": 2003
-  },
-  {
-    "name": "Lost Rebellion Remastered",
-    "genre": "RPG",
-    "year": 2010
-  },
-  {
-    "name": "Golden Sanctuary Remastered",
-    "genre": "Survival",
-    "year": 1985
-  },
-  {
-    "name": "Crimson Protocol Remastered",
-    "genre": "Horror",
-    "year": 1995
-  },
-  {
-    "name": "Broken Chronicles II",
-    "genre": "Action",
-    "year": 2016
-  },
-  {
-    "name": "Rising Odyssey Origins",
-    "genre": "Simulation",
-    "year": 2010
-  },
-  {
-    "name": "Ancient Expedition IV",
-    "genre": "Racing",
-    "year": 2022
-  },
-  {
-    "name": "Burning Frontier Online",
-    "genre": "Racing",
     "year": 2007
   },
   {
-    "name": "Hidden Chronicles IV",
-    "genre": "Simulation",
-    "year": 1995
-  },
-  {
-    "name": "Ancient Rebellion IV",
-    "genre": "Puzzle",
-    "year": 2021
-  },
-  {
-    "name": "Broken Saga Reborn",
-    "genre": "Survival",
-    "year": 2002
-  },
-  {
-    "name": "Wild Empire",
-    "genre": "Racing",
-    "year": 2016
-  },
-  {
-    "name": "Frozen Outlaws Reborn",
-    "genre": "Puzzle",
-    "year": 1997
-  },
-  {
-    "name": "Hidden Saga IV",
-    "genre": "Adventure",
-    "year": 1991
-  },
-  {
-    "name": "Dark Outlaws Origins",
-    "genre": "Survival",
-    "year": 2017
-  },
-  {
-    "name": "Radiant Protocol Ultimate Edition",
+    "name": "Void Explorer IV",
     "genre": "FPS",
-    "year": 2001
-  },
-  {
-    "name": "Radiant Sanctuary Deluxe",
-    "genre": "Puzzle",
     "year": 2020
   },
   {
-    "name": "Radiant Rebellion II",
-    "genre": "Sandbox",
-    "year": 1996
+    "name": "Void Explorer II",
+    "genre": "Action",
+    "year": 2020
   },
   {
-    "name": "Radiant Odyssey Deluxe",
-    "genre": "Horror",
+    "name": "Dragon Realms Reborn",
+    "genre": "Strategy",
+    "year": 2025
+  },
+  {
+    "name": "Crystal Kingdom IV",
+    "genre": "Adventure",
+    "year": 1995
+  },
+  {
+    "name": "Cyber Runner III",
+    "genre": "Strategy",
+    "year": 2015
+  },
+  {
+    "name": "Galaxy Raiders",
+    "genre": "Action",
+    "year": 2005
+  },
+  {
+    "name": "Iron Command Reborn",
+    "genre": "FPS",
+    "year": 1998
+  },
+  {
+    "name": "Battle Arena",
+    "genre": "Adventure",
     "year": 2024
   },
   {
-    "name": "Iron Chronicles",
+    "name": "Mystic Odyssey Origins",
+    "genre": "RPG",
+    "year": 2025
+  },
+  {
+    "name": "Shadow Legends II",
+    "genre": "Strategy",
+    "year": 2010
+  },
+  {
+    "name": "Crystal Kingdom",
+    "genre": "Simulation",
+    "year": 2024
+  },
+  {
+    "name": "Crystal Kingdom",
+    "genre": "Strategy",
+    "year": 2021
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "RPG",
+    "year": 2008
+  },
+  {
+    "name": "Dragon Realms",
+    "genre": "Puzzle",
+    "year": 2005
+  },
+  {
+    "name": "Mystic Odyssey Chronicles",
+    "genre": "Puzzle",
+    "year": 1995
+  },
+  {
+    "name": "Crystal Kingdom Chronicles",
+    "genre": "Puzzle",
+    "year": 2023
+  },
+  {
+    "name": "Iron Command II",
+    "genre": "Platformer",
+    "year": 2013
+  },
+  {
+    "name": "Cyber Runner",
+    "genre": "Action",
+    "year": 1997
+  },
+  {
+    "name": "Neon Racers Chronicles",
+    "genre": "Simulation",
+    "year": 2015
+  },
+  {
+    "name": "Iron Command IV",
+    "genre": "RPG",
+    "year": 2003
+  },
+  {
+    "name": "Neon Racers IV",
+    "genre": "Strategy",
+    "year": 2010
+  },
+  {
+    "name": "Crystal Kingdom Chronicles",
+    "genre": "Adventure",
+    "year": 2013
+  },
+  {
+    "name": "Galaxy Raiders II",
+    "genre": "FPS",
+    "year": 2024
+  },
+  {
+    "name": "Neon Racers Reborn",
     "genre": "Sandbox",
     "year": 2008
   },
   {
-    "name": "Eternal Citadel IV",
-    "genre": "FPS",
-    "year": 1996
+    "name": "Shadow Legends Origins",
+    "genre": "Sandbox",
+    "year": 2014
   },
   {
-    "name": "Fallen Chronicles IV",
-    "genre": "Horror",
-    "year": 2008
+    "name": "Mystic Odyssey II",
+    "genre": "RPG",
+    "year": 2007
   },
   {
-    "name": "Lost Kingdom II",
-    "genre": "Roguelike",
-    "year": 2003
+    "name": "Galaxy Raiders IV",
+    "genre": "Action",
+    "year": 2025
   },
   {
-    "name": "Rising Frontier III",
-    "genre": "MMO",
-    "year": 2000
-  },
-  {
-    "name": "Final Voyage Remastered",
-    "genre": "Platformer",
-    "year": 2021
-  },
-  {
-    "name": "Dark Chronicles Reborn",
-    "genre": "Survival",
-    "year": 1991
-  },
-  {
-    "name": "Final Saga",
+    "name": "Titan Assault",
     "genre": "Roguelike",
     "year": 2025
   },
   {
-    "name": "Burning Kingdom Origins",
-    "genre": "MMO",
-    "year": 2019
-  },
-  {
-    "name": "Dark Odyssey II",
+    "name": "Battle Arena II",
     "genre": "Sandbox",
-    "year": 2012
+    "year": 2008
   },
   {
-    "name": "Broken Rebellion III",
-    "genre": "Sandbox",
-    "year": 1991
-  },
-  {
-    "name": "Broken Dynasty Deluxe",
-    "genre": "Puzzle",
-    "year": 2004
-  },
-  {
-    "name": "Ancient Saga Reborn",
-    "genre": "Sandbox",
-    "year": 1999
-  },
-  {
-    "name": "Ancient Expedition Origins",
-    "genre": "Simulation",
-    "year": 2019
-  },
-  {
-    "name": "Hidden Expedition II",
-    "genre": "Horror",
-    "year": 2012
-  },
-  {
-    "name": "Iron Voyage",
-    "genre": "Survival",
-    "year": 1995
-  },
-  {
-    "name": "Crimson Saga Deluxe",
-    "genre": "FPS",
-    "year": 2003
-  },
-  {
-    "name": "Fallen Quest",
-    "genre": "Action",
-    "year": 2003
-  },
-  {
-    "name": "Iron Sanctuary",
-    "genre": "Adventure",
-    "year": 2025
-  },
-  {
-    "name": "Iron Legends Reborn",
-    "genre": "Puzzle",
-    "year": 2001
-  },
-  {
-    "name": "Shadow Dynasty III",
-    "genre": "Strategy",
-    "year": 2014
-  },
-  {
-    "name": "Hidden Frontier Remastered",
-    "genre": "Simulation",
-    "year": 1994
-  },
-  {
-    "name": "Lost Frontier Origins",
-    "genre": "Adventure",
-    "year": 2024
-  },
-  {
-    "name": "Hidden Sanctuary Deluxe",
-    "genre": "RPG",
-    "year": 2020
-  },
-  {
-    "name": "Silent Echoes II",
-    "genre": "Adventure",
-    "year": 1996
-  },
-  {
-    "name": "Shadow Horizons Remastered",
-    "genre": "Platformer",
-    "year": 2017
-  },
-  {
-    "name": "Hidden Quest",
-    "genre": "Platformer",
-    "year": 2023
-  },
-  {
-    "name": "Final Echoes IV",
-    "genre": "Racing",
-    "year": 2020
-  },
-  {
-    "name": "Hidden Sanctuary Online",
+    "name": "Void Explorer Origins",
     "genre": "Adventure",
     "year": 2011
   },
   {
-    "name": "Eternal Rebellion Remastered",
-    "genre": "Puzzle",
-    "year": 1988
+    "name": "Galaxy Raiders Chronicles",
+    "genre": "RPG",
+    "year": 2006
   },
   {
-    "name": "Hidden Protocol",
-    "genre": "Strategy",
+    "name": "Galaxy Raiders III",
+    "genre": "Simulation",
+    "year": 2016
+  },
+  {
+    "name": "Battle Arena II",
+    "genre": "Puzzle",
     "year": 2018
   },
   {
-    "name": "Shadow Sanctuary II",
-    "genre": "Action",
-    "year": 2005
-  },
-  {
-    "name": "Broken Odyssey",
-    "genre": "FPS",
-    "year": 2004
-  },
-  {
-    "name": "Hidden Legends IV",
-    "genre": "Platformer",
-    "year": 2008
-  },
-  {
-    "name": "Crimson Horizons Online",
-    "genre": "MMO",
-    "year": 1988
-  },
-  {
-    "name": "Eternal Odyssey",
-    "genre": "Platformer",
-    "year": 1986
-  },
-  {
-    "name": "Radiant Saga Online",
+    "name": "Star Quest II",
     "genre": "Strategy",
-    "year": 2012
-  },
-  {
-    "name": "Hidden Expedition Origins",
-    "genre": "Survival",
-    "year": 1985
-  },
-  {
-    "name": "Dark Frontier II",
-    "genre": "Adventure",
-    "year": 2019
-  },
-  {
-    "name": "Burning Arena Deluxe",
-    "genre": "Simulation",
-    "year": 1986
-  },
-  {
-    "name": "Hidden Guardians Origins",
-    "genre": "Horror",
     "year": 1999
   },
   {
-    "name": "Rising Outlaws Deluxe",
-    "genre": "Survival",
-    "year": 1995
+    "name": "Crystal Kingdom Chronicles",
+    "genre": "Action",
+    "year": 2008
   },
   {
-    "name": "Fallen Arena Origins",
-    "genre": "Roguelike",
-    "year": 2006
-  },
-  {
-    "name": "Hidden Kingdom IV",
-    "genre": "Sandbox",
-    "year": 1990
-  },
-  {
-    "name": "Ancient Echoes Ultimate Edition",
-    "genre": "Adventure",
+    "name": "Star Quest IV",
+    "genre": "Strategy",
     "year": 2011
   },
   {
-    "name": "Hidden Expedition Reborn",
-    "genre": "Sandbox",
-    "year": 1988
-  },
-  {
-    "name": "Neon Odyssey Remastered",
-    "genre": "Puzzle",
-    "year": 2003
-  },
-  {
-    "name": "Shadow Kingdom Deluxe",
-    "genre": "Action",
-    "year": 2006
-  },
-  {
-    "name": "Fallen Rebellion Origins",
-    "genre": "Adventure",
-    "year": 1998
-  },
-  {
-    "name": "Dark Odyssey Deluxe",
-    "genre": "FPS",
-    "year": 2010
-  },
-  {
-    "name": "Dark Frontier Ultimate Edition",
-    "genre": "MMO",
-    "year": 2010
-  },
-  {
-    "name": "Burning Quest IV",
+    "name": "Shadow Legends IV",
     "genre": "Simulation",
-    "year": 2017
+    "year": 1997
   },
   {
-    "name": "Lost Kingdom Remastered",
-    "genre": "Puzzle",
-    "year": 1987
-  },
-  {
-    "name": "Rising Arena Remastered",
-    "genre": "Survival",
-    "year": 1996
-  },
-  {
-    "name": "Dark Outlaws Remastered",
-    "genre": "Racing",
-    "year": 2009
-  },
-  {
-    "name": "Golden Citadel Ultimate Edition",
-    "genre": "Horror",
-    "year": 1986
-  },
-  {
-    "name": "Burning Horizons II",
-    "genre": "Horror",
-    "year": 1994
-  },
-  {
-    "name": "Forgotten Empire III",
-    "genre": "Puzzle",
-    "year": 2006
-  },
-  {
-    "name": "Burning Citadel Ultimate Edition",
-    "genre": "MMO",
-    "year": 2006
-  },
-  {
-    "name": "Rising Kingdom III",
-    "genre": "Platformer",
+    "name": "Shadow Legends Chronicles",
+    "genre": "Roguelike",
     "year": 2012
   },
   {
-    "name": "Eternal Frontier Online",
-    "genre": "Action",
-    "year": 2005
-  },
-  {
-    "name": "Neon Echoes",
-    "genre": "Survival",
-    "year": 1994
-  },
-  {
-    "name": "Rising Rebellion IV",
-    "genre": "Roguelike",
-    "year": 2016
-  },
-  {
-    "name": "Iron Saga Online",
-    "genre": "Sandbox",
-    "year": 1995
-  },
-  {
-    "name": "Iron Outlaws",
-    "genre": "Survival",
-    "year": 2023
-  },
-  {
-    "name": "Final Voyage Remastered",
-    "genre": "Platformer",
-    "year": 2010
-  },
-  {
-    "name": "Golden Legends Deluxe",
-    "genre": "Horror",
-    "year": 2011
-  },
-  {
-    "name": "Frozen Legends Reborn",
-    "genre": "MMO",
-    "year": 2002
-  },
-  {
-    "name": "Eternal Echoes",
-    "genre": "Horror",
-    "year": 2010
-  },
-  {
-    "name": "Final Guardians",
-    "genre": "Simulation",
-    "year": 2017
-  },
-  {
-    "name": "Golden Guardians Online",
-    "genre": "Strategy",
-    "year": 2003
-  },
-  {
-    "name": "Shadow Chronicles IV",
-    "genre": "Roguelike",
-    "year": 2002
-  },
-  {
-    "name": "Burning Protocol III",
-    "genre": "Racing",
-    "year": 2023
-  },
-  {
-    "name": "Neon Protocol II",
-    "genre": "RPG",
-    "year": 2004
-  },
-  {
-    "name": "Dark Voyage III",
-    "genre": "Racing",
-    "year": 2023
-  },
-  {
-    "name": "Silent Expedition Online",
-    "genre": "MMO",
-    "year": 1986
-  },
-  {
-    "name": "Dark Rebellion",
-    "genre": "Survival",
-    "year": 1996
-  },
-  {
-    "name": "Frozen Dynasty Origins",
-    "genre": "FPS",
-    "year": 2005
-  },
-  {
-    "name": "Silent Echoes Remastered",
-    "genre": "Simulation",
-    "year": 2023
-  },
-  {
-    "name": "Neon Dynasty Deluxe",
-    "genre": "FPS",
-    "year": 1989
-  },
-  {
-    "name": "Fallen Rebellion Reborn",
-    "genre": "Action",
-    "year": 1986
-  },
-  {
-    "name": "Ancient Protocol Origins",
-    "genre": "RPG",
-    "year": 2021
-  },
-  {
-    "name": "Radiant Rebellion",
-    "genre": "Puzzle",
-    "year": 1994
-  },
-  {
-    "name": "Dark Chronicles Deluxe",
-    "genre": "Horror",
-    "year": 2024
-  },
-  {
-    "name": "Hidden Saga Origins",
-    "genre": "Survival",
-    "year": 2003
-  },
-  {
-    "name": "Fallen Dynasty Online",
-    "genre": "Action",
-    "year": 2000
-  },
-  {
-    "name": "Golden Odyssey Online",
-    "genre": "FPS",
-    "year": 1991
-  },
-  {
-    "name": "Final Protocol Origins",
-    "genre": "Puzzle",
-    "year": 2006
-  },
-  {
-    "name": "Lost Guardians",
-    "genre": "Survival",
-    "year": 2007
-  },
-  {
-    "name": "Forgotten Sanctuary II",
-    "genre": "Horror",
-    "year": 2018
-  },
-  {
-    "name": "Eternal Expedition",
-    "genre": "Action",
-    "year": 2014
-  },
-  {
-    "name": "Ancient Echoes III",
-    "genre": "Roguelike",
-    "year": 2010
-  },
-  {
-    "name": "Dark Expedition IV",
-    "genre": "RPG",
-    "year": 2016
-  },
-  {
-    "name": "Silent Rebellion Deluxe",
-    "genre": "Adventure",
-    "year": 1991
-  },
-  {
-    "name": "Radiant Citadel III",
-    "genre": "MMO",
-    "year": 2025
-  },
-  {
-    "name": "Hidden Empire",
-    "genre": "Adventure",
-    "year": 2011
-  },
-  {
-    "name": "Lost Saga II",
-    "genre": "Horror",
-    "year": 1994
-  },
-  {
-    "name": "Burning Frontier Reborn",
-    "genre": "Horror",
-    "year": 2016
-  },
-  {
-    "name": "Silent Citadel IV",
-    "genre": "Platformer",
-    "year": 1995
-  },
-  {
-    "name": "Wild Empire Remastered",
-    "genre": "Roguelike",
-    "year": 2025
-  },
-  {
-    "name": "Crimson Echoes Ultimate Edition",
-    "genre": "Roguelike",
-    "year": 2016
-  },
-  {
-    "name": "Hidden Rebellion Reborn",
-    "genre": "Horror",
-    "year": 1998
-  },
-  {
-    "name": "Wild Echoes",
-    "genre": "Strategy",
-    "year": 2010
-  },
-  {
-    "name": "Neon Expedition Origins",
-    "genre": "MMO",
-    "year": 2023
-  },
-  {
-    "name": "Broken Voyage Ultimate Edition",
-    "genre": "FPS",
-    "year": 2024
-  },
-  {
-    "name": "Frozen Quest II",
-    "genre": "MMO",
-    "year": 2015
-  },
-  {
-    "name": "Final Chronicles Deluxe",
-    "genre": "MMO",
-    "year": 1985
-  },
-  {
-    "name": "Burning Quest Ultimate Edition",
-    "genre": "Sandbox",
-    "year": 2021
-  },
-  {
-    "name": "Iron Arena II",
-    "genre": "FPS",
-    "year": 2016
-  },
-  {
-    "name": "Broken Dynasty II",
-    "genre": "Horror",
-    "year": 1988
-  },
-  {
-    "name": "Silent Citadel Online",
-    "genre": "MMO",
-    "year": 1990
-  },
-  {
-    "name": "Radiant Sanctuary II",
-    "genre": "Horror",
-    "year": 1996
-  },
-  {
-    "name": "Shadow Legends Deluxe",
-    "genre": "Simulation",
-    "year": 2003
-  },
-  {
-    "name": "Golden Outlaws",
-    "genre": "Strategy",
-    "year": 1990
-  },
-  {
-    "name": "Golden Kingdom II",
-    "genre": "MMO",
-    "year": 2008
-  },
-  {
-    "name": "Eternal Sanctuary Reborn",
-    "genre": "Strategy",
-    "year": 2005
-  },
-  {
-    "name": "Golden Sanctuary IV",
-    "genre": "Horror",
-    "year": 1988
-  },
-  {
-    "name": "Burning Quest IV",
-    "genre": "Racing",
-    "year": 2011
-  },
-  {
-    "name": "Crimson Echoes",
-    "genre": "Puzzle",
-    "year": 1985
-  },
-  {
-    "name": "Ancient Expedition Deluxe",
-    "genre": "Survival",
-    "year": 2025
-  },
-  {
-    "name": "Forgotten Legends Deluxe",
-    "genre": "Platformer",
-    "year": 2024
-  },
-  {
-    "name": "Burning Sanctuary Deluxe",
-    "genre": "Horror",
-    "year": 2017
-  },
-  {
-    "name": "Broken Arena Reborn",
-    "genre": "RPG",
-    "year": 2002
-  },
-  {
-    "name": "Radiant Horizons III",
-    "genre": "Survival",
-    "year": 1993
-  },
-  {
-    "name": "Burning Dynasty III",
-    "genre": "Horror",
-    "year": 2021
-  },
-  {
-    "name": "Dark Citadel II",
-    "genre": "Action",
-    "year": 2009
-  },
-  {
-    "name": "Wild Chronicles II",
-    "genre": "Simulation",
-    "year": 2013
-  },
-  {
-    "name": "Lost Rebellion Origins",
-    "genre": "Puzzle",
-    "year": 2015
-  },
-  {
-    "name": "Shadow Horizons Ultimate Edition",
-    "genre": "Platformer",
-    "year": 1994
-  },
-  {
-    "name": "Crimson Citadel III",
-    "genre": "Roguelike",
-    "year": 2009
-  },
-  {
-    "name": "Frozen Dynasty Deluxe",
-    "genre": "Platformer",
-    "year": 2015
-  },
-  {
-    "name": "Golden Horizons Remastered",
-    "genre": "Roguelike",
-    "year": 2024
-  },
-  {
-    "name": "Ancient Rebellion Online",
-    "genre": "Sandbox",
-    "year": 1989
-  },
-  {
-    "name": "Crimson Citadel Origins",
-    "genre": "Survival",
-    "year": 1994
-  },
-  {
-    "name": "Frozen Voyage Remastered",
-    "genre": "Puzzle",
-    "year": 2002
-  },
-  {
-    "name": "Silent Horizons Deluxe",
-    "genre": "Strategy",
-    "year": 1994
-  },
-  {
-    "name": "Neon Sanctuary IV",
-    "genre": "Simulation",
-    "year": 1993
-  },
-  {
-    "name": "Golden Voyage Origins",
-    "genre": "Survival",
-    "year": 2013
-  },
-  {
-    "name": "Fallen Outlaws Reborn",
-    "genre": "Survival",
-    "year": 1988
-  },
-  {
-    "name": "Silent Horizons Reborn",
-    "genre": "Survival",
-    "year": 2009
-  },
-  {
-    "name": "Silent Sanctuary Reborn",
-    "genre": "Racing",
-    "year": 1989
-  },
-  {
-    "name": "Lost Outlaws III",
-    "genre": "Platformer",
-    "year": 2011
-  },
-  {
-    "name": "Crimson Frontier Origins",
-    "genre": "Simulation",
-    "year": 1985
-  },
-  {
-    "name": "Radiant Empire IV",
-    "genre": "Roguelike",
-    "year": 1988
-  },
-  {
-    "name": "Crimson Legends II",
-    "genre": "Horror",
-    "year": 2009
-  },
-  {
-    "name": "Shadow Odyssey IV",
-    "genre": "RPG",
-    "year": 2021
-  },
-  {
-    "name": "Neon Citadel III",
-    "genre": "FPS",
-    "year": 2007
-  },
-  {
-    "name": "Crimson Kingdom III",
-    "genre": "Simulation",
-    "year": 2013
-  },
-  {
-    "name": "Broken Voyage",
-    "genre": "Sandbox",
-    "year": 2002
-  },
-  {
-    "name": "Silent Voyage IV",
-    "genre": "FPS",
-    "year": 2014
-  },
-  {
-    "name": "Burning Outlaws",
-    "genre": "Racing",
-    "year": 2020
-  },
-  {
-    "name": "Rising Legends Remastered",
-    "genre": "Strategy",
-    "year": 1993
-  },
-  {
-    "name": "Lost Dynasty Reborn",
-    "genre": "FPS",
-    "year": 2008
-  },
-  {
-    "name": "Iron Saga Ultimate Edition",
-    "genre": "MMO",
-    "year": 1988
-  },
-  {
-    "name": "Burning Protocol Remastered",
+    "name": "Iron Command II",
     "genre": "Puzzle",
     "year": 1997
   },
   {
-    "name": "Silent Outlaws Ultimate Edition",
+    "name": "Cyber Runner Origins",
     "genre": "Strategy",
-    "year": 1990
+    "year": 2011
   },
   {
-    "name": "Burning Chronicles Deluxe",
+    "name": "Void Explorer",
+    "genre": "Roguelike",
+    "year": 2016
+  },
+  {
+    "name": "Cyber Runner Reborn",
+    "genre": "Adventure",
+    "year": 2009
+  },
+  {
+    "name": "Titan Assault Chronicles",
+    "genre": "Strategy",
+    "year": 2021
+  },
+  {
+    "name": "Void Explorer Chronicles",
+    "genre": "Platformer",
+    "year": 2012
+  },
+  {
+    "name": "Titan Assault Reborn",
+    "genre": "Platformer",
+    "year": 2007
+  },
+  {
+    "name": "Battle Arena II",
+    "genre": "Platformer",
+    "year": 2012
+  },
+  {
+    "name": "Cyber Runner IV",
+    "genre": "Strategy",
+    "year": 2000
+  },
+  {
+    "name": "Iron Command Chronicles",
+    "genre": "RPG",
+    "year": 2017
+  },
+  {
+    "name": "Star Quest IV",
+    "genre": "Adventure",
+    "year": 1995
+  },
+  {
+    "name": "Cyber Runner II",
+    "genre": "Roguelike",
+    "year": 2023
+  },
+  {
+    "name": "Battle Arena Reborn",
+    "genre": "Action",
+    "year": 2022
+  },
+  {
+    "name": "Galaxy Raiders IV",
+    "genre": "Simulation",
+    "year": 1996
+  },
+  {
+    "name": "Galaxy Raiders",
+    "genre": "Action",
+    "year": 2003
+  },
+  {
+    "name": "Galaxy Raiders",
+    "genre": "Strategy",
+    "year": 2021
+  },
+  {
+    "name": "Dragon Realms Chronicles",
+    "genre": "Platformer",
+    "year": 2018
+  },
+  {
+    "name": "Galaxy Raiders",
+    "genre": "Sandbox",
+    "year": 2024
+  },
+  {
+    "name": "Cyber Runner Origins",
+    "genre": "Simulation",
+    "year": 2008
+  },
+  {
+    "name": "Neon Racers Origins",
+    "genre": "Simulation",
+    "year": 2022
+  },
+  {
+    "name": "Dragon Realms Origins",
+    "genre": "Action",
+    "year": 2010
+  },
+  {
+    "name": "Neon Racers Chronicles",
+    "genre": "Platformer",
+    "year": 1995
+  },
+  {
+    "name": "Battle Arena II",
+    "genre": "Roguelike",
+    "year": 2014
+  },
+  {
+    "name": "Titan Assault II",
+    "genre": "RPG",
+    "year": 1996
+  },
+  {
+    "name": "Mystic Odyssey II",
+    "genre": "FPS",
+    "year": 1995
+  },
+  {
+    "name": "Crystal Kingdom III",
+    "genre": "Strategy",
+    "year": 2003
+  },
+  {
+    "name": "Mystic Odyssey",
+    "genre": "FPS",
+    "year": 2001
+  },
+  {
+    "name": "Void Explorer III",
+    "genre": "Adventure",
+    "year": 2001
+  },
+  {
+    "name": "Iron Command Chronicles",
+    "genre": "Puzzle",
+    "year": 2003
+  },
+  {
+    "name": "Dragon Realms Origins",
+    "genre": "Simulation",
+    "year": 2025
+  },
+  {
+    "name": "Galaxy Raiders",
+    "genre": "Platformer",
+    "year": 2007
+  },
+  {
+    "name": "Cyber Runner Reborn",
+    "genre": "Action",
+    "year": 2019
+  },
+  {
+    "name": "Galaxy Raiders IV",
+    "genre": "FPS",
+    "year": 2013
+  },
+  {
+    "name": "Neon Racers II",
+    "genre": "Adventure",
+    "year": 1999
+  },
+  {
+    "name": "Dragon Realms Chronicles",
+    "genre": "Puzzle",
+    "year": 2023
+  },
+  {
+    "name": "Cyber Runner Origins",
+    "genre": "Roguelike",
+    "year": 2010
+  },
+  {
+    "name": "Star Quest Chronicles",
+    "genre": "Roguelike",
+    "year": 2011
+  },
+  {
+    "name": "Cyber Runner II",
+    "genre": "Roguelike",
+    "year": 1995
+  },
+  {
+    "name": "Titan Assault Reborn",
+    "genre": "Strategy",
+    "year": 1996
+  },
+  {
+    "name": "Galaxy Raiders",
+    "genre": "FPS",
+    "year": 1998
+  },
+  {
+    "name": "Titan Assault Chronicles",
+    "genre": "Puzzle",
+    "year": 2001
+  },
+  {
+    "name": "Titan Assault Reborn",
+    "genre": "Simulation",
+    "year": 2005
+  },
+  {
+    "name": "Iron Command Reborn",
+    "genre": "Adventure",
+    "year": 2017
+  },
+  {
+    "name": "Dragon Realms Chronicles",
+    "genre": "Sandbox",
+    "year": 2011
+  },
+  {
+    "name": "Battle Arena Chronicles",
+    "genre": "Platformer",
+    "year": 2005
+  },
+  {
+    "name": "Crystal Kingdom Chronicles",
+    "genre": "Platformer",
+    "year": 2018
+  },
+  {
+    "name": "Battle Arena III",
+    "genre": "Puzzle",
+    "year": 1996
+  },
+  {
+    "name": "Cyber Runner III",
+    "genre": "Puzzle",
+    "year": 2024
+  },
+  {
+    "name": "Battle Arena II",
+    "genre": "Puzzle",
+    "year": 2022
+  },
+  {
+    "name": "Neon Racers III",
+    "genre": "Simulation",
+    "year": 2021
+  },
+  {
+    "name": "Mystic Odyssey II",
+    "genre": "Sandbox",
+    "year": 2022
+  },
+  {
+    "name": "Cyber Runner Reborn",
+    "genre": "FPS",
+    "year": 2011
+  },
+  {
+    "name": "Iron Command II",
+    "genre": "Puzzle",
+    "year": 2013
+  },
+  {
+    "name": "Neon Racers Origins",
+    "genre": "Action",
+    "year": 1996
+  },
+  {
+    "name": "Titan Assault",
+    "genre": "Roguelike",
+    "year": 2005
+  },
+  {
+    "name": "Galaxy Raiders Reborn",
+    "genre": "Puzzle",
+    "year": 2002
+  },
+  {
+    "name": "Crystal Kingdom III",
+    "genre": "Platformer",
+    "year": 2006
+  },
+  {
+    "name": "Neon Racers III",
+    "genre": "Puzzle",
+    "year": 2021
+  },
+  {
+    "name": "Galaxy Raiders Reborn",
+    "genre": "Strategy",
+    "year": 2011
+  },
+  {
+    "name": "Star Quest Reborn",
+    "genre": "Adventure",
+    "year": 1999
+  },
+  {
+    "name": "Shadow Legends IV",
+    "genre": "RPG",
+    "year": 2024
+  },
+  {
+    "name": "Crystal Kingdom III",
+    "genre": "FPS",
+    "year": 2009
+  },
+  {
+    "name": "Star Quest Reborn",
+    "genre": "Strategy",
+    "year": 2005
+  },
+  {
+    "name": "Galaxy Raiders Origins",
+    "genre": "Strategy",
+    "year": 2023
+  },
+  {
+    "name": "Titan Assault Chronicles",
+    "genre": "Adventure",
+    "year": 2023
+  },
+  {
+    "name": "Mystic Odyssey",
+    "genre": "Adventure",
+    "year": 2025
+  },
+  {
+    "name": "Shadow Legends III",
+    "genre": "FPS",
+    "year": 2005
+  },
+  {
+    "name": "Titan Assault II",
+    "genre": "Simulation",
+    "year": 2019
+  },
+  {
+    "name": "Cyber Runner IV",
+    "genre": "Adventure",
+    "year": 1996
+  },
+  {
+    "name": "Battle Arena II",
+    "genre": "Roguelike",
+    "year": 2001
+  },
+  {
+    "name": "Shadow Legends",
+    "genre": "FPS",
+    "year": 2001
+  },
+  {
+    "name": "Star Quest Origins",
+    "genre": "Adventure",
+    "year": 2000
+  },
+  {
+    "name": "Star Quest IV",
+    "genre": "Puzzle",
+    "year": 1999
+  },
+  {
+    "name": "Cyber Runner IV",
+    "genre": "Adventure",
+    "year": 2011
+  },
+  {
+    "name": "Void Explorer",
+    "genre": "Adventure",
+    "year": 2009
+  },
+  {
+    "name": "Dragon Realms III",
+    "genre": "Puzzle",
+    "year": 1996
+  },
+  {
+    "name": "Star Quest Reborn",
+    "genre": "Platformer",
+    "year": 2014
+  },
+  {
+    "name": "Mystic Odyssey Reborn",
+    "genre": "Roguelike",
+    "year": 1997
+  },
+  {
+    "name": "Dragon Realms IV",
+    "genre": "FPS",
+    "year": 2002
+  },
+  {
+    "name": "Cyber Runner III",
+    "genre": "Platformer",
+    "year": 2018
+  },
+  {
+    "name": "Iron Command Reborn",
+    "genre": "FPS",
+    "year": 2024
+  },
+  {
+    "name": "Void Explorer III",
+    "genre": "RPG",
+    "year": 2000
+  },
+  {
+    "name": "Cyber Runner",
+    "genre": "Sandbox",
+    "year": 2009
+  },
+  {
+    "name": "Iron Command III",
+    "genre": "Puzzle",
+    "year": 1995
+  },
+  {
+    "name": "Mystic Odyssey II",
+    "genre": "Simulation",
+    "year": 2024
+  },
+  {
+    "name": "Shadow Legends IV",
+    "genre": "Roguelike",
+    "year": 2010
+  },
+  {
+    "name": "Shadow Legends Chronicles",
+    "genre": "Sandbox",
+    "year": 2003
+  },
+  {
+    "name": "Neon Racers III",
+    "genre": "Simulation",
+    "year": 2010
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Adventure",
+    "year": 1997
+  },
+  {
+    "name": "Mystic Odyssey II",
+    "genre": "Sandbox",
+    "year": 2024
+  },
+  {
+    "name": "Crystal Kingdom II",
+    "genre": "Puzzle",
+    "year": 1998
+  },
+  {
+    "name": "Neon Racers IV",
+    "genre": "Adventure",
+    "year": 1997
+  },
+  {
+    "name": "Iron Command II",
+    "genre": "RPG",
+    "year": 2020
+  },
+  {
+    "name": "Dragon Realms II",
+    "genre": "Roguelike",
+    "year": 1995
+  },
+  {
+    "name": "Galaxy Raiders III",
+    "genre": "Adventure",
+    "year": 2017
+  },
+  {
+    "name": "Shadow Legends IV",
+    "genre": "Strategy",
+    "year": 2021
+  },
+  {
+    "name": "Shadow Legends III",
+    "genre": "Adventure",
+    "year": 2019
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "Puzzle",
+    "year": 2006
+  },
+  {
+    "name": "Mystic Odyssey IV",
+    "genre": "Platformer",
+    "year": 2005
+  },
+  {
+    "name": "Dragon Realms IV",
+    "genre": "Action",
+    "year": 2018
+  },
+  {
+    "name": "Cyber Runner",
+    "genre": "Action",
+    "year": 2023
+  },
+  {
+    "name": "Crystal Kingdom Origins",
+    "genre": "Sandbox",
+    "year": 2015
+  },
+  {
+    "name": "Star Quest Chronicles",
+    "genre": "Action",
+    "year": 2022
+  },
+  {
+    "name": "Titan Assault Origins",
+    "genre": "FPS",
+    "year": 2001
+  },
+  {
+    "name": "Void Explorer Origins",
+    "genre": "Platformer",
+    "year": 2017
+  },
+  {
+    "name": "Star Quest Origins",
+    "genre": "RPG",
+    "year": 2020
+  },
+  {
+    "name": "Titan Assault Origins",
+    "genre": "Roguelike",
+    "year": 2014
+  },
+  {
+    "name": "Cyber Runner",
+    "genre": "Puzzle",
+    "year": 2009
+  },
+  {
+    "name": "Cyber Runner Reborn",
+    "genre": "RPG",
+    "year": 2018
+  },
+  {
+    "name": "Dragon Realms Origins",
+    "genre": "Roguelike",
+    "year": 2007
+  },
+  {
+    "name": "Neon Racers Reborn",
+    "genre": "RPG",
+    "year": 2004
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "FPS",
+    "year": 2009
+  },
+  {
+    "name": "Galaxy Raiders IV",
+    "genre": "Roguelike",
+    "year": 2003
+  },
+  {
+    "name": "Cyber Runner",
+    "genre": "FPS",
+    "year": 2010
+  },
+  {
+    "name": "Dragon Realms IV",
+    "genre": "Platformer",
+    "year": 2013
+  },
+  {
+    "name": "Mystic Odyssey Chronicles",
+    "genre": "Action",
+    "year": 1999
+  },
+  {
+    "name": "Void Explorer II",
+    "genre": "Sandbox",
+    "year": 2011
+  },
+  {
+    "name": "Mystic Odyssey IV",
+    "genre": "Puzzle",
+    "year": 1997
+  },
+  {
+    "name": "Neon Racers Reborn",
+    "genre": "RPG",
+    "year": 2013
+  },
+  {
+    "name": "Dragon Realms",
+    "genre": "Simulation",
+    "year": 2006
+  },
+  {
+    "name": "Cyber Runner Origins",
+    "genre": "Strategy",
+    "year": 2010
+  },
+  {
+    "name": "Cyber Runner",
+    "genre": "RPG",
+    "year": 2006
+  },
+  {
+    "name": "Shadow Legends III",
+    "genre": "RPG",
+    "year": 2006
+  },
+  {
+    "name": "Galaxy Raiders IV",
+    "genre": "Roguelike",
+    "year": 2019
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "FPS",
+    "year": 2023
+  },
+  {
+    "name": "Iron Command III",
+    "genre": "FPS",
+    "year": 2008
+  },
+  {
+    "name": "Dragon Realms II",
+    "genre": "Action",
+    "year": 2006
+  },
+  {
+    "name": "Star Quest II",
+    "genre": "Sandbox",
+    "year": 2020
+  },
+  {
+    "name": "Shadow Legends Chronicles",
+    "genre": "Adventure",
+    "year": 2006
+  },
+  {
+    "name": "Iron Command Chronicles",
+    "genre": "Platformer",
+    "year": 2005
+  },
+  {
+    "name": "Cyber Runner",
+    "genre": "Puzzle",
+    "year": 1998
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Puzzle",
+    "year": 2002
+  },
+  {
+    "name": "Iron Command Origins",
+    "genre": "Platformer",
+    "year": 2005
+  },
+  {
+    "name": "Cyber Runner III",
+    "genre": "Strategy",
+    "year": 2014
+  },
+  {
+    "name": "Battle Arena",
+    "genre": "Action",
+    "year": 1997
+  },
+  {
+    "name": "Star Quest Chronicles",
+    "genre": "RPG",
+    "year": 2002
+  },
+  {
+    "name": "Void Explorer",
+    "genre": "FPS",
+    "year": 2023
+  },
+  {
+    "name": "Cyber Runner",
+    "genre": "FPS",
+    "year": 2005
+  },
+  {
+    "name": "Neon Racers",
+    "genre": "Roguelike",
+    "year": 2009
+  },
+  {
+    "name": "Cyber Runner",
+    "genre": "RPG",
+    "year": 2011
+  },
+  {
+    "name": "Cyber Runner III",
+    "genre": "FPS",
+    "year": 2025
+  },
+  {
+    "name": "Dragon Realms II",
+    "genre": "RPG",
+    "year": 2016
+  },
+  {
+    "name": "Mystic Odyssey IV",
+    "genre": "FPS",
+    "year": 1997
+  },
+  {
+    "name": "Neon Racers Chronicles",
+    "genre": "FPS",
+    "year": 2022
+  },
+  {
+    "name": "Cyber Runner Chronicles",
+    "genre": "Puzzle",
+    "year": 2025
+  },
+  {
+    "name": "Dragon Realms II",
+    "genre": "Simulation",
+    "year": 2017
+  },
+  {
+    "name": "Shadow Legends III",
+    "genre": "RPG",
+    "year": 1997
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "Adventure",
+    "year": 2024
+  },
+  {
+    "name": "Shadow Legends II",
+    "genre": "Platformer",
+    "year": 2020
+  },
+  {
+    "name": "Shadow Legends Chronicles",
+    "genre": "FPS",
+    "year": 2003
+  },
+  {
+    "name": "Star Quest Reborn",
+    "genre": "Action",
+    "year": 1999
+  },
+  {
+    "name": "Dragon Realms Chronicles",
+    "genre": "RPG",
+    "year": 2017
+  },
+  {
+    "name": "Battle Arena",
+    "genre": "Platformer",
+    "year": 2015
+  },
+  {
+    "name": "Void Explorer Origins",
+    "genre": "FPS",
+    "year": 2021
+  },
+  {
+    "name": "Iron Command Chronicles",
+    "genre": "Strategy",
+    "year": 2009
+  },
+  {
+    "name": "Cyber Runner",
+    "genre": "Simulation",
+    "year": 2005
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Adventure",
+    "year": 2009
+  },
+  {
+    "name": "Galaxy Raiders Origins",
+    "genre": "Roguelike",
+    "year": 2006
+  },
+  {
+    "name": "Cyber Runner Reborn",
+    "genre": "Strategy",
+    "year": 2007
+  },
+  {
+    "name": "Iron Command III",
+    "genre": "Puzzle",
+    "year": 2023
+  },
+  {
+    "name": "Dragon Realms III",
+    "genre": "Strategy",
+    "year": 2024
+  },
+  {
+    "name": "Shadow Legends Reborn",
+    "genre": "Simulation",
+    "year": 2012
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Sandbox",
+    "year": 2025
+  },
+  {
+    "name": "Dragon Realms IV",
+    "genre": "FPS",
+    "year": 1995
+  },
+  {
+    "name": "Dragon Realms III",
+    "genre": "Action",
+    "year": 2010
+  },
+  {
+    "name": "Titan Assault Reborn",
+    "genre": "Roguelike",
+    "year": 2005
+  },
+  {
+    "name": "Dragon Realms Chronicles",
+    "genre": "Strategy",
+    "year": 2011
+  },
+  {
+    "name": "Shadow Legends Origins",
+    "genre": "Simulation",
+    "year": 1996
+  },
+  {
+    "name": "Cyber Runner III",
+    "genre": "FPS",
+    "year": 2006
+  },
+  {
+    "name": "Neon Racers Reborn",
+    "genre": "Puzzle",
+    "year": 2013
+  },
+  {
+    "name": "Titan Assault III",
+    "genre": "Action",
+    "year": 2008
+  },
+  {
+    "name": "Shadow Legends IV",
+    "genre": "Strategy",
+    "year": 2015
+  },
+  {
+    "name": "Star Quest Origins",
+    "genre": "Action",
+    "year": 1999
+  },
+  {
+    "name": "Dragon Realms Reborn",
+    "genre": "Roguelike",
+    "year": 2006
+  },
+  {
+    "name": "Titan Assault II",
+    "genre": "Simulation",
+    "year": 2019
+  },
+  {
+    "name": "Mystic Odyssey Reborn",
+    "genre": "Simulation",
+    "year": 2015
+  },
+  {
+    "name": "Mystic Odyssey Origins",
+    "genre": "Adventure",
+    "year": 1996
+  },
+  {
+    "name": "Galaxy Raiders IV",
+    "genre": "Sandbox",
+    "year": 2022
+  },
+  {
+    "name": "Neon Racers Chronicles",
+    "genre": "Strategy",
+    "year": 2005
+  },
+  {
+    "name": "Cyber Runner Chronicles",
+    "genre": "Puzzle",
+    "year": 2002
+  },
+  {
+    "name": "Void Explorer Chronicles",
+    "genre": "Sandbox",
+    "year": 2002
+  },
+  {
+    "name": "Mystic Odyssey IV",
+    "genre": "Platformer",
+    "year": 2007
+  },
+  {
+    "name": "Void Explorer II",
+    "genre": "Action",
+    "year": 2001
+  },
+  {
+    "name": "Star Quest IV",
+    "genre": "Simulation",
+    "year": 2024
+  },
+  {
+    "name": "Crystal Kingdom Origins",
+    "genre": "Puzzle",
+    "year": 2019
+  },
+  {
+    "name": "Neon Racers Chronicles",
+    "genre": "Sandbox",
+    "year": 2008
+  },
+  {
+    "name": "Crystal Kingdom Reborn",
+    "genre": "Strategy",
+    "year": 2019
+  },
+  {
+    "name": "Void Explorer III",
+    "genre": "Platformer",
+    "year": 2006
+  },
+  {
+    "name": "Battle Arena II",
+    "genre": "FPS",
+    "year": 2024
+  },
+  {
+    "name": "Star Quest",
+    "genre": "Action",
+    "year": 2025
+  },
+  {
+    "name": "Neon Racers II",
+    "genre": "FPS",
+    "year": 2021
+  },
+  {
+    "name": "Dragon Realms Reborn",
+    "genre": "Action",
+    "year": 1999
+  },
+  {
+    "name": "Iron Command Chronicles",
+    "genre": "FPS",
+    "year": 2017
+  },
+  {
+    "name": "Neon Racers III",
+    "genre": "Roguelike",
+    "year": 1998
+  },
+  {
+    "name": "Crystal Kingdom Origins",
+    "genre": "Puzzle",
+    "year": 1998
+  },
+  {
+    "name": "Galaxy Raiders Origins",
+    "genre": "Puzzle",
+    "year": 1997
+  },
+  {
+    "name": "Cyber Runner Reborn",
+    "genre": "RPG",
+    "year": 2015
+  },
+  {
+    "name": "Cyber Runner III",
+    "genre": "RPG",
+    "year": 2001
+  },
+  {
+    "name": "Neon Racers III",
+    "genre": "Adventure",
+    "year": 1996
+  },
+  {
+    "name": "Galaxy Raiders Origins",
+    "genre": "Adventure",
+    "year": 1998
+  },
+  {
+    "name": "Crystal Kingdom III",
+    "genre": "RPG",
+    "year": 2025
+  },
+  {
+    "name": "Shadow Legends Chronicles",
+    "genre": "RPG",
+    "year": 2004
+  },
+  {
+    "name": "Titan Assault Reborn",
+    "genre": "Sandbox",
+    "year": 2018
+  },
+  {
+    "name": "Battle Arena Chronicles",
+    "genre": "FPS",
+    "year": 2014
+  },
+  {
+    "name": "Iron Command II",
+    "genre": "FPS",
+    "year": 2017
+  },
+  {
+    "name": "Titan Assault",
+    "genre": "Adventure",
+    "year": 2012
+  },
+  {
+    "name": "Galaxy Raiders Origins",
+    "genre": "Action",
+    "year": 1996
+  },
+  {
+    "name": "Star Quest III",
+    "genre": "Platformer",
+    "year": 2021
+  },
+  {
+    "name": "Neon Racers Origins",
+    "genre": "Platformer",
+    "year": 2008
+  },
+  {
+    "name": "Star Quest Origins",
+    "genre": "Strategy",
+    "year": 2025
+  },
+  {
+    "name": "Dragon Realms Chronicles",
+    "genre": "FPS",
+    "year": 2019
+  },
+  {
+    "name": "Cyber Runner III",
+    "genre": "FPS",
+    "year": 2013
+  },
+  {
+    "name": "Void Explorer Reborn",
+    "genre": "FPS",
+    "year": 1999
+  },
+  {
+    "name": "Shadow Legends II",
+    "genre": "Strategy",
+    "year": 2024
+  },
+  {
+    "name": "Galaxy Raiders II",
+    "genre": "Adventure",
+    "year": 1995
+  },
+  {
+    "name": "Galaxy Raiders Reborn",
+    "genre": "RPG",
+    "year": 2019
+  },
+  {
+    "name": "Neon Racers Reborn",
+    "genre": "RPG",
+    "year": 2019
+  },
+  {
+    "name": "Dragon Realms Origins",
+    "genre": "Sandbox",
+    "year": 2013
+  },
+  {
+    "name": "Neon Racers Reborn",
+    "genre": "Puzzle",
+    "year": 2014
+  },
+  {
+    "name": "Neon Racers Reborn",
+    "genre": "Puzzle",
+    "year": 2009
+  },
+  {
+    "name": "Galaxy Raiders Chronicles",
+    "genre": "Strategy",
+    "year": 2000
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Adventure",
+    "year": 2022
+  },
+  {
+    "name": "Void Explorer Chronicles",
+    "genre": "Platformer",
+    "year": 2002
+  },
+  {
+    "name": "Crystal Kingdom",
+    "genre": "RPG",
+    "year": 2016
+  },
+  {
+    "name": "Galaxy Raiders Chronicles",
+    "genre": "Puzzle",
+    "year": 2023
+  },
+  {
+    "name": "Mystic Odyssey Origins",
+    "genre": "Simulation",
+    "year": 2003
+  },
+  {
+    "name": "Star Quest IV",
+    "genre": "Roguelike",
+    "year": 2012
+  },
+  {
+    "name": "Crystal Kingdom",
+    "genre": "FPS",
+    "year": 2008
+  },
+  {
+    "name": "Battle Arena Reborn",
+    "genre": "Strategy",
+    "year": 2011
+  },
+  {
+    "name": "Shadow Legends",
+    "genre": "Strategy",
+    "year": 1996
+  },
+  {
+    "name": "Galaxy Raiders",
+    "genre": "Action",
+    "year": 2018
+  },
+  {
+    "name": "Star Quest Reborn",
+    "genre": "FPS",
+    "year": 2010
+  },
+  {
+    "name": "Mystic Odyssey",
+    "genre": "Sandbox",
+    "year": 2013
+  },
+  {
+    "name": "Galaxy Raiders III",
+    "genre": "Sandbox",
+    "year": 2011
+  },
+  {
+    "name": "Battle Arena II",
+    "genre": "Sandbox",
+    "year": 2015
+  },
+  {
+    "name": "Galaxy Raiders Chronicles",
+    "genre": "Puzzle",
+    "year": 2002
+  },
+  {
+    "name": "Cyber Runner Origins",
+    "genre": "Simulation",
+    "year": 2005
+  },
+  {
+    "name": "Void Explorer Origins",
+    "genre": "Sandbox",
+    "year": 2023
+  },
+  {
+    "name": "Mystic Odyssey Reborn",
+    "genre": "Strategy",
+    "year": 2000
+  },
+  {
+    "name": "Shadow Legends",
+    "genre": "Adventure",
+    "year": 2014
+  },
+  {
+    "name": "Crystal Kingdom",
+    "genre": "Adventure",
+    "year": 2016
+  },
+  {
+    "name": "Mystic Odyssey Chronicles",
+    "genre": "Simulation",
+    "year": 2013
+  },
+  {
+    "name": "Star Quest",
+    "genre": "Strategy",
+    "year": 2009
+  },
+  {
+    "name": "Galaxy Raiders Origins",
+    "genre": "Roguelike",
+    "year": 1998
+  },
+  {
+    "name": "Star Quest Reborn",
+    "genre": "Sandbox",
+    "year": 1996
+  },
+  {
+    "name": "Mystic Odyssey Reborn",
+    "genre": "Strategy",
+    "year": 2013
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Strategy",
+    "year": 2024
+  },
+  {
+    "name": "Dragon Realms Chronicles",
+    "genre": "Strategy",
+    "year": 2017
+  },
+  {
+    "name": "Galaxy Raiders Origins",
+    "genre": "Puzzle",
+    "year": 2018
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "Puzzle",
+    "year": 2022
+  },
+  {
+    "name": "Titan Assault IV",
+    "genre": "Sandbox",
+    "year": 2017
+  },
+  {
+    "name": "Shadow Legends III",
+    "genre": "Strategy",
+    "year": 2005
+  },
+  {
+    "name": "Neon Racers Chronicles",
+    "genre": "FPS",
+    "year": 2009
+  },
+  {
+    "name": "Star Quest Reborn",
+    "genre": "Adventure",
+    "year": 1997
+  },
+  {
+    "name": "Shadow Legends Reborn",
+    "genre": "Platformer",
+    "year": 2018
+  },
+  {
+    "name": "Shadow Legends III",
+    "genre": "Simulation",
+    "year": 2009
+  },
+  {
+    "name": "Void Explorer Reborn",
+    "genre": "Sandbox",
+    "year": 2005
+  },
+  {
+    "name": "Void Explorer Reborn",
+    "genre": "Simulation",
+    "year": 1999
+  },
+  {
+    "name": "Shadow Legends Chronicles",
+    "genre": "FPS",
+    "year": 2013
+  },
+  {
+    "name": "Neon Racers",
+    "genre": "Action",
+    "year": 2014
+  },
+  {
+    "name": "Star Quest Reborn",
+    "genre": "Roguelike",
+    "year": 1996
+  },
+  {
+    "name": "Cyber Runner III",
+    "genre": "Puzzle",
+    "year": 2014
+  },
+  {
+    "name": "Iron Command Chronicles",
+    "genre": "Adventure",
+    "year": 2020
+  },
+  {
+    "name": "Crystal Kingdom IV",
+    "genre": "FPS",
+    "year": 2012
+  },
+  {
+    "name": "Battle Arena III",
+    "genre": "Strategy",
+    "year": 2004
+  },
+  {
+    "name": "Cyber Runner Origins",
+    "genre": "Simulation",
+    "year": 1997
+  },
+  {
+    "name": "Titan Assault II",
+    "genre": "Adventure",
+    "year": 1995
+  },
+  {
+    "name": "Neon Racers IV",
+    "genre": "FPS",
+    "year": 1995
+  },
+  {
+    "name": "Titan Assault Origins",
+    "genre": "Strategy",
+    "year": 2018
+  },
+  {
+    "name": "Mystic Odyssey II",
+    "genre": "Platformer",
+    "year": 2004
+  },
+  {
+    "name": "Star Quest Origins",
+    "genre": "Sandbox",
+    "year": 2013
+  },
+  {
+    "name": "Mystic Odyssey Origins",
+    "genre": "Simulation",
+    "year": 2011
+  },
+  {
+    "name": "Crystal Kingdom IV",
+    "genre": "Sandbox",
+    "year": 2013
+  },
+  {
+    "name": "Star Quest",
+    "genre": "Roguelike",
+    "year": 2022
+  },
+  {
+    "name": "Battle Arena",
+    "genre": "Sandbox",
+    "year": 2011
+  },
+  {
+    "name": "Void Explorer III",
+    "genre": "FPS",
+    "year": 2025
+  },
+  {
+    "name": "Void Explorer Reborn",
+    "genre": "FPS",
+    "year": 2003
+  },
+  {
+    "name": "Dragon Realms",
+    "genre": "Strategy",
+    "year": 1999
+  },
+  {
+    "name": "Titan Assault III",
+    "genre": "Platformer",
+    "year": 1999
+  },
+  {
+    "name": "Neon Racers Reborn",
+    "genre": "Action",
+    "year": 2024
+  },
+  {
+    "name": "Shadow Legends II",
+    "genre": "RPG",
+    "year": 1999
+  },
+  {
+    "name": "Titan Assault Reborn",
+    "genre": "Adventure",
+    "year": 2003
+  },
+  {
+    "name": "Mystic Odyssey IV",
+    "genre": "Adventure",
+    "year": 2016
+  },
+  {
+    "name": "Shadow Legends IV",
+    "genre": "Sandbox",
+    "year": 2007
+  },
+  {
+    "name": "Shadow Legends Origins",
+    "genre": "FPS",
+    "year": 2016
+  },
+  {
+    "name": "Star Quest Chronicles",
+    "genre": "Strategy",
+    "year": 2015
+  },
+  {
+    "name": "Galaxy Raiders Reborn",
+    "genre": "Simulation",
+    "year": 2008
+  },
+  {
+    "name": "Star Quest Reborn",
+    "genre": "Action",
+    "year": 2007
+  },
+  {
+    "name": "Mystic Odyssey IV",
+    "genre": "Roguelike",
+    "year": 2016
+  },
+  {
+    "name": "Titan Assault Origins",
+    "genre": "Adventure",
+    "year": 2004
+  },
+  {
+    "name": "Crystal Kingdom II",
+    "genre": "Roguelike",
+    "year": 2019
+  },
+  {
+    "name": "Dragon Realms Reborn",
+    "genre": "Platformer",
+    "year": 2019
+  },
+  {
+    "name": "Mystic Odyssey Reborn",
+    "genre": "RPG",
+    "year": 2019
+  },
+  {
+    "name": "Shadow Legends",
+    "genre": "Platformer",
+    "year": 2011
+  },
+  {
+    "name": "Star Quest Reborn",
+    "genre": "Strategy",
+    "year": 2023
+  },
+  {
+    "name": "Galaxy Raiders II",
+    "genre": "RPG",
+    "year": 2014
+  },
+  {
+    "name": "Titan Assault Origins",
+    "genre": "Sandbox",
+    "year": 2010
+  },
+  {
+    "name": "Neon Racers Origins",
+    "genre": "Action",
+    "year": 1998
+  },
+  {
+    "name": "Dragon Realms Reborn",
+    "genre": "Adventure",
+    "year": 2024
+  },
+  {
+    "name": "Dragon Realms",
+    "genre": "Simulation",
+    "year": 1999
+  },
+  {
+    "name": "Crystal Kingdom IV",
+    "genre": "Roguelike",
+    "year": 2010
+  },
+  {
+    "name": "Iron Command IV",
+    "genre": "Platformer",
+    "year": 2013
+  },
+  {
+    "name": "Battle Arena Chronicles",
+    "genre": "Sandbox",
+    "year": 2013
+  },
+  {
+    "name": "Cyber Runner Origins",
+    "genre": "Sandbox",
+    "year": 2024
+  },
+  {
+    "name": "Void Explorer IV",
+    "genre": "Roguelike",
+    "year": 1999
+  },
+  {
+    "name": "Void Explorer Chronicles",
+    "genre": "Adventure",
+    "year": 2015
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Platformer",
+    "year": 2019
+  },
+  {
+    "name": "Void Explorer Reborn",
+    "genre": "FPS",
+    "year": 2021
+  },
+  {
+    "name": "Shadow Legends",
+    "genre": "Action",
+    "year": 2019
+  },
+  {
+    "name": "Titan Assault IV",
+    "genre": "Platformer",
+    "year": 2021
+  },
+  {
+    "name": "Void Explorer Chronicles",
+    "genre": "Sandbox",
+    "year": 2013
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "RPG",
+    "year": 2021
+  },
+  {
+    "name": "Neon Racers II",
+    "genre": "Sandbox",
+    "year": 2025
+  },
+  {
+    "name": "Titan Assault II",
+    "genre": "RPG",
+    "year": 2015
+  },
+  {
+    "name": "Shadow Legends Chronicles",
+    "genre": "Roguelike",
+    "year": 2012
+  },
+  {
+    "name": "Star Quest III",
+    "genre": "Sandbox",
+    "year": 2024
+  },
+  {
+    "name": "Shadow Legends II",
+    "genre": "Simulation",
+    "year": 2024
+  },
+  {
+    "name": "Shadow Legends III",
+    "genre": "FPS",
+    "year": 2003
+  },
+  {
+    "name": "Iron Command II",
+    "genre": "Sandbox",
+    "year": 1999
+  },
+  {
+    "name": "Mystic Odyssey Reborn",
+    "genre": "Roguelike",
+    "year": 1997
+  },
+  {
+    "name": "Crystal Kingdom Origins",
+    "genre": "Action",
+    "year": 2023
+  },
+  {
+    "name": "Void Explorer",
+    "genre": "Sandbox",
+    "year": 2025
+  },
+  {
+    "name": "Void Explorer III",
+    "genre": "Simulation",
+    "year": 2017
+  },
+  {
+    "name": "Neon Racers II",
+    "genre": "Simulation",
+    "year": 1998
+  },
+  {
+    "name": "Cyber Runner II",
+    "genre": "Roguelike",
+    "year": 2009
+  },
+  {
+    "name": "Crystal Kingdom IV",
+    "genre": "Sandbox",
+    "year": 2018
+  },
+  {
+    "name": "Battle Arena Chronicles",
+    "genre": "RPG",
+    "year": 2011
+  },
+  {
+    "name": "Titan Assault III",
+    "genre": "Action",
+    "year": 2011
+  },
+  {
+    "name": "Galaxy Raiders Reborn",
+    "genre": "RPG",
+    "year": 2019
+  },
+  {
+    "name": "Neon Racers IV",
+    "genre": "Roguelike",
+    "year": 2005
+  },
+  {
+    "name": "Battle Arena Origins",
+    "genre": "Action",
+    "year": 2011
+  },
+  {
+    "name": "Neon Racers Origins",
+    "genre": "Puzzle",
+    "year": 2004
+  },
+  {
+    "name": "Dragon Realms",
+    "genre": "Puzzle",
+    "year": 1997
+  },
+  {
+    "name": "Mystic Odyssey Reborn",
+    "genre": "Strategy",
+    "year": 2017
+  },
+  {
+    "name": "Mystic Odyssey Reborn",
+    "genre": "Simulation",
+    "year": 2010
+  },
+  {
+    "name": "Titan Assault IV",
+    "genre": "Platformer",
+    "year": 1999
+  },
+  {
+    "name": "Iron Command Reborn",
+    "genre": "Strategy",
+    "year": 1998
+  },
+  {
+    "name": "Shadow Legends II",
+    "genre": "RPG",
+    "year": 1999
+  },
+  {
+    "name": "Dragon Realms Origins",
+    "genre": "Puzzle",
+    "year": 2011
+  },
+  {
+    "name": "Iron Command Origins",
+    "genre": "Adventure",
+    "year": 2009
+  },
+  {
+    "name": "Neon Racers III",
+    "genre": "Platformer",
+    "year": 2010
+  },
+  {
+    "name": "Mystic Odyssey II",
+    "genre": "Strategy",
+    "year": 2000
+  },
+  {
+    "name": "Galaxy Raiders II",
+    "genre": "Puzzle",
+    "year": 2016
+  },
+  {
+    "name": "Battle Arena Chronicles",
+    "genre": "Action",
+    "year": 2009
+  },
+  {
+    "name": "Neon Racers",
+    "genre": "FPS",
+    "year": 2013
+  },
+  {
+    "name": "Crystal Kingdom II",
+    "genre": "Roguelike",
+    "year": 2003
+  },
+  {
+    "name": "Shadow Legends III",
+    "genre": "Action",
+    "year": 2004
+  },
+  {
+    "name": "Dragon Realms",
+    "genre": "Strategy",
+    "year": 2001
+  },
+  {
+    "name": "Dragon Realms Chronicles",
+    "genre": "Sandbox",
+    "year": 2003
+  },
+  {
+    "name": "Void Explorer II",
+    "genre": "Adventure",
+    "year": 1997
+  },
+  {
+    "name": "Crystal Kingdom Reborn",
+    "genre": "Simulation",
+    "year": 2016
+  },
+  {
+    "name": "Iron Command II",
+    "genre": "Action",
+    "year": 1997
+  },
+  {
+    "name": "Dragon Realms II",
+    "genre": "Sandbox",
+    "year": 2014
+  },
+  {
+    "name": "Shadow Legends IV",
+    "genre": "Puzzle",
+    "year": 2003
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "Strategy",
+    "year": 2010
+  },
+  {
+    "name": "Dragon Realms",
+    "genre": "Platformer",
+    "year": 2022
+  },
+  {
+    "name": "Dragon Realms II",
+    "genre": "Action",
+    "year": 2019
+  },
+  {
+    "name": "Crystal Kingdom II",
+    "genre": "FPS",
+    "year": 1997
+  },
+  {
+    "name": "Battle Arena Chronicles",
+    "genre": "Strategy",
+    "year": 2015
+  },
+  {
+    "name": "Galaxy Raiders II",
+    "genre": "RPG",
+    "year": 2002
+  },
+  {
+    "name": "Shadow Legends",
+    "genre": "FPS",
+    "year": 2016
+  },
+  {
+    "name": "Galaxy Raiders Reborn",
+    "genre": "Puzzle",
+    "year": 2007
+  },
+  {
+    "name": "Iron Command II",
+    "genre": "Action",
+    "year": 2004
+  },
+  {
+    "name": "Titan Assault II",
+    "genre": "Puzzle",
+    "year": 2013
+  },
+  {
+    "name": "Crystal Kingdom III",
+    "genre": "Adventure",
+    "year": 1996
+  },
+  {
+    "name": "Iron Command II",
+    "genre": "FPS",
+    "year": 2017
+  },
+  {
+    "name": "Crystal Kingdom IV",
+    "genre": "Sandbox",
+    "year": 2022
+  },
+  {
+    "name": "Mystic Odyssey III",
+    "genre": "Simulation",
+    "year": 2024
+  },
+  {
+    "name": "Void Explorer Origins",
+    "genre": "Puzzle",
+    "year": 2001
+  },
+  {
+    "name": "Titan Assault",
+    "genre": "RPG",
+    "year": 2025
+  },
+  {
+    "name": "Shadow Legends II",
     "genre": "Puzzle",
     "year": 2000
   },
   {
     "name": "Shadow Legends IV",
-    "genre": "Horror",
-    "year": 1995
-  },
-  {
-    "name": "Burning Echoes Remastered",
-    "genre": "Simulation",
-    "year": 1988
-  },
-  {
-    "name": "Forgotten Horizons IV",
-    "genre": "Platformer",
-    "year": 2004
-  },
-  {
-    "name": "Eternal Quest Origins",
-    "genre": "FPS",
-    "year": 1988
-  },
-  {
-    "name": "Silent Citadel Online",
     "genre": "Sandbox",
-    "year": 1993
+    "year": 2007
   },
   {
-    "name": "Forgotten Echoes Ultimate Edition",
+    "name": "Galaxy Raiders Origins",
     "genre": "Platformer",
-    "year": 1988
+    "year": 2021
   },
   {
-    "name": "Wild Arena II",
-    "genre": "RPG",
-    "year": 2017
+    "name": "Mystic Odyssey Chronicles",
+    "genre": "Adventure",
+    "year": 2018
   },
   {
-    "name": "Iron Rebellion II",
-    "genre": "Strategy",
+    "name": "Shadow Legends II",
+    "genre": "Simulation",
+    "year": 2008
+  },
+  {
+    "name": "Neon Racers Chronicles",
+    "genre": "Action",
     "year": 2003
   },
   {
-    "name": "Iron Horizons IV",
-    "genre": "Sandbox",
-    "year": 1987
+    "name": "Crystal Kingdom Origins",
+    "genre": "Strategy",
+    "year": 2022
   },
   {
-    "name": "Lost Voyage Deluxe",
-    "genre": "Platformer",
+    "name": "Titan Assault IV",
+    "genre": "RPG",
+    "year": 2021
+  },
+  {
+    "name": "Iron Command III",
+    "genre": "FPS",
+    "year": 2011
+  },
+  {
+    "name": "Crystal Kingdom III",
+    "genre": "Adventure",
+    "year": 2000
+  },
+  {
+    "name": "Star Quest",
+    "genre": "Sandbox",
+    "year": 2016
+  },
+  {
+    "name": "Dragon Realms Reborn",
+    "genre": "Action",
     "year": 1999
   },
   {
-    "name": "Forgotten Chronicles Remastered",
-    "genre": "Strategy",
+    "name": "Void Explorer",
+    "genre": "Roguelike",
+    "year": 2007
+  },
+  {
+    "name": "Cyber Runner III",
+    "genre": "Platformer",
+    "year": 2024
+  },
+  {
+    "name": "Cyber Runner IV",
+    "genre": "Adventure",
+    "year": 2004
+  },
+  {
+    "name": "Mystic Odyssey Chronicles",
+    "genre": "Platformer",
     "year": 2025
   },
   {
-    "name": "Dark Chronicles Remastered",
+    "name": "Galaxy Raiders Origins",
+    "genre": "Sandbox",
+    "year": 2021
+  },
+  {
+    "name": "Cyber Runner",
+    "genre": "RPG",
+    "year": 2013
+  },
+  {
+    "name": "Dragon Realms IV",
+    "genre": "Simulation",
+    "year": 2011
+  },
+  {
+    "name": "Titan Assault IV",
+    "genre": "Simulation",
+    "year": 2011
+  },
+  {
+    "name": "Star Quest Chronicles",
+    "genre": "FPS",
+    "year": 2005
+  },
+  {
+    "name": "Iron Command III",
+    "genre": "Puzzle",
+    "year": 2004
+  },
+  {
+    "name": "Mystic Odyssey III",
+    "genre": "Platformer",
+    "year": 2006
+  },
+  {
+    "name": "Void Explorer",
+    "genre": "FPS",
+    "year": 2016
+  },
+  {
+    "name": "Mystic Odyssey",
+    "genre": "Strategy",
+    "year": 1997
+  },
+  {
+    "name": "Galaxy Raiders Chronicles",
+    "genre": "RPG",
+    "year": 2021
+  },
+  {
+    "name": "Shadow Legends Origins",
+    "genre": "FPS",
+    "year": 2005
+  },
+  {
+    "name": "Cyber Runner II",
     "genre": "Roguelike",
+    "year": 1997
+  },
+  {
+    "name": "Mystic Odyssey II",
+    "genre": "Adventure",
+    "year": 2017
+  },
+  {
+    "name": "Dragon Realms III",
+    "genre": "Puzzle",
+    "year": 1998
+  },
+  {
+    "name": "Galaxy Raiders Chronicles",
+    "genre": "FPS",
+    "year": 2016
+  },
+  {
+    "name": "Shadow Legends Chronicles",
+    "genre": "Strategy",
+    "year": 2007
+  },
+  {
+    "name": "Galaxy Raiders IV",
+    "genre": "RPG",
     "year": 2012
   },
   {
-    "name": "Radiant Quest",
-    "genre": "Racing",
-    "year": 1994
+    "name": "Cyber Runner",
+    "genre": "Sandbox",
+    "year": 1998
   },
   {
-    "name": "Crimson Arena IV",
+    "name": "Shadow Legends Origins",
+    "genre": "Action",
+    "year": 2004
+  },
+  {
+    "name": "Star Quest III",
+    "genre": "Action",
+    "year": 2001
+  },
+  {
+    "name": "Iron Command Chronicles",
+    "genre": "Action",
+    "year": 1997
+  },
+  {
+    "name": "Shadow Legends",
+    "genre": "RPG",
+    "year": 2000
+  },
+  {
+    "name": "Void Explorer IV",
+    "genre": "Simulation",
+    "year": 2000
+  },
+  {
+    "name": "Galaxy Raiders",
+    "genre": "Puzzle",
+    "year": 2018
+  },
+  {
+    "name": "Star Quest Origins",
+    "genre": "Adventure",
+    "year": 2012
+  },
+  {
+    "name": "Dragon Realms IV",
+    "genre": "Action",
+    "year": 2012
+  },
+  {
+    "name": "Void Explorer IV",
+    "genre": "Puzzle",
+    "year": 2024
+  },
+  {
+    "name": "Void Explorer Origins",
+    "genre": "RPG",
+    "year": 2008
+  },
+  {
+    "name": "Titan Assault III",
+    "genre": "Roguelike",
+    "year": 2002
+  },
+  {
+    "name": "Galaxy Raiders III",
+    "genre": "Adventure",
+    "year": 2004
+  },
+  {
+    "name": "Titan Assault Chronicles",
+    "genre": "Adventure",
+    "year": 2023
+  },
+  {
+    "name": "Cyber Runner Origins",
+    "genre": "Roguelike",
+    "year": 2011
+  },
+  {
+    "name": "Void Explorer II",
+    "genre": "Platformer",
+    "year": 2001
+  },
+  {
+    "name": "Crystal Kingdom",
+    "genre": "Action",
+    "year": 2000
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Sandbox",
+    "year": 2019
+  },
+  {
+    "name": "Cyber Runner II",
+    "genre": "Adventure",
+    "year": 2021
+  },
+  {
+    "name": "Dragon Realms Origins",
+    "genre": "RPG",
+    "year": 2019
+  },
+  {
+    "name": "Mystic Odyssey IV",
+    "genre": "Simulation",
+    "year": 2012
+  },
+  {
+    "name": "Dragon Realms Chronicles",
+    "genre": "FPS",
+    "year": 2007
+  },
+  {
+    "name": "Iron Command III",
     "genre": "FPS",
     "year": 2022
   },
   {
-    "name": "Dark Rebellion IV",
+    "name": "Cyber Runner",
+    "genre": "Action",
+    "year": 2004
+  },
+  {
+    "name": "Titan Assault",
+    "genre": "Action",
+    "year": 2003
+  },
+  {
+    "name": "Crystal Kingdom III",
+    "genre": "Simulation",
+    "year": 1996
+  },
+  {
+    "name": "Neon Racers IV",
+    "genre": "Roguelike",
+    "year": 2020
+  },
+  {
+    "name": "Star Quest IV",
+    "genre": "RPG",
+    "year": 2014
+  },
+  {
+    "name": "Galaxy Raiders IV",
+    "genre": "FPS",
+    "year": 2025
+  },
+  {
+    "name": "Galaxy Raiders Reborn",
+    "genre": "Puzzle",
+    "year": 2009
+  },
+  {
+    "name": "Crystal Kingdom Reborn",
+    "genre": "RPG",
+    "year": 2005
+  },
+  {
+    "name": "Shadow Legends Origins",
+    "genre": "Puzzle",
+    "year": 2007
+  },
+  {
+    "name": "Mystic Odyssey IV",
+    "genre": "Sandbox",
+    "year": 2003
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Sandbox",
+    "year": 2020
+  },
+  {
+    "name": "Galaxy Raiders IV",
+    "genre": "Adventure",
+    "year": 2007
+  },
+  {
+    "name": "Battle Arena",
+    "genre": "Puzzle",
+    "year": 2015
+  },
+  {
+    "name": "Galaxy Raiders Chronicles",
+    "genre": "Adventure",
+    "year": 1995
+  },
+  {
+    "name": "Dragon Realms Origins",
+    "genre": "Strategy",
+    "year": 1998
+  },
+  {
+    "name": "Neon Racers Origins",
+    "genre": "Platformer",
+    "year": 2025
+  },
+  {
+    "name": "Galaxy Raiders III",
+    "genre": "Adventure",
+    "year": 1995
+  },
+  {
+    "name": "Iron Command IV",
+    "genre": "RPG",
+    "year": 2022
+  },
+  {
+    "name": "Crystal Kingdom III",
+    "genre": "Roguelike",
+    "year": 1995
+  },
+  {
+    "name": "Crystal Kingdom III",
+    "genre": "Sandbox",
+    "year": 2024
+  },
+  {
+    "name": "Void Explorer Reborn",
+    "genre": "Adventure",
+    "year": 2021
+  },
+  {
+    "name": "Cyber Runner Origins",
+    "genre": "Roguelike",
+    "year": 2004
+  },
+  {
+    "name": "Crystal Kingdom IV",
+    "genre": "Simulation",
+    "year": 2015
+  },
+  {
+    "name": "Iron Command II",
     "genre": "Simulation",
     "year": 2018
   },
   {
-    "name": "Dark Quest Ultimate Edition",
-    "genre": "Simulation",
-    "year": 2025
+    "name": "Shadow Legends II",
+    "genre": "Action",
+    "year": 2016
   },
   {
-    "name": "Frozen Kingdom Reborn",
+    "name": "Iron Command Reborn",
+    "genre": "Platformer",
+    "year": 2002
+  },
+  {
+    "name": "Battle Arena Chronicles",
+    "genre": "Sandbox",
+    "year": 2009
+  },
+  {
+    "name": "Iron Command Reborn",
+    "genre": "Simulation",
+    "year": 2019
+  },
+  {
+    "name": "Battle Arena",
+    "genre": "Platformer",
+    "year": 2018
+  },
+  {
+    "name": "Mystic Odyssey II",
     "genre": "Puzzle",
-    "year": 1987
+    "year": 2014
   },
   {
-    "name": "Radiant Chronicles",
-    "genre": "Racing",
-    "year": 2007
-  },
-  {
-    "name": "Eternal Sanctuary Origins",
-    "genre": "Horror",
-    "year": 2001
-  },
-  {
-    "name": "Silent Empire Ultimate Edition",
+    "name": "Void Explorer Origins",
     "genre": "Simulation",
-    "year": 1990
+    "year": 1996
   },
   {
-    "name": "Lost Legends Online",
+    "name": "Shadow Legends III",
+    "genre": "Puzzle",
+    "year": 2013
+  },
+  {
+    "name": "Dragon Realms II",
+    "genre": "RPG",
+    "year": 2005
+  },
+  {
+    "name": "Star Quest IV",
+    "genre": "FPS",
+    "year": 2010
+  },
+  {
+    "name": "Dragon Realms IV",
+    "genre": "Action",
+    "year": 2010
+  },
+  {
+    "name": "Neon Racers III",
+    "genre": "Puzzle",
+    "year": 2023
+  },
+  {
+    "name": "Void Explorer II",
+    "genre": "Puzzle",
+    "year": 2012
+  },
+  {
+    "name": "Cyber Runner",
+    "genre": "Action",
+    "year": 2023
+  },
+  {
+    "name": "Galaxy Raiders Chronicles",
+    "genre": "Platformer",
+    "year": 2002
+  },
+  {
+    "name": "Dragon Realms III",
+    "genre": "Adventure",
+    "year": 2022
+  },
+  {
+    "name": "Cyber Runner Chronicles",
     "genre": "Strategy",
     "year": 2008
   },
   {
-    "name": "Burning Horizons Online",
-    "genre": "MMO",
-    "year": 2021
+    "name": "Mystic Odyssey II",
+    "genre": "Roguelike",
+    "year": 2007
   },
   {
-    "name": "Crimson Guardians III",
-    "genre": "Horror",
-    "year": 2017
+    "name": "Cyber Runner",
+    "genre": "Puzzle",
+    "year": 2006
   },
   {
-    "name": "Frozen Outlaws Reborn",
-    "genre": "Strategy",
-    "year": 2023
-  },
-  {
-    "name": "Radiant Chronicles II",
+    "name": "Crystal Kingdom Reborn",
     "genre": "Adventure",
-    "year": 1991
-  },
-  {
-    "name": "Wild Saga Origins",
-    "genre": "Horror",
     "year": 1998
   },
   {
-    "name": "Crimson Echoes Origins",
-    "genre": "MMO",
-    "year": 2015
+    "name": "Shadow Legends Origins",
+    "genre": "FPS",
+    "year": 2022
   },
   {
-    "name": "Hidden Citadel II",
-    "genre": "RPG",
-    "year": 2011
+    "name": "Star Quest Origins",
+    "genre": "Simulation",
+    "year": 2012
   },
   {
-    "name": "Wild Arena II",
-    "genre": "Sandbox",
-    "year": 1997
+    "name": "Dragon Realms Reborn",
+    "genre": "FPS",
+    "year": 2006
   },
   {
-    "name": "Burning Arena Ultimate Edition",
-    "genre": "RPG",
-    "year": 1993
-  },
-  {
-    "name": "Radiant Dynasty II",
-    "genre": "Horror",
+    "name": "Crystal Kingdom III",
+    "genre": "FPS",
     "year": 2000
   },
   {
-    "name": "Fallen Quest Origins",
+    "name": "Crystal Kingdom Origins",
+    "genre": "Puzzle",
+    "year": 1999
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Platformer",
+    "year": 2013
+  },
+  {
+    "name": "Iron Command Origins",
+    "genre": "Action",
+    "year": 2000
+  },
+  {
+    "name": "Star Quest IV",
+    "genre": "Puzzle",
+    "year": 2010
+  },
+  {
+    "name": "Crystal Kingdom Origins",
+    "genre": "Adventure",
+    "year": 2012
+  },
+  {
+    "name": "Iron Command Origins",
+    "genre": "Roguelike",
+    "year": 2019
+  },
+  {
+    "name": "Battle Arena Chronicles",
+    "genre": "Adventure",
+    "year": 2000
+  },
+  {
+    "name": "Shadow Legends Chronicles",
+    "genre": "RPG",
+    "year": 2021
+  },
+  {
+    "name": "Shadow Legends IV",
+    "genre": "Adventure",
+    "year": 2012
+  },
+  {
+    "name": "Galaxy Raiders Origins",
+    "genre": "Sandbox",
+    "year": 2024
+  },
+  {
+    "name": "Crystal Kingdom Chronicles",
+    "genre": "Strategy",
+    "year": 2008
+  },
+  {
+    "name": "Galaxy Raiders Chronicles",
+    "genre": "RPG",
+    "year": 2012
+  },
+  {
+    "name": "Neon Racers IV",
+    "genre": "Sandbox",
+    "year": 2021
+  },
+  {
+    "name": "Void Explorer II",
+    "genre": "RPG",
+    "year": 2008
+  },
+  {
+    "name": "Titan Assault III",
+    "genre": "Strategy",
+    "year": 1999
+  },
+  {
+    "name": "Crystal Kingdom III",
+    "genre": "Platformer",
+    "year": 2006
+  },
+  {
+    "name": "Cyber Runner Origins",
+    "genre": "Adventure",
+    "year": 1999
+  },
+  {
+    "name": "Cyber Runner IV",
+    "genre": "Platformer",
+    "year": 2004
+  },
+  {
+    "name": "Titan Assault Reborn",
+    "genre": "Simulation",
+    "year": 1996
+  },
+  {
+    "name": "Galaxy Raiders Chronicles",
+    "genre": "Strategy",
+    "year": 1999
+  },
+  {
+    "name": "Iron Command Origins",
+    "genre": "FPS",
+    "year": 2006
+  },
+  {
+    "name": "Crystal Kingdom Reborn",
+    "genre": "FPS",
+    "year": 2023
+  },
+  {
+    "name": "Battle Arena",
+    "genre": "Puzzle",
+    "year": 2019
+  },
+  {
+    "name": "Star Quest Chronicles",
+    "genre": "Puzzle",
+    "year": 2012
+  },
+  {
+    "name": "Iron Command IV",
+    "genre": "Strategy",
+    "year": 1995
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Adventure",
+    "year": 1999
+  },
+  {
+    "name": "Shadow Legends Reborn",
+    "genre": "Strategy",
+    "year": 2019
+  },
+  {
+    "name": "Star Quest III",
+    "genre": "Action",
+    "year": 2022
+  },
+  {
+    "name": "Dragon Realms Chronicles",
+    "genre": "Adventure",
+    "year": 2024
+  },
+  {
+    "name": "Crystal Kingdom Origins",
+    "genre": "Puzzle",
+    "year": 2014
+  },
+  {
+    "name": "Iron Command Origins",
+    "genre": "FPS",
+    "year": 2016
+  },
+  {
+    "name": "Iron Command",
+    "genre": "FPS",
+    "year": 2001
+  },
+  {
+    "name": "Neon Racers IV",
+    "genre": "Sandbox",
+    "year": 2008
+  },
+  {
+    "name": "Shadow Legends Origins",
+    "genre": "Sandbox",
+    "year": 2023
+  },
+  {
+    "name": "Shadow Legends Origins",
+    "genre": "Roguelike",
+    "year": 2007
+  },
+  {
+    "name": "Dragon Realms II",
+    "genre": "Simulation",
+    "year": 2006
+  },
+  {
+    "name": "Galaxy Raiders",
+    "genre": "Platformer",
+    "year": 2016
+  },
+  {
+    "name": "Cyber Runner III",
+    "genre": "Strategy",
+    "year": 2018
+  },
+  {
+    "name": "Cyber Runner III",
+    "genre": "Simulation",
+    "year": 2016
+  },
+  {
+    "name": "Dragon Realms",
+    "genre": "Simulation",
+    "year": 1996
+  },
+  {
+    "name": "Star Quest Origins",
+    "genre": "Strategy",
+    "year": 2016
+  },
+  {
+    "name": "Void Explorer Chronicles",
+    "genre": "RPG",
+    "year": 2021
+  },
+  {
+    "name": "Mystic Odyssey III",
+    "genre": "Action",
+    "year": 2015
+  },
+  {
+    "name": "Void Explorer Origins",
+    "genre": "Platformer",
+    "year": 1996
+  },
+  {
+    "name": "Cyber Runner III",
+    "genre": "Platformer",
+    "year": 1998
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Puzzle",
+    "year": 2004
+  },
+  {
+    "name": "Shadow Legends III",
     "genre": "Roguelike",
     "year": 2020
   },
   {
-    "name": "Frozen Protocol III",
-    "genre": "Racing",
-    "year": 1992
-  },
-  {
-    "name": "Frozen Citadel Deluxe",
-    "genre": "MMO",
-    "year": 2004
-  },
-  {
-    "name": "Ancient Legends Ultimate Edition",
-    "genre": "Survival",
-    "year": 2002
-  },
-  {
-    "name": "Frozen Outlaws II",
-    "genre": "Sandbox",
-    "year": 2013
-  },
-  {
-    "name": "Fallen Legends Deluxe",
-    "genre": "RPG",
-    "year": 2004
-  },
-  {
-    "name": "Fallen Chronicles Deluxe",
-    "genre": "Sandbox",
-    "year": 1991
-  },
-  {
-    "name": "Shadow Frontier Remastered",
-    "genre": "MMO",
-    "year": 1998
-  },
-  {
-    "name": "Wild Kingdom Origins",
-    "genre": "Platformer",
-    "year": 2004
-  },
-  {
-    "name": "Shadow Quest Remastered",
-    "genre": "Action",
-    "year": 2024
-  },
-  {
-    "name": "Neon Outlaws II",
+    "name": "Mystic Odyssey",
     "genre": "FPS",
-    "year": 1990
+    "year": 2008
   },
   {
-    "name": "Lost Saga Remastered",
-    "genre": "Horror",
-    "year": 2012
+    "name": "Dragon Realms III",
+    "genre": "Roguelike",
+    "year": 1997
   },
   {
-    "name": "Broken Guardians IV",
-    "genre": "RPG",
-    "year": 2000
-  },
-  {
-    "name": "Rising Saga Online",
-    "genre": "Survival",
-    "year": 1986
-  },
-  {
-    "name": "Shadow Kingdom Online",
-    "genre": "Platformer",
-    "year": 2001
-  },
-  {
-    "name": "Radiant Saga Online",
-    "genre": "Sandbox",
-    "year": 2015
-  },
-  {
-    "name": "Hidden Empire Reborn",
-    "genre": "Racing",
-    "year": 2025
-  },
-  {
-    "name": "Rising Horizons Deluxe",
-    "genre": "Survival",
-    "year": 2013
-  },
-  {
-    "name": "Ancient Chronicles Deluxe",
-    "genre": "Adventure",
-    "year": 2020
-  },
-  {
-    "name": "Wild Outlaws Origins",
-    "genre": "Sandbox",
-    "year": 2002
-  },
-  {
-    "name": "Lost Chronicles",
-    "genre": "RPG",
-    "year": 2003
-  },
-  {
-    "name": "Crimson Dynasty Remastered",
-    "genre": "RPG",
-    "year": 1994
-  },
-  {
-    "name": "Golden Rebellion Ultimate Edition",
-    "genre": "Action",
-    "year": 1990
-  },
-  {
-    "name": "Fallen Arena Reborn",
-    "genre": "FPS",
-    "year": 1992
-  },
-  {
-    "name": "Golden Chronicles Origins",
-    "genre": "RPG",
-    "year": 1994
-  },
-  {
-    "name": "Golden Voyage Ultimate Edition",
-    "genre": "Puzzle",
-    "year": 2025
-  },
-  {
-    "name": "Eternal Frontier Deluxe",
-    "genre": "Puzzle",
-    "year": 1993
-  },
-  {
-    "name": "Forgotten Rebellion Ultimate Edition",
-    "genre": "MMO",
-    "year": 2010
-  },
-  {
-    "name": "Ancient Odyssey IV",
-    "genre": "Action",
-    "year": 1985
-  },
-  {
-    "name": "Dark Expedition",
-    "genre": "Racing",
-    "year": 2000
-  },
-  {
-    "name": "Ancient Quest Ultimate Edition",
+    "name": "Dragon Realms Reborn",
     "genre": "Strategy",
-    "year": 2002
+    "year": 2019
   },
   {
-    "name": "Burning Guardians Remastered",
-    "genre": "Platformer",
-    "year": 2012
-  },
-  {
-    "name": "Radiant Arena Remastered",
-    "genre": "Racing",
+    "name": "Cyber Runner III",
+    "genre": "Strategy",
     "year": 2021
   },
   {
-    "name": "Eternal Odyssey Deluxe",
-    "genre": "Simulation",
-    "year": 1988
+    "name": "Dragon Realms II",
+    "genre": "FPS",
+    "year": 1996
   },
   {
-    "name": "Rising Outlaws Reborn",
-    "genre": "Sandbox",
-    "year": 2002
+    "name": "Dragon Realms",
+    "genre": "Strategy",
+    "year": 2010
   },
   {
-    "name": "Radiant Saga Deluxe",
-    "genre": "Puzzle",
+    "name": "Mystic Odyssey III",
+    "genre": "Strategy",
+    "year": 2017
+  },
+  {
+    "name": "Titan Assault",
+    "genre": "RPG",
+    "year": 2005
+  },
+  {
+    "name": "Dragon Realms Chronicles",
+    "genre": "FPS",
+    "year": 2021
+  },
+  {
+    "name": "Dragon Realms Origins",
+    "genre": "Strategy",
     "year": 1998
   },
   {
-    "name": "Wild Guardians Remastered",
-    "genre": "Survival",
+    "name": "Dragon Realms IV",
+    "genre": "Puzzle",
+    "year": 2019
+  },
+  {
+    "name": "Star Quest Reborn",
+    "genre": "Sandbox",
+    "year": 2009
+  },
+  {
+    "name": "Dragon Realms III",
+    "genre": "Sandbox",
+    "year": 2007
+  },
+  {
+    "name": "Crystal Kingdom III",
+    "genre": "Roguelike",
+    "year": 2004
+  },
+  {
+    "name": "Void Explorer IV",
+    "genre": "RPG",
+    "year": 2019
+  },
+  {
+    "name": "Titan Assault Origins",
+    "genre": "Puzzle",
+    "year": 2017
+  },
+  {
+    "name": "Titan Assault II",
+    "genre": "FPS",
+    "year": 2024
+  },
+  {
+    "name": "Void Explorer Origins",
+    "genre": "Strategy",
+    "year": 1997
+  },
+  {
+    "name": "Neon Racers Reborn",
+    "genre": "Platformer",
+    "year": 2019
+  },
+  {
+    "name": "Void Explorer II",
+    "genre": "Simulation",
+    "year": 2021
+  },
+  {
+    "name": "Titan Assault II",
+    "genre": "Sandbox",
+    "year": 2003
+  },
+  {
+    "name": "Mystic Odyssey II",
+    "genre": "Puzzle",
     "year": 2006
   },
   {
-    "name": "Rising Rebellion Reborn",
-    "genre": "Platformer",
-    "year": 1987
-  },
-  {
-    "name": "Neon Voyage IV",
-    "genre": "MMO",
-    "year": 2002
-  },
-  {
-    "name": "Rising Horizons Online",
-    "genre": "MMO",
-    "year": 1995
-  },
-  {
-    "name": "Iron Sanctuary",
-    "genre": "Platformer",
-    "year": 1993
-  },
-  {
-    "name": "Frozen Voyage II",
-    "genre": "Platformer",
-    "year": 2023
-  },
-  {
-    "name": "Iron Echoes",
+    "name": "Iron Command",
     "genre": "Platformer",
     "year": 2005
   },
   {
-    "name": "Fallen Echoes Reborn",
-    "genre": "Platformer",
-    "year": 2004
-  },
-  {
-    "name": "Burning Sanctuary Deluxe",
-    "genre": "Roguelike",
-    "year": 1997
-  },
-  {
-    "name": "Forgotten Saga Ultimate Edition",
-    "genre": "Strategy",
-    "year": 1994
-  },
-  {
-    "name": "Final Protocol Reborn",
-    "genre": "Platformer",
-    "year": 2020
-  },
-  {
-    "name": "Wild Frontier Reborn",
-    "genre": "Platformer",
-    "year": 2008
-  },
-  {
-    "name": "Final Horizons Deluxe",
+    "name": "Mystic Odyssey Origins",
     "genre": "RPG",
-    "year": 1986
-  },
-  {
-    "name": "Radiant Saga Online",
-    "genre": "Action",
     "year": 1995
   },
   {
-    "name": "Broken Chronicles Ultimate Edition",
-    "genre": "RPG",
-    "year": 2004
+    "name": "Titan Assault III",
+    "genre": "Adventure",
+    "year": 2006
   },
   {
-    "name": "Ancient Protocol Remastered",
-    "genre": "Survival",
+    "name": "Neon Racers",
+    "genre": "RPG",
     "year": 2021
   },
   {
-    "name": "Iron Rebellion Online",
-    "genre": "Platformer",
-    "year": 1994
+    "name": "Dragon Realms Reborn",
+    "genre": "Sandbox",
+    "year": 2023
   },
   {
-    "name": "Frozen Citadel",
-    "genre": "RPG",
-    "year": 2011
-  },
-  {
-    "name": "Final Legends Remastered",
-    "genre": "FPS",
-    "year": 1990
-  },
-  {
-    "name": "Hidden Odyssey",
-    "genre": "RPG",
-    "year": 2014
-  },
-  {
-    "name": "Radiant Citadel Reborn",
-    "genre": "Platformer",
+    "name": "Star Quest Chronicles",
+    "genre": "Sandbox",
     "year": 2006
   },
   {
-    "name": "Broken Horizons Ultimate Edition",
-    "genre": "Horror",
-    "year": 1993
+    "name": "Crystal Kingdom Origins",
+    "genre": "Platformer",
+    "year": 2010
   },
   {
-    "name": "Rising Protocol Online",
-    "genre": "Platformer",
+    "name": "Shadow Legends",
+    "genre": "Strategy",
+    "year": 2009
+  },
+  {
+    "name": "Iron Command Reborn",
+    "genre": "Action",
     "year": 2000
   },
   {
-    "name": "Wild Rebellion II",
+    "name": "Neon Racers Origins",
+    "genre": "Sandbox",
+    "year": 2002
+  },
+  {
+    "name": "Titan Assault Reborn",
+    "genre": "Sandbox",
+    "year": 2001
+  },
+  {
+    "name": "Iron Command III",
+    "genre": "Strategy",
+    "year": 2017
+  },
+  {
+    "name": "Dragon Realms Reborn",
+    "genre": "Platformer",
+    "year": 2018
+  },
+  {
+    "name": "Dragon Realms III",
+    "genre": "Adventure",
+    "year": 2002
+  },
+  {
+    "name": "Iron Command IV",
     "genre": "Action",
+    "year": 2017
+  },
+  {
+    "name": "Cyber Runner",
+    "genre": "Roguelike",
+    "year": 2023
+  },
+  {
+    "name": "Star Quest Chronicles",
+    "genre": "Strategy",
+    "year": 2022
+  },
+  {
+    "name": "Void Explorer Chronicles",
+    "genre": "Puzzle",
+    "year": 2020
+  },
+  {
+    "name": "Cyber Runner IV",
+    "genre": "Platformer",
     "year": 2007
   },
   {
-    "name": "Final Guardians Ultimate Edition",
-    "genre": "Action",
-    "year": 2006
+    "name": "Star Quest",
+    "genre": "Sandbox",
+    "year": 2025
   },
   {
-    "name": "Silent Echoes III",
+    "name": "Battle Arena",
+    "genre": "Action",
+    "year": 2000
+  },
+  {
+    "name": "Battle Arena Origins",
+    "genre": "Roguelike",
+    "year": 1995
+  },
+  {
+    "name": "Dragon Realms II",
+    "genre": "Simulation",
+    "year": 2003
+  },
+  {
+    "name": "Shadow Legends IV",
+    "genre": "RPG",
+    "year": 2018
+  },
+  {
+    "name": "Crystal Kingdom III",
+    "genre": "FPS",
+    "year": 2025
+  },
+  {
+    "name": "Titan Assault Reborn",
+    "genre": "Action",
+    "year": 1998
+  },
+  {
+    "name": "Crystal Kingdom III",
+    "genre": "Sandbox",
+    "year": 2002
+  },
+  {
+    "name": "Mystic Odyssey IV",
+    "genre": "Action",
+    "year": 2002
+  },
+  {
+    "name": "Galaxy Raiders II",
+    "genre": "Puzzle",
+    "year": 2005
+  },
+  {
+    "name": "Neon Racers III",
+    "genre": "Simulation",
+    "year": 2009
+  },
+  {
+    "name": "Iron Command Origins",
+    "genre": "Platformer",
+    "year": 2022
+  },
+  {
+    "name": "Shadow Legends Chronicles",
+    "genre": "Platformer",
+    "year": 2001
+  },
+  {
+    "name": "Void Explorer III",
+    "genre": "RPG",
+    "year": 2015
+  },
+  {
+    "name": "Mystic Odyssey Reborn",
     "genre": "Action",
     "year": 2011
   },
   {
-    "name": "Lost Empire Deluxe",
-    "genre": "Roguelike",
-    "year": 2017
-  },
-  {
-    "name": "Dark Arena Deluxe",
-    "genre": "Adventure",
-    "year": 2019
-  },
-  {
-    "name": "Crimson Empire IV",
-    "genre": "FPS",
-    "year": 1993
-  },
-  {
-    "name": "Hidden Voyage Ultimate Edition",
+    "name": "Neon Racers Reborn",
     "genre": "Platformer",
-    "year": 2016
+    "year": 2012
   },
   {
-    "name": "Fallen Citadel Ultimate Edition",
+    "name": "Mystic Odyssey IV",
+    "genre": "Strategy",
+    "year": 1999
+  },
+  {
+    "name": "Iron Command Chronicles",
+    "genre": "Roguelike",
+    "year": 1995
+  },
+  {
+    "name": "Void Explorer II",
     "genre": "RPG",
     "year": 2007
   },
   {
-    "name": "Fallen Horizons Reborn",
-    "genre": "Racing",
-    "year": 2002
-  },
-  {
-    "name": "Hidden Citadel Reborn",
-    "genre": "Roguelike",
-    "year": 1998
-  },
-  {
-    "name": "Ancient Chronicles Ultimate Edition",
-    "genre": "Action",
-    "year": 2016
-  },
-  {
-    "name": "Iron Arena III",
-    "genre": "Survival",
-    "year": 2013
-  },
-  {
-    "name": "Fallen Dynasty Online",
-    "genre": "FPS",
-    "year": 1992
-  },
-  {
-    "name": "Final Legends III",
-    "genre": "Strategy",
-    "year": 1994
-  },
-  {
-    "name": "Iron Guardians Reborn",
-    "genre": "Racing",
-    "year": 1990
-  },
-  {
-    "name": "Burning Horizons Remastered",
-    "genre": "Survival",
-    "year": 1997
-  },
-  {
-    "name": "Wild Expedition",
+    "name": "Galaxy Raiders IV",
     "genre": "Adventure",
-    "year": 2001
+    "year": 2010
   },
   {
-    "name": "Burning Rebellion Remastered",
-    "genre": "Puzzle",
-    "year": 2024
+    "name": "Cyber Runner",
+    "genre": "Action",
+    "year": 2003
   },
   {
-    "name": "Frozen Outlaws IV",
-    "genre": "MMO",
+    "name": "Star Quest IV",
+    "genre": "Platformer",
     "year": 2012
   },
   {
-    "name": "Golden Horizons Remastered",
+    "name": "Neon Racers III",
+    "genre": "Sandbox",
+    "year": 2002
+  },
+  {
+    "name": "Void Explorer II",
     "genre": "RPG",
     "year": 2022
   },
   {
-    "name": "Frozen Legends Ultimate Edition",
-    "genre": "Action",
-    "year": 2023
-  },
-  {
-    "name": "Ancient Rebellion Reborn",
-    "genre": "RPG",
-    "year": 1993
-  },
-  {
-    "name": "Golden Quest Online",
-    "genre": "Racing",
-    "year": 2023
-  },
-  {
-    "name": "Iron Citadel Ultimate Edition",
+    "name": "Crystal Kingdom Chronicles",
     "genre": "Strategy",
-    "year": 1994
+    "year": 2021
   },
   {
-    "name": "Broken Chronicles",
-    "genre": "Racing",
-    "year": 1985
-  },
-  {
-    "name": "Iron Protocol Online",
-    "genre": "Simulation",
-    "year": 1999
-  },
-  {
-    "name": "Neon Voyage Remastered",
+    "name": "Dragon Realms Origins",
     "genre": "Action",
-    "year": 2009
+    "year": 2003
   },
   {
-    "name": "Iron Chronicles II",
-    "genre": "Simulation",
-    "year": 2004
+    "name": "Titan Assault Origins",
+    "genre": "Roguelike",
+    "year": 2023
   },
   {
-    "name": "Ancient Citadel IV",
-    "genre": "Puzzle",
-    "year": 1998
+    "name": "Shadow Legends",
+    "genre": "Strategy",
+    "year": 2018
   },
   {
-    "name": "Golden Outlaws Remastered",
-    "genre": "MMO",
-    "year": 2009
-  },
-  {
-    "name": "Hidden Outlaws Ultimate Edition",
-    "genre": "Adventure",
-    "year": 2017
-  },
-  {
-    "name": "Ancient Outlaws",
-    "genre": "Adventure",
-    "year": 2016
-  },
-  {
-    "name": "Dark Citadel Remastered",
-    "genre": "Platformer",
-    "year": 2008
-  },
-  {
-    "name": "Broken Empire Origins",
-    "genre": "Horror",
-    "year": 2011
-  },
-  {
-    "name": "Eternal Horizons Origins",
-    "genre": "RPG",
+    "name": "Void Explorer",
+    "genre": "Action",
     "year": 2006
   },
   {
-    "name": "Forgotten Outlaws Deluxe",
-    "genre": "Adventure",
-    "year": 1994
-  },
-  {
-    "name": "Crimson Odyssey IV",
-    "genre": "Platformer",
-    "year": 2000
-  },
-  {
-    "name": "Dark Empire",
+    "name": "Mystic Odyssey Reborn",
     "genre": "FPS",
+    "year": 2008
+  },
+  {
+    "name": "Iron Command Chronicles",
+    "genre": "Platformer",
+    "year": 1998
+  },
+  {
+    "name": "Cyber Runner Reborn",
+    "genre": "Roguelike",
+    "year": 2010
+  },
+  {
+    "name": "Iron Command IV",
+    "genre": "RPG",
+    "year": 2021
+  },
+  {
+    "name": "Crystal Kingdom Chronicles",
+    "genre": "Roguelike",
+    "year": 2012
+  },
+  {
+    "name": "Neon Racers Origins",
+    "genre": "RPG",
+    "year": 1996
+  },
+  {
+    "name": "Cyber Runner Origins",
+    "genre": "RPG",
     "year": 2005
   },
   {
-    "name": "Fallen Expedition Remastered",
-    "genre": "Racing",
-    "year": 1985
+    "name": "Dragon Realms Reborn",
+    "genre": "Sandbox",
+    "year": 2023
   },
   {
-    "name": "Lost Frontier III",
+    "name": "Shadow Legends Origins",
+    "genre": "FPS",
+    "year": 2018
+  },
+  {
+    "name": "Shadow Legends",
+    "genre": "Platformer",
+    "year": 1996
+  },
+  {
+    "name": "Titan Assault II",
+    "genre": "Simulation",
+    "year": 2008
+  },
+  {
+    "name": "Shadow Legends",
+    "genre": "Roguelike",
+    "year": 1995
+  },
+  {
+    "name": "Star Quest Chronicles",
+    "genre": "Simulation",
+    "year": 2021
+  },
+  {
+    "name": "Neon Racers IV",
+    "genre": "Platformer",
+    "year": 2009
+  },
+  {
+    "name": "Galaxy Raiders II",
+    "genre": "Simulation",
+    "year": 2001
+  },
+  {
+    "name": "Void Explorer Reborn",
     "genre": "Sandbox",
+    "year": 1997
+  },
+  {
+    "name": "Void Explorer Reborn",
+    "genre": "Platformer",
+    "year": 2025
+  },
+  {
+    "name": "Iron Command Reborn",
+    "genre": "Strategy",
+    "year": 2017
+  },
+  {
+    "name": "Star Quest Chronicles",
+    "genre": "Adventure",
     "year": 2011
   },
   {
-    "name": "Iron Voyage III",
-    "genre": "Platformer",
-    "year": 2020
+    "name": "Dragon Realms II",
+    "genre": "Simulation",
+    "year": 2024
   },
   {
-    "name": "Burning Odyssey Origins",
+    "name": "Dragon Realms",
     "genre": "Action",
     "year": 2012
   },
   {
-    "name": "Hidden Chronicles Ultimate Edition",
-    "genre": "FPS",
-    "year": 2011
+    "name": "Cyber Runner Reborn",
+    "genre": "Platformer",
+    "year": 2019
   },
   {
-    "name": "Lost Arena",
+    "name": "Iron Command Reborn",
+    "genre": "Sandbox",
+    "year": 2009
+  },
+  {
+    "name": "Star Quest Chronicles",
+    "genre": "Platformer",
+    "year": 2017
+  },
+  {
+    "name": "Titan Assault",
+    "genre": "Roguelike",
+    "year": 2013
+  },
+  {
+    "name": "Battle Arena II",
+    "genre": "Action",
+    "year": 2022
+  },
+  {
+    "name": "Void Explorer Origins",
+    "genre": "Adventure",
+    "year": 2000
+  },
+  {
+    "name": "Mystic Odyssey Origins",
+    "genre": "Platformer",
+    "year": 2007
+  },
+  {
+    "name": "Shadow Legends Origins",
+    "genre": "Strategy",
+    "year": 2016
+  },
+  {
+    "name": "Iron Command II",
     "genre": "Puzzle",
-    "year": 2011
+    "year": 2019
   },
   {
-    "name": "Radiant Expedition Remastered",
+    "name": "Dragon Realms IV",
+    "genre": "Action",
+    "year": 2012
+  },
+  {
+    "name": "Shadow Legends",
+    "genre": "Adventure",
+    "year": 2017
+  },
+  {
+    "name": "Shadow Legends Chronicles",
+    "genre": "Sandbox",
+    "year": 2013
+  },
+  {
+    "name": "Neon Racers Chronicles",
+    "genre": "Sandbox",
+    "year": 2007
+  },
+  {
+    "name": "Galaxy Raiders IV",
+    "genre": "Simulation",
+    "year": 2023
+  },
+  {
+    "name": "Battle Arena Chronicles",
+    "genre": "FPS",
+    "year": 2001
+  },
+  {
+    "name": "Battle Arena II",
+    "genre": "Roguelike",
+    "year": 2005
+  },
+  {
+    "name": "Shadow Legends IV",
+    "genre": "RPG",
+    "year": 2025
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "Adventure",
+    "year": 2018
+  },
+  {
+    "name": "Iron Command Origins",
+    "genre": "Strategy",
+    "year": 2002
+  },
+  {
+    "name": "Void Explorer Origins",
+    "genre": "Roguelike",
+    "year": 2016
+  },
+  {
+    "name": "Neon Racers Chronicles",
     "genre": "Sandbox",
     "year": 2002
   },
   {
-    "name": "Golden Sanctuary III",
+    "name": "Cyber Runner Chronicles",
+    "genre": "Adventure",
+    "year": 2002
+  },
+  {
+    "name": "Dragon Realms IV",
     "genre": "Strategy",
+    "year": 2016
+  },
+  {
+    "name": "Galaxy Raiders Reborn",
+    "genre": "Strategy",
+    "year": 2014
+  },
+  {
+    "name": "Neon Racers Chronicles",
+    "genre": "Platformer",
     "year": 2024
   },
   {
-    "name": "Fallen Outlaws Ultimate Edition",
-    "genre": "Survival",
-    "year": 2017
+    "name": "Battle Arena",
+    "genre": "Roguelike",
+    "year": 1998
   },
   {
-    "name": "Fallen Outlaws IV",
+    "name": "Star Quest IV",
+    "genre": "Adventure",
+    "year": 2015
+  },
+  {
+    "name": "Star Quest III",
+    "genre": "FPS",
+    "year": 2022
+  },
+  {
+    "name": "Galaxy Raiders Reborn",
     "genre": "Action",
-    "year": 2013
+    "year": 2018
   },
   {
-    "name": "Eternal Chronicles Ultimate Edition",
+    "name": "Cyber Runner Chronicles",
+    "genre": "Action",
+    "year": 2002
+  },
+  {
+    "name": "Crystal Kingdom II",
+    "genre": "Adventure",
+    "year": 2007
+  },
+  {
+    "name": "Titan Assault Reborn",
+    "genre": "Puzzle",
+    "year": 2000
+  },
+  {
+    "name": "Star Quest IV",
+    "genre": "FPS",
+    "year": 2016
+  },
+  {
+    "name": "Cyber Runner Chronicles",
+    "genre": "RPG",
+    "year": 2023
+  },
+  {
+    "name": "Iron Command Reborn",
+    "genre": "Action",
+    "year": 1999
+  },
+  {
+    "name": "Void Explorer Reborn",
+    "genre": "Action",
+    "year": 2023
+  },
+  {
+    "name": "Cyber Runner Reborn",
+    "genre": "Platformer",
+    "year": 2003
+  },
+  {
+    "name": "Dragon Realms II",
+    "genre": "FPS",
+    "year": 2004
+  },
+  {
+    "name": "Mystic Odyssey Origins",
+    "genre": "Strategy",
+    "year": 2012
+  },
+  {
+    "name": "Shadow Legends Origins",
+    "genre": "Action",
+    "year": 2022
+  },
+  {
+    "name": "Shadow Legends Origins",
     "genre": "Puzzle",
     "year": 2017
   },
   {
-    "name": "Burning Quest IV",
+    "name": "Shadow Legends III",
+    "genre": "Puzzle",
+    "year": 2023
+  },
+  {
+    "name": "Shadow Legends II",
+    "genre": "Roguelike",
+    "year": 2015
+  },
+  {
+    "name": "Mystic Odyssey Reborn",
+    "genre": "RPG",
+    "year": 1998
+  },
+  {
+    "name": "Titan Assault",
     "genre": "FPS",
+    "year": 2018
+  },
+  {
+    "name": "Shadow Legends II",
+    "genre": "Action",
+    "year": 2002
+  },
+  {
+    "name": "Star Quest II",
+    "genre": "FPS",
+    "year": 2010
+  },
+  {
+    "name": "Dragon Realms III",
+    "genre": "Sandbox",
+    "year": 2009
+  },
+  {
+    "name": "Shadow Legends Reborn",
+    "genre": "Strategy",
+    "year": 1996
+  },
+  {
+    "name": "Neon Racers IV",
+    "genre": "Action",
+    "year": 2022
+  },
+  {
+    "name": "Neon Racers II",
+    "genre": "RPG",
+    "year": 1996
+  },
+  {
+    "name": "Neon Racers III",
+    "genre": "Strategy",
+    "year": 2025
+  },
+  {
+    "name": "Neon Racers",
+    "genre": "Strategy",
+    "year": 1995
+  },
+  {
+    "name": "Dragon Realms Origins",
+    "genre": "Puzzle",
+    "year": 2008
+  },
+  {
+    "name": "Titan Assault Reborn",
+    "genre": "RPG",
+    "year": 2023
+  },
+  {
+    "name": "Crystal Kingdom",
+    "genre": "Adventure",
+    "year": 1996
+  },
+  {
+    "name": "Neon Racers III",
+    "genre": "Puzzle",
+    "year": 2003
+  },
+  {
+    "name": "Battle Arena",
+    "genre": "FPS",
+    "year": 2004
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Roguelike",
+    "year": 2003
+  },
+  {
+    "name": "Neon Racers II",
+    "genre": "Roguelike",
+    "year": 1997
+  },
+  {
+    "name": "Mystic Odyssey III",
+    "genre": "Strategy",
+    "year": 2009
+  },
+  {
+    "name": "Cyber Runner Chronicles",
+    "genre": "Adventure",
+    "year": 2022
+  },
+  {
+    "name": "Star Quest Reborn",
+    "genre": "Sandbox",
+    "year": 2014
+  },
+  {
+    "name": "Titan Assault",
+    "genre": "Sandbox",
+    "year": 2023
+  },
+  {
+    "name": "Star Quest Reborn",
+    "genre": "Platformer",
+    "year": 2001
+  },
+  {
+    "name": "Dragon Realms Origins",
+    "genre": "Platformer",
+    "year": 2019
+  },
+  {
+    "name": "Iron Command Reborn",
+    "genre": "Strategy",
+    "year": 2016
+  },
+  {
+    "name": "Neon Racers",
+    "genre": "Roguelike",
+    "year": 2020
+  },
+  {
+    "name": "Battle Arena Chronicles",
+    "genre": "RPG",
+    "year": 2017
+  },
+  {
+    "name": "Battle Arena Origins",
+    "genre": "Adventure",
+    "year": 2024
+  },
+  {
+    "name": "Battle Arena Chronicles",
+    "genre": "Roguelike",
+    "year": 2010
+  },
+  {
+    "name": "Mystic Odyssey Origins",
+    "genre": "Strategy",
+    "year": 2004
+  },
+  {
+    "name": "Mystic Odyssey IV",
+    "genre": "Roguelike",
+    "year": 2011
+  },
+  {
+    "name": "Crystal Kingdom III",
+    "genre": "Sandbox",
+    "year": 2011
+  },
+  {
+    "name": "Iron Command III",
+    "genre": "Sandbox",
+    "year": 2016
+  },
+  {
+    "name": "Dragon Realms",
+    "genre": "Action",
+    "year": 2011
+  },
+  {
+    "name": "Battle Arena III",
+    "genre": "Simulation",
+    "year": 2012
+  },
+  {
+    "name": "Shadow Legends",
+    "genre": "Puzzle",
+    "year": 2018
+  },
+  {
+    "name": "Void Explorer",
+    "genre": "Adventure",
+    "year": 2000
+  },
+  {
+    "name": "Mystic Odyssey III",
+    "genre": "Sandbox",
+    "year": 2016
+  },
+  {
+    "name": "Cyber Runner Reborn",
+    "genre": "Puzzle",
+    "year": 2021
+  },
+  {
+    "name": "Galaxy Raiders IV",
+    "genre": "RPG",
+    "year": 2005
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "Puzzle",
+    "year": 2007
+  },
+  {
+    "name": "Void Explorer II",
+    "genre": "Roguelike",
+    "year": 2009
+  },
+  {
+    "name": "Galaxy Raiders IV",
+    "genre": "Sandbox",
+    "year": 2024
+  },
+  {
+    "name": "Iron Command III",
+    "genre": "FPS",
+    "year": 2003
+  },
+  {
+    "name": "Shadow Legends Origins",
+    "genre": "Adventure",
+    "year": 2002
+  },
+  {
+    "name": "Titan Assault III",
+    "genre": "Strategy",
+    "year": 2014
+  },
+  {
+    "name": "Mystic Odyssey",
+    "genre": "RPG",
+    "year": 2009
+  },
+  {
+    "name": "Galaxy Raiders Origins",
+    "genre": "RPG",
+    "year": 2004
+  },
+  {
+    "name": "Void Explorer",
+    "genre": "Roguelike",
     "year": 2006
   },
   {
-    "name": "Frozen Empire III",
+    "name": "Crystal Kingdom II",
+    "genre": "RPG",
+    "year": 2018
+  },
+  {
+    "name": "Titan Assault Reborn",
+    "genre": "Strategy",
+    "year": 2013
+  },
+  {
+    "name": "Cyber Runner II",
     "genre": "RPG",
     "year": 2010
   },
   {
-    "name": "Eternal Empire Online",
-    "genre": "Sandbox",
-    "year": 2004
+    "name": "Shadow Legends Origins",
+    "genre": "Action",
+    "year": 2011
   },
   {
-    "name": "Radiant Quest Origins",
-    "genre": "Roguelike",
-    "year": 2000
+    "name": "Galaxy Raiders Reborn",
+    "genre": "Adventure",
+    "year": 2017
   },
   {
-    "name": "Frozen Expedition",
-    "genre": "MMO",
+    "name": "Galaxy Raiders",
+    "genre": "Action",
     "year": 2009
   },
   {
-    "name": "Lost Odyssey Deluxe",
-    "genre": "MMO",
-    "year": 2014
+    "name": "Shadow Legends Origins",
+    "genre": "Sandbox",
+    "year": 2025
   },
   {
-    "name": "Iron Odyssey II",
-    "genre": "Adventure",
-    "year": 1991
-  },
-  {
-    "name": "Fallen Legends III",
-    "genre": "Survival",
-    "year": 1999
-  },
-  {
-    "name": "Neon Quest Deluxe",
-    "genre": "Survival",
-    "year": 2021
-  },
-  {
-    "name": "Final Echoes Reborn",
-    "genre": "Survival",
-    "year": 2015
-  },
-  {
-    "name": "Crimson Arena III",
-    "genre": "Horror",
+    "name": "Shadow Legends IV",
+    "genre": "Action",
     "year": 1995
   },
   {
-    "name": "Eternal Outlaws Ultimate Edition",
-    "genre": "Horror",
-    "year": 2000
+    "name": "Iron Command III",
+    "genre": "RPG",
+    "year": 2019
   },
   {
-    "name": "Ancient Odyssey Online",
+    "name": "Void Explorer Origins",
+    "genre": "Adventure",
+    "year": 2008
+  },
+  {
+    "name": "Mystic Odyssey II",
+    "genre": "Platformer",
+    "year": 2009
+  },
+  {
+    "name": "Dragon Realms II",
+    "genre": "Puzzle",
+    "year": 2023
+  },
+  {
+    "name": "Iron Command IV",
+    "genre": "Adventure",
+    "year": 2010
+  },
+  {
+    "name": "Mystic Odyssey II",
+    "genre": "Platformer",
+    "year": 2017
+  },
+  {
+    "name": "Iron Command Chronicles",
+    "genre": "Action",
+    "year": 2005
+  },
+  {
+    "name": "Star Quest III",
+    "genre": "Sandbox",
+    "year": 2012
+  },
+  {
+    "name": "Void Explorer II",
+    "genre": "Roguelike",
+    "year": 2012
+  },
+  {
+    "name": "Iron Command Origins",
+    "genre": "RPG",
+    "year": 2008
+  },
+  {
+    "name": "Star Quest III",
+    "genre": "Adventure",
+    "year": 2002
+  },
+  {
+    "name": "Star Quest Chronicles",
+    "genre": "Strategy",
+    "year": 2020
+  },
+  {
+    "name": "Star Quest Origins",
+    "genre": "Puzzle",
+    "year": 2005
+  },
+  {
+    "name": "Neon Racers Chronicles",
+    "genre": "FPS",
+    "year": 1999
+  },
+  {
+    "name": "Shadow Legends",
+    "genre": "Sandbox",
+    "year": 2013
+  },
+  {
+    "name": "Mystic Odyssey II",
+    "genre": "Sandbox",
+    "year": 2016
+  },
+  {
+    "name": "Titan Assault Origins",
+    "genre": "Platformer",
+    "year": 2018
+  },
+  {
+    "name": "Galaxy Raiders Reborn",
+    "genre": "RPG",
+    "year": 2023
+  },
+  {
+    "name": "Titan Assault",
+    "genre": "Adventure",
+    "year": 2001
+  },
+  {
+    "name": "Star Quest Reborn",
+    "genre": "Roguelike",
+    "year": 2011
+  },
+  {
+    "name": "Cyber Runner Reborn",
+    "genre": "Action",
+    "year": 2015
+  },
+  {
+    "name": "Mystic Odyssey III",
+    "genre": "Strategy",
+    "year": 2024
+  },
+  {
+    "name": "Cyber Runner Origins",
+    "genre": "Adventure",
+    "year": 2016
+  },
+  {
+    "name": "Dragon Realms III",
+    "genre": "Platformer",
+    "year": 1995
+  },
+  {
+    "name": "Iron Command III",
+    "genre": "Action",
+    "year": 2011
+  },
+  {
+    "name": "Shadow Legends Reborn",
+    "genre": "Puzzle",
+    "year": 2025
+  },
+  {
+    "name": "Shadow Legends",
+    "genre": "RPG",
+    "year": 2010
+  },
+  {
+    "name": "Cyber Runner Reborn",
+    "genre": "Roguelike",
+    "year": 1995
+  },
+  {
+    "name": "Neon Racers Origins",
+    "genre": "Action",
+    "year": 2018
+  },
+  {
+    "name": "Star Quest Chronicles",
+    "genre": "Puzzle",
+    "year": 2020
+  },
+  {
+    "name": "Cyber Runner",
+    "genre": "RPG",
+    "year": 1996
+  },
+  {
+    "name": "Star Quest Origins",
+    "genre": "FPS",
+    "year": 2021
+  },
+  {
+    "name": "Galaxy Raiders Origins",
+    "genre": "Strategy",
+    "year": 2015
+  },
+  {
+    "name": "Galaxy Raiders III",
+    "genre": "Simulation",
+    "year": 1996
+  },
+  {
+    "name": "Mystic Odyssey",
+    "genre": "Roguelike",
+    "year": 2006
+  },
+  {
+    "name": "Mystic Odyssey Chronicles",
+    "genre": "Roguelike",
+    "year": 1995
+  },
+  {
+    "name": "Dragon Realms",
+    "genre": "Strategy",
+    "year": 1999
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "RPG",
+    "year": 2015
+  },
+  {
+    "name": "Iron Command Origins",
+    "genre": "Simulation",
+    "year": 2002
+  },
+  {
+    "name": "Mystic Odyssey Chronicles",
+    "genre": "Sandbox",
+    "year": 2021
+  },
+  {
+    "name": "Cyber Runner II",
+    "genre": "Platformer",
+    "year": 1996
+  },
+  {
+    "name": "Star Quest III",
+    "genre": "FPS",
+    "year": 1997
+  },
+  {
+    "name": "Iron Command III",
+    "genre": "Action",
+    "year": 1998
+  },
+  {
+    "name": "Star Quest III",
+    "genre": "Platformer",
+    "year": 2001
+  },
+  {
+    "name": "Iron Command IV",
+    "genre": "FPS",
+    "year": 2006
+  },
+  {
+    "name": "Galaxy Raiders IV",
+    "genre": "Roguelike",
+    "year": 2014
+  },
+  {
+    "name": "Shadow Legends III",
+    "genre": "RPG",
+    "year": 2008
+  },
+  {
+    "name": "Iron Command II",
+    "genre": "FPS",
+    "year": 1996
+  },
+  {
+    "name": "Titan Assault Reborn",
+    "genre": "Platformer",
+    "year": 1999
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "Action",
+    "year": 2012
+  },
+  {
+    "name": "Star Quest IV",
+    "genre": "Simulation",
+    "year": 2016
+  },
+  {
+    "name": "Star Quest Origins",
+    "genre": "Platformer",
+    "year": 1997
+  },
+  {
+    "name": "Neon Racers Chronicles",
+    "genre": "Action",
+    "year": 2015
+  },
+  {
+    "name": "Shadow Legends Origins",
+    "genre": "Puzzle",
+    "year": 2016
+  },
+  {
+    "name": "Void Explorer IV",
+    "genre": "Action",
+    "year": 1995
+  },
+  {
+    "name": "Galaxy Raiders IV",
+    "genre": "FPS",
+    "year": 2011
+  },
+  {
+    "name": "Iron Command Chronicles",
+    "genre": "Puzzle",
+    "year": 2002
+  },
+  {
+    "name": "Galaxy Raiders",
+    "genre": "FPS",
+    "year": 2010
+  },
+  {
+    "name": "Crystal Kingdom",
+    "genre": "Platformer",
+    "year": 2002
+  },
+  {
+    "name": "Battle Arena Chronicles",
+    "genre": "Adventure",
+    "year": 2018
+  },
+  {
+    "name": "Mystic Odyssey Chronicles",
+    "genre": "Strategy",
+    "year": 2015
+  },
+  {
+    "name": "Void Explorer Origins",
+    "genre": "Puzzle",
+    "year": 2014
+  },
+  {
+    "name": "Void Explorer Origins",
+    "genre": "Sandbox",
+    "year": 2013
+  },
+  {
+    "name": "Iron Command IV",
+    "genre": "Action",
+    "year": 2011
+  },
+  {
+    "name": "Star Quest IV",
+    "genre": "Simulation",
+    "year": 2017
+  },
+  {
+    "name": "Shadow Legends Origins",
+    "genre": "Puzzle",
+    "year": 2005
+  },
+  {
+    "name": "Battle Arena",
+    "genre": "Simulation",
+    "year": 2005
+  },
+  {
+    "name": "Void Explorer IV",
+    "genre": "RPG",
+    "year": 2006
+  },
+  {
+    "name": "Cyber Runner III",
     "genre": "Adventure",
     "year": 1997
   },
   {
-    "name": "Wild Quest Reborn",
-    "genre": "Survival",
-    "year": 1988
+    "name": "Shadow Legends Reborn",
+    "genre": "Puzzle",
+    "year": 1999
   },
   {
-    "name": "Golden Chronicles Ultimate Edition",
-    "genre": "Strategy",
-    "year": 2011
-  },
-  {
-    "name": "Hidden Empire Online",
-    "genre": "Adventure",
+    "name": "Iron Command",
+    "genre": "Roguelike",
     "year": 2015
   },
   {
-    "name": "Rising Rebellion Ultimate Edition",
+    "name": "Dragon Realms Chronicles",
+    "genre": "RPG",
+    "year": 1999
+  },
+  {
+    "name": "Neon Racers",
+    "genre": "FPS",
+    "year": 2012
+  },
+  {
+    "name": "Void Explorer III",
+    "genre": "Adventure",
+    "year": 2010
+  },
+  {
+    "name": "Mystic Odyssey Chronicles",
+    "genre": "FPS",
+    "year": 2002
+  },
+  {
+    "name": "Battle Arena II",
+    "genre": "RPG",
+    "year": 2005
+  },
+  {
+    "name": "Dragon Realms",
+    "genre": "Platformer",
+    "year": 2018
+  },
+  {
+    "name": "Mystic Odyssey III",
+    "genre": "Strategy",
+    "year": 2014
+  },
+  {
+    "name": "Neon Racers II",
+    "genre": "Strategy",
+    "year": 2007
+  },
+  {
+    "name": "Crystal Kingdom",
+    "genre": "Platformer",
+    "year": 2025
+  },
+  {
+    "name": "Battle Arena Reborn",
+    "genre": "Adventure",
+    "year": 2017
+  },
+  {
+    "name": "Mystic Odyssey III",
+    "genre": "Simulation",
+    "year": 2008
+  },
+  {
+    "name": "Void Explorer Chronicles",
+    "genre": "Action",
+    "year": 2015
+  },
+  {
+    "name": "Mystic Odyssey III",
     "genre": "Roguelike",
+    "year": 1999
+  },
+  {
+    "name": "Mystic Odyssey II",
+    "genre": "Roguelike",
+    "year": 2016
+  },
+  {
+    "name": "Crystal Kingdom",
+    "genre": "Sandbox",
+    "year": 2007
+  },
+  {
+    "name": "Void Explorer III",
+    "genre": "Adventure",
+    "year": 2022
+  },
+  {
+    "name": "Mystic Odyssey Chronicles",
+    "genre": "Roguelike",
+    "year": 2005
+  },
+  {
+    "name": "Neon Racers",
+    "genre": "Roguelike",
+    "year": 2009
+  },
+  {
+    "name": "Star Quest Chronicles",
+    "genre": "Puzzle",
+    "year": 2012
+  },
+  {
+    "name": "Neon Racers IV",
+    "genre": "Action",
+    "year": 1995
+  },
+  {
+    "name": "Galaxy Raiders Chronicles",
+    "genre": "Roguelike",
+    "year": 2018
+  },
+  {
+    "name": "Dragon Realms Chronicles",
+    "genre": "Adventure",
+    "year": 2005
+  },
+  {
+    "name": "Mystic Odyssey II",
+    "genre": "RPG",
+    "year": 2020
+  },
+  {
+    "name": "Neon Racers II",
+    "genre": "Puzzle",
+    "year": 2011
+  },
+  {
+    "name": "Cyber Runner III",
+    "genre": "Puzzle",
+    "year": 2020
+  },
+  {
+    "name": "Crystal Kingdom Reborn",
+    "genre": "Roguelike",
+    "year": 1998
+  },
+  {
+    "name": "Star Quest Origins",
+    "genre": "Action",
+    "year": 2000
+  },
+  {
+    "name": "Void Explorer IV",
+    "genre": "Action",
+    "year": 2019
+  },
+  {
+    "name": "Iron Command Origins",
+    "genre": "Puzzle",
     "year": 2004
+  },
+  {
+    "name": "Star Quest Chronicles",
+    "genre": "Adventure",
+    "year": 2001
+  },
+  {
+    "name": "Star Quest II",
+    "genre": "Action",
+    "year": 2005
+  },
+  {
+    "name": "Battle Arena Origins",
+    "genre": "Adventure",
+    "year": 2009
+  },
+  {
+    "name": "Titan Assault",
+    "genre": "Sandbox",
+    "year": 1998
+  },
+  {
+    "name": "Iron Command II",
+    "genre": "Strategy",
+    "year": 2023
+  },
+  {
+    "name": "Neon Racers III",
+    "genre": "FPS",
+    "year": 2011
+  },
+  {
+    "name": "Shadow Legends",
+    "genre": "Adventure",
+    "year": 2019
+  },
+  {
+    "name": "Dragon Realms",
+    "genre": "RPG",
+    "year": 2005
+  },
+  {
+    "name": "Dragon Realms II",
+    "genre": "Simulation",
+    "year": 1995
+  },
+  {
+    "name": "Battle Arena",
+    "genre": "Strategy",
+    "year": 2008
+  },
+  {
+    "name": "Crystal Kingdom Origins",
+    "genre": "Simulation",
+    "year": 2009
+  },
+  {
+    "name": "Crystal Kingdom Origins",
+    "genre": "Sandbox",
+    "year": 1996
+  },
+  {
+    "name": "Titan Assault IV",
+    "genre": "Sandbox",
+    "year": 2007
+  },
+  {
+    "name": "Battle Arena II",
+    "genre": "Action",
+    "year": 1995
+  },
+  {
+    "name": "Shadow Legends IV",
+    "genre": "Sandbox",
+    "year": 1997
+  },
+  {
+    "name": "Iron Command II",
+    "genre": "FPS",
+    "year": 2010
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "Platformer",
+    "year": 2002
+  },
+  {
+    "name": "Crystal Kingdom IV",
+    "genre": "Roguelike",
+    "year": 2008
+  },
+  {
+    "name": "Cyber Runner II",
+    "genre": "Roguelike",
+    "year": 2009
+  },
+  {
+    "name": "Dragon Realms II",
+    "genre": "Strategy",
+    "year": 2015
+  },
+  {
+    "name": "Star Quest IV",
+    "genre": "Puzzle",
+    "year": 1995
+  },
+  {
+    "name": "Galaxy Raiders III",
+    "genre": "Roguelike",
+    "year": 2020
+  },
+  {
+    "name": "Void Explorer IV",
+    "genre": "Strategy",
+    "year": 2015
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Simulation",
+    "year": 2018
+  },
+  {
+    "name": "Neon Racers",
+    "genre": "Sandbox",
+    "year": 2000
+  },
+  {
+    "name": "Titan Assault Chronicles",
+    "genre": "Platformer",
+    "year": 2021
+  },
+  {
+    "name": "Titan Assault",
+    "genre": "Adventure",
+    "year": 2012
+  },
+  {
+    "name": "Galaxy Raiders III",
+    "genre": "Puzzle",
+    "year": 2023
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "Sandbox",
+    "year": 2012
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Sandbox",
+    "year": 2005
+  },
+  {
+    "name": "Iron Command",
+    "genre": "Platformer",
+    "year": 1998
+  },
+  {
+    "name": "Dragon Realms",
+    "genre": "Action",
+    "year": 1995
+  },
+  {
+    "name": "Dragon Realms Origins",
+    "genre": "Adventure",
+    "year": 1997
+  },
+  {
+    "name": "Iron Command IV",
+    "genre": "Roguelike",
+    "year": 2025
+  },
+  {
+    "name": "Neon Racers",
+    "genre": "Platformer",
+    "year": 2003
+  },
+  {
+    "name": "Crystal Kingdom II",
+    "genre": "Action",
+    "year": 1998
+  },
+  {
+    "name": "Shadow Legends Reborn",
+    "genre": "Simulation",
+    "year": 2006
+  },
+  {
+    "name": "Neon Racers III",
+    "genre": "RPG",
+    "year": 2005
+  },
+  {
+    "name": "Dragon Realms IV",
+    "genre": "Platformer",
+    "year": 1999
+  },
+  {
+    "name": "Dragon Realms III",
+    "genre": "Simulation",
+    "year": 1997
+  },
+  {
+    "name": "Galaxy Raiders",
+    "genre": "FPS",
+    "year": 2017
+  },
+  {
+    "name": "Titan Assault IV",
+    "genre": "Roguelike",
+    "year": 2025
+  },
+  {
+    "name": "Crystal Kingdom Chronicles",
+    "genre": "Simulation",
+    "year": 2016
+  },
+  {
+    "name": "Neon Racers Chronicles",
+    "genre": "Sandbox",
+    "year": 2013
+  },
+  {
+    "name": "Galaxy Raiders",
+    "genre": "Strategy",
+    "year": 2020
+  },
+  {
+    "name": "Battle Arena IV",
+    "genre": "Simulation",
+    "year": 2000
+  },
+  {
+    "name": "Titan Assault II",
+    "genre": "Roguelike",
+    "year": 2024
+  },
+  {
+    "name": "Mystic Odyssey II",
+    "genre": "Roguelike",
+    "year": 2006
+  },
+  {
+    "name": "Cyber Runner II",
+    "genre": "Sandbox",
+    "year": 2022
   }
 ]
