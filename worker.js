@@ -34,7 +34,7 @@ async function search(request, env) {
                 query: q,
                 type: "bool_prefix",
                 fields: ["name", "name._2gram", "name._3gram"],
-                boost: 3,
+                boost: 5,
               },
             },
             {
@@ -42,10 +42,12 @@ async function search(request, env) {
                 name: {
                   query: q,
                   fuzziness: "AUTO",
+                  boost: 1,
                 },
               },
             },
           ],
+          minimum_should_match: 1,
         },
       },
     }),
