@@ -34,6 +34,7 @@ async function search(request, env) {
                 query: q,
                 type: "bool_prefix",
                 fields: ["name", "name._2gram", "name._3gram"],
+                boost: 3,
               },
             },
             {
