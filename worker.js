@@ -14,7 +14,7 @@ async function search(request, env) {
   const url = new URL(request.url);
   const q = url.searchParams.get("q");
 
-  if (!q) return Response.json([]);
+  if (!q || q.length < 2) return Response.json([]);
 
   const auth = btoa(`${env.ES_USER}:${env.ES_PASS}`);
 
@@ -27,11 +27,24 @@ async function search(request, env) {
     body: JSON.stringify({
       size: 5,
       query: {
-        match: {
-          name: {
-            query: q,
-            fuzziness: "AUTO",
-          },
+        bool: {
+          should: [
+            {
+              multi_match: {
+                query: q,
+                type: "bool_prefix",
+                fields: ["name", "name._2gram", "name._3gram"],
+              },
+            },
+            {
+              match: {
+                name: {
+                  query: q,
+                  fuzziness: "AUTO",
+                },
+              },
+            },
+          ],
         },
       },
     }),
