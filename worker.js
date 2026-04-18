@@ -27,27 +27,10 @@ async function search(request, env) {
     body: JSON.stringify({
       size: 5,
       query: {
-        bool: {
-          should: [
-            {
-              multi_match: {
-                query: q,
-                type: "bool_prefix",
-                fields: ["name", "name._2gram", "name._3gram"],
-                boost: 5,
-              },
-            },
-            {
-              match: {
-                name: {
-                  query: q,
-                  fuzziness: "AUTO",
-                  boost: 1,
-                },
-              },
-            },
-          ],
-          minimum_should_match: 1,
+        multi_match: {
+          query: q,
+          type: "bool_prefix",
+          fields: ["name", "name._2gram", "name._3gram"],
         },
       },
     }),
