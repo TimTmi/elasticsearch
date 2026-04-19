@@ -25,26 +25,12 @@ async function search(request, env) {
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      "size": 13,
+      "size": 5,
       "query": {
-        "bool": {
-          "should": [
-            {
-              "prefix": {
-                "name": {
-                  "value": "q",
-                  "boost": 5
-                }
-              }
-            },
-            {
-              "multi_match": {
-                "query": "q",
-                "type": "bool_prefix",
-                "fields": ["name^2", "name._2gram", "name._3gram"]
-              }
-            }
-          ]
+        "multi_match": {
+          "query": q,
+          "type": "bool_prefix",
+          "fields": ["name^3", "name._2gram^2", "name._3gram"]
         }
       }
     }),

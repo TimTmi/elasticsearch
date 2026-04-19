@@ -60,36 +60,23 @@ Bao gồm:
 
 ```json
 {
-  "size": 13,
+  "size": 5,
   "query": {
-    "bool": {
-      "should": [
-        {
-          "prefix": {
-            "name": {
-              "value": "q",
-              "boost": 5
-            }
-          }
-        },
-        {
-          "multi_match": {
-            "query": "q",
-            "type": "bool_prefix",
-            "fields": ["name^2", "name._2gram", "name._3gram"]
-          }
-        }
-      ]
+    "multi_match": {
+      "query": q,
+      "type": "bool_prefix",
+      "fields": ["name^3", "name._2gram^2", "name._3gram"]
     }
   }
 }
 ```
 
-- Truy vấn autocomplete kết hợp prefix + bool_prefix
-- prefix được boost mạnh để ép hành vi typeahead chính xác theo tiền tố
-- bool_prefix dùng làm lớp fallback dựa trên ngram để bắt các trường hợp khớp một phần
-- không dùng fuzziness để giữ kết quả ổn định khi người dùng gõ nhanh
-- trả về tối đa 13 kết quả để render UI và tạo ghost text
+- Query dùng bool_prefix để tối ưu autocomplete theo token prefix cuối
+- Ranking ưu tiên:
+1. match trực tiếp trên field name (boost 3)
+2. match trên bigram/trigram từ search_as_you_type
+- Không dùng fuzzy matching để tránh lệch kết quả khi input ngắn
+- Thiết kế hướng UI typeahead, không phải full-text search semantic
 
 ---
 
