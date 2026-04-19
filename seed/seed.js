@@ -25,9 +25,40 @@ async function createIndex() {
     method: "PUT",
     headers,
     body: JSON.stringify({
+      settings: {
+        analysis: {
+          filter: {
+            edge_ngram_filter: {
+              type: "edge_ngram",
+              min_gram: 1,
+              max_gram: 20
+            }
+          },
+          analyzer: {
+            edge_ngram_analyzer: {
+              type: "custom",
+              tokenizer: "standard",
+              filter: ["lowercase", "edge_ngram_filter"]
+            }
+          }
+        }
+      },
       mappings: {
         properties: {
-          name: { type: "search_as_you_type" },
+          name: {
+            type: "text",
+            fields: {
+              edge: {
+                type: "text",
+                analyzer: "edge_ngram_analyzer",
+                search_analyzer: "standard"
+              },
+              keyword: {
+                type: "keyword",
+                ignore_above: 256
+              }
+            }
+          },
           genre: { type: "keyword" },
           year: { type: "integer" },
         },
